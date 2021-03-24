@@ -30,7 +30,14 @@ $('#search').keyup(function () {
 
 				if (val.skills && val.skills.length > 0 && val.skills[0] !== "") {
 					output += '<h4>' + 'Skill(s) Covered' + '</h4>';
-					output += '<p style="font-size: 0.85em;">' + val.skills.join(", ") + '<style="font-size: 1em;" /p>';
+					var skillsStr = val.skills.join(", ");
+					// output += '<p style="font-size: 0.85em;">' + val.skills.join(", ") + '<style="font-size: 1em;" /p>';
+					if (skillsStr.length <= 90) {
+						output += '<p>' + skillsStr + '</p>';
+					}
+					else {
+						output += '<p style="font-size: 0.85em;">' + skillsStr + '<style="font-size: 1em;" /p>';
+					}
 				}	// skills exist
 				
 				if (val.certs && val.certs.length > 0 && val.certs[0] !== "") {
