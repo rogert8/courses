@@ -30,7 +30,7 @@ $('#search').keyup(function () {
 
 				if (val.skills && val.skills.length > 0 && val.skills[0] !== "") {
 					output += '<h4>' + 'Skill(s) Covered' + '</h4>';
-					output += '<p>' + val.skills.join(", ") + '</p>';
+					output += '<p style="font-size: 0.85em;">' + val.skills.join(", ") + '<style="font-size: 1em;" /p>';
 				}	// skills exist
 				
 				if (val.certs && val.certs.length > 0 && val.certs[0] !== "") {

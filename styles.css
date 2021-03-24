@@ -39,8 +39,9 @@ body {
 
 #update {
 	font-family: Georgia, "Times New Roman", Times, serif;
-	width: 85%;
+	width: 84%;
 	margin: 0 auto;
+	/* margin: 0 7%; */
 	border-top: 1px dotted #CCC;
 }
 
@@ -57,7 +58,7 @@ body {
 	background: rgb(238, 239, 240);
 	padding-bottom: 10px;
 	/* height: 110px; */
-	height: 160px;
+	height: 165px;
 	overflow: hidden;
 	border-bottom: 1px dotted #CCC;
 
