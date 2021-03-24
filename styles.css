@@ -58,7 +58,7 @@ body {
 	background: rgb(238, 239, 240);
 	padding-bottom: 10px;
 	/* height: 110px; */
-	height: 165px;
+	height: 168px;
 	overflow: hidden;
 	border-bottom: 1px dotted #CCC;
 
@@ -80,7 +80,7 @@ body {
 	/* background: #bed5ff; */
 	/* background: #d1e0fc; */
 	background: #dce6f8;
-	min-height: 165px;
+	min-height: 168px;
 	/* height: 250px; */
 	height: 945px;
 	overflow: visible;
