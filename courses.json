@@ -1,5 +1,31 @@
 [
   {
+    "index": 52,
+    "title": "Learning Node.js",
+    "instructor": "Alex Zanfir",
+    "date_completed": "2021-03-25",
+    "date": {
+      "$date": "2021-03-25T19:00:00.000Z"
+    },
+    "synopsis": "Node.js is a platform built on the Chrome JavaScript runtime that can help you build fast, scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient—perfect for data-intensive real-time applications that run across distributed devices. In this course, learn the basics of Node.js, and discover how to build a simple application. Alexander Zanfir goes into topics such as npm, reading and writing files, and Node.js frameworks. He covers Node.js features, such as async/await, and dives into popular web development concepts. Alexander also walks through how to build a demo chat app from start to finish.",
+    "objectives": [
+      "Asynchronous tasks and callbacks",
+      "Benefits and features of JavaScript",
+      "Managing third-party packages with npm",
+      "Node.js frameworks",
+      "Static serving with Express",
+      "Creating a browser app",
+      "Exploring databases",
+      "Saving data to MongoDB with Mongoose",
+      "Error handling and debugging",
+      "Simple tests and async tests"
+    ],
+    "skills": ["Front-end Development", "Node.js", "Back-End Web Development"],
+    "comments": "A great course!<br />I'd used Node.js a little, taking the <i>Polyglot Web Development</i> course here. This got much deeper into things, also explaining <i>npm></i> (originally short for Node Package Manager) and <i>package.json</i> files.<br />As in the Polyglot... course, we used the <i>Express Server.</i> We also used <i>Mongoose</i> here, to connect to a MongoDB database.<br />The instructor had us create a free (Atlas) MongoDB Cloud account. That was cool, as I also put one of my local MongoDB databases up there, to use in the future for programming learning/experimenting.<br />We made API endpoints and used them to create a simple chat app, storing the messages in a MongoDB database (for persistence), and used <i>Socket.IO</i> for two-way communication, to \"push\" the messages back.<br />We then used <i>Jasmine</i> to create testing scripts to test our API, and and finished with an intro to test-first/test-driven development.",
+    "url": "https://www.linkedin.com/learning/learning-node-js-2017",
+    "certs": ["CertificateOfCompletion_Learning Node.js_LI.pdf"]
+  },
+  {
     "index": 51,
     "title": "Learning REST APIs",
     "instructor": "Morten Rand-Hendriksen",
