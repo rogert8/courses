@@ -23,7 +23,7 @@
     "skills": ["Front-end Development", "Node.js", "Back-End Web Development"],
     "comments": "A great course!<br />I'd used Node.js a little, taking the <i>Polyglot Web Development</i> course here. This got much deeper into things, also explaining <i>npm></i> (originally short for Node Package Manager) and <i>package.json</i> files.<br />As in the Polyglot... course, we used the <i>Express Server.</i> We also used <i>Mongoose</i> here, to connect to a MongoDB database.<br />The instructor had us create a free (Atlas) MongoDB Cloud account. That was cool, as I also put one of my local MongoDB databases up there, to use in the future for programming learning/experimenting.<br />We made API endpoints and used them to create a simple chat app, storing the messages in a MongoDB database (for persistence), and used <i>Socket.IO</i> for two-way communication, to \"push\" the messages back.<br />We then used <i>Jasmine</i> to create testing scripts to test our API, and and finished with an intro to test-first/test-driven development.",
     "url": "https://www.linkedin.com/learning/learning-node-js-2017",
-    "certs": ["CertificateOfCompletion_Learning Node.js_LI.pdf"]
+    "certs": ["CertificateOfCompletion_Learning Nodejs_LI.pdf"]
   },
   {
     "index": 51,
