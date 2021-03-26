@@ -5,6 +5,17 @@ body {
 	background: #05549e;	/* #DAD7C7 */
 }
 
+#desc {
+	background: #dce6f8;
+	padding: 5px;
+	width: 90%;
+	margin: 0 auto;
+	margin-bottom: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
 #searcharea {
 	margin: 0 auto;
 	text-align: center;
@@ -58,7 +69,7 @@ body {
 	background: rgb(238, 239, 240);
 	padding-bottom: 10px;
 	/* height: 110px; */
-	height: 168px;
+	height: 165px;
 	overflow: hidden;
 	border-bottom: 1px dotted #CCC;
 
@@ -80,7 +91,7 @@ body {
 	/* background: #bed5ff; */
 	/* background: #d1e0fc; */
 	background: #dce6f8;
-	min-height: 168px;
+	min-height: 165px;
 	/* height: 250px; */
 	height: 945px;
 	overflow: visible;
