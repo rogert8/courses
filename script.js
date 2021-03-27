@@ -36,7 +36,7 @@ $('#search').keyup(function () {
 						output += '<p>' + skillsStr + '</p>';
 					}
 					else {
-						output += '<p style="font-size: 0.85em;">' + skillsStr + '<style="font-size: 1em;" /p>';
+						output += '<p style="font-size: 0.85em;">' + skillsStr + '<br /> <style="font-size: 1em;" /p>';
 					}
 				}	// skills exist
 				
