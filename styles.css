@@ -110,6 +110,23 @@ body {
 	color: #501313ce;
 }
 
+#update li:focus {
+	/* background: #FFFCE5; */
+	/* background: #b4ddf0; */
+	/* background: #dceff7; */
+	/* background: #bed5ff; */
+	/* background: #d1e0fc; */
+	background: #dce6f8;
+	min-height: 165px;
+	/* max-height: 980px; */
+	/* height: 250px; */
+	/* height: 945px; */
+	/* height: fit-content; */
+	height: auto;
+	overflow: visible;
+	/* overflow: hidden; */
+}
+
 #update h2 {
 	margin: 0;
 	padding: 0;
