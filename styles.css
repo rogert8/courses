@@ -93,7 +93,7 @@ body {
 	background: #dce6f8;
 	min-height: 165px;
 	/* height: 250px; */
- 	height: 945px;
+ 	height: auto;
 	overflow: visible;
 	/* overflow: hidden; */
 }
