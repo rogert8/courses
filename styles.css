@@ -94,6 +94,7 @@ body {
 	min-height: 165px;
 	/* height: 250px; */
 	height: 945px;
+	-moz-height: 980px;
 	overflow: visible;
 	/* overflow: hidden; */
 }
