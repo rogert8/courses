@@ -244,7 +244,7 @@
       "Containerization",
       "Docker Products"
     ],
-    "comments": "I did a mini-run on some more Docker, drilling in some more on Docker commands, Dockerfiles, etc.<br />We created a development environment Image with Python (Miniconda), pandas, seaborn, and Jupyter (along with data).<br />We then created Containers, exposing a port that could be connected through, and automatically running commands to open up a Jupyter notebook.",
+    "comments": "I did a mini-run on some more Docker, drilling in some more on Docker commands, Dockerfiles, etc.<br />We created a development environment Image with Python <i>(Miniconda), pandas, seaborn,</i> and <i>Jupyter</i> (along with data).<br />We then created Containers, exposing a port that could be connected through, and automatically running commands to open up a Jupyter notebook.",
     "url": "https://www.linkedin.com/learning/docker-for-data-scientists",
     "certs": ["CertificateOfCompletion_Docker for Data Scientists_LI.pdf"]
   },
