@@ -1,5 +1,34 @@
 [
   {
+    "index": 54,
+    "title": "Blockchain Basics",
+    "instructor": "Jonathan Reichental, Ph.D.",
+    "date_completed": "2021-03-27",
+    "date": [
+      {
+        "$date": "2021-03-27T05:37:00.000Z"
+      },
+      {
+        "$date": "2021-03-27T06:25:00.000Z"
+      }
+    ],
+    "synopsis": "We're on the precipice of a radical and disruptive new way of conducting all manner of transactions over the Internet. While still in its infancy, blockchain technology demands attention. In this introductory-level course, learn what blockchain is and what it might mean to you. Jonathan Reichental—named one of the world's top 100 CIOs in 2017—dives into blockchain technology from a conceptual perspective. The course is primarily non-technical by design, intended for those working in business leadership positions, data science, and IT management.<br /><br />Jonathan begins by describing some of the current challenges with the Internet, including existing risks and security problems such as identity management. Next, he describes how traditional online databases function, so that you have a basis for how the blockchain redesigns this function. He then describes how the blockchain becomes a potential solution for many of the existing limitations of online databases. Since the blockchain has its genesis in Bitcoin—the digital currency—he provides some background on that too. He also discusses how blockchain technology actually offers new capabilities beyond simply solving old problems. To wrap up the course, Jonathan shares steps you can take in your organization to understand the implications of the blockchain.",
+    "objectives": [
+      "Explain what Captcha does.",
+      "List the core benefits of a traditional database.",
+      "Assess whether Bitcoin requires any intermediaries in a transaction or not.",
+      "Explain why blockchain technology is useful beyond cryptocurrency.",
+      "Identify some ways to reduce the risk of blockchain innovation."
+    ],
+    "skills": ["Databases", "Big Data", "Blockchain"],
+    "comments": "As with the IoT (Internet of Things), which I also took a course here about, I wanted to find out what THIS was all about. And this is a good introduction for that.<br />This course covers how (a) Blockchain works, its advantages and disadvantages, and presents the possibilities (far more than just cryptocurrency transactions), obstacles, and risks.<br />And as this course was from a few years ago, some of the things mentioned have already come to pass, e.g., the recent purchase of a(n) NFT for a piece of digital art.",
+    "url": "https://www.linkedin.com/learning/blockchain-basics",
+    "certs": [
+      "CertificateOfCompletion_BlockchainBasics_LI.pdf",
+      "CertificateOfCompletion_BlockchainBasics_NASBA.pdf"
+    ]
+  },
+  {
     "index": 53,
     "title": "Designing RESTful APIs",
     "instructor": "Keith Casey",
