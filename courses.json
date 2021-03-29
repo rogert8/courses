@@ -1,5 +1,22 @@
 [
   {
+    "index": 55,
+    "title": "Learning Windows Subsystem for Linux",
+    "instructor": "Scott Simpson",
+    "date_completed": "2021-03-29",
+    "date": [
+      {
+        "$date": "2021-03-08T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Windows Subsystem for Linux (WSL) is an optional feature of Windows 10 that provides a Linux environment for developers inside of Windows. Rather than managing your own virtual machine or relying on a remote Linux machine for development, WSL provides a Linux kernel and enables users to install various distros within their Windows environment. In this course, get up to speed with the basics of WSL and explore common tasks and procedures for developing with Linux. Instructor Scott Simpson steps through how to work in the Linux environment, explaining how to use the shell, manage services within WSL, and define automated tasks that run at predefined times. Scott also covers ways to integrate WSL into your workflow, including how to install the Remote-WSL extension to use Visual Studio Code in WSL.",
+    "objectives": null,
+    "skills": ["IT Service Management", "Windows 10", "Linux"],
+    "comments": "OMG, what a wonderful course!<br />I started taking this instructor's Learning Bash Scripting course as a refresher, and he mentioned this course. I took a look, and saw that it covered using Visual Studio Code on Windows, with files on a WSL distribution.<br />We installed Windows Terminal, which offers tabs into PowerShell, the normal Windows Command Line, and WSL distro shells. We configured it to open to a default profile/shell, in my case to a Ubuntu 20.04 WSL instance.<br />Even though I have WSL version 2 installed, my distros were running in WSL 1 mode - we learned how to change them to running in WSL 2 mode.<br />WSL provides seamless file access between Windows and Linux environments, i.e., you have access to the files on both systems at the same time. So, for example, you can run Linux utilities, like awk and grep, etc. against the Windows filesystem.<br />The instructor had us install the install the Remote-WSL extension in Visual Studio Code - this gave us the ability to have a remote shell into the Linux environment, and create/edit and run scripts there, right from VS Code in Windows.<br />Now back to the Learning Bash Scripting course!",
+    "url": "https://www.linkedin.com/learning/learning-windows-subsystem-for-linux",
+    "certs": ["CertificateOfCompletion_LearningWindowsSubsystemForLinux_LI.pdf"]
+  },
+  {
     "index": 54,
     "title": "Blockchain Basics",
     "instructor": "Jonathan Reichental, Ph.D.",
