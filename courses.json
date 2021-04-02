@@ -1,5 +1,33 @@
 [
   {
+    "index": 56,
+    "title": "Learning Bash Scripting",
+    "instructor": "Scott Simpson",
+    "date_completed": "2021-04-02",
+    "date": [
+      {
+        "$date": "2021-04-02T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Bash, or the Bourne Again Shell, is a widely popular command-line interpreter for administration and programming tasks. But Bash is different than most scripting languages. That's why Scott Simpson spends some time in this course running you through the syntax—introducing variables, numbers, and control structures—so you can start writing scripts right away. He shows you how to wrap up multiline operations in one file, implement flow control, and interact with users to get input. Plus, he offers challenges along the way that allow you to put what you've learned to the test.",
+    "objectives": [
+      "What is Bash?",
+      "Understanding Bash script syntax",
+      "Creating a basic Bash script",
+      "Displaying text with \"echo\"",
+      "Working with numbers, strings, and arrays",
+      "Reading and writing text files",
+      "Working with loops",
+      "Using functions",
+      "Getting user input during execution",
+      "Ensuring a response"
+    ],
+    "skills": ["Bash", "Shell Scripting"],
+    "comments": "Another refresher...<br />I was reminded of some things that I had forgotten - exact syntax, etc. - and got back up to speed.<br />Getting my development system set up, as laid out in this instructor's <i>Learning Windows Subsystem for Linux</i> course here, really helped. I was able to use VS Code on Windows, and execute on a WSL instance of Ubuntu 20.04. This allowed me to use one big script file for each chapter, remarking out each prior lesson's section as I went along. I included comments as to what we were doing and why. And once I completed the course, since I was using WSL, it was trivial to copy the directory there where I saved my scripts over to Windows, since I like saving all of the work I do on these courses here in a central location on my Windows machine.<br />And along the way, I created some command aliases that I wanted on WSL, and also looked up some common/recommended ones online, adding them to my <i>.bashrc</i> file.",
+    "url": "https://www.linkedin.com/learning/learning-bash-scripting-2",
+    "certs": ["CertificateOfCompletion_LearningBashScripting_LI.pdf"]
+  },
+  {
     "index": 55,
     "title": "Learning Windows Subsystem for Linux",
     "instructor": "Scott Simpson",
