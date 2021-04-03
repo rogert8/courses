@@ -1,5 +1,32 @@
 [
   {
+    "index": 57,
+    "title": "MySQL Installation and Configuration",
+    "instructor": "Bill Weinman",
+    "date_completed": "2021-04-03",
+    "date": [
+      {
+        "$date": "2021-03-08T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Whether you're a developer, a database analyst, or just someone looking to manage data for their small business, having the ability to install and configure MySQL is a professional asset. In this course, join instructor Bill Weinman as he steps through how to install and configure MySQL on various platforms. Bill shows how to install MySQL on a Mac, as well as machines running Windows and Ubuntu Linux. He demonstrates how to create user accounts, assign database access privileges, and manage passwords. Plus, he goes over the different storage engine options in MySQL, including InnoDB.",
+    "objectives": [
+      "Installing MySQL on macOS, Windows, and Linux",
+      "Installing MySQL Workbench",
+      "Importing SQL data into MySQL",
+      "Creating user accounts",
+      "Managing roles",
+      "Implementing storage engines",
+      "Creating a new database"
+    ],
+    "skills": ["Database Management System (DBMS)", "MySQL"],
+    "comments": "I started taking this instructor's MySQL Essential Training course, and when we got to the part about importing the sample databases, he recommended this course, where he covers this process. (Another trip down a LinkedIn Learning rabbit hole...)<br />So I took a look,  and since I had already done the installation in another course, I zipped through that chapter.<br />I imported the data, and also learned about user accounts, access privileges and roles, and password expiration, which I hadn't before. So I set up some other users, so I wouldn't be logging in as root, as I had been.<br />We also learned about the different database engines available in MySQL.<br />Now back to the MySQL Essential Training course...",
+    "url": "https://www.linkedin.com/learning/mysql-installation-and-configuration",
+    "certs": [
+      "CertificateOfCompletion_MySQLInstallationAndConfiguration_LI.pdf"
+    ]
+  },
+  {
     "index": 56,
     "title": "Learning Bash Scripting",
     "instructor": "Scott Simpson",
