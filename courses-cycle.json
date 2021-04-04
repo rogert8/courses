@@ -1,0 +1,1270 @@
+{
+  "courses": [
+    {
+      "index": 57,
+      "title": "MySQL Installation and Configuration",
+      "instructor": "Bill Weinman",
+      "date_completed": "2021-04-03",
+      "date": [
+        {
+          "$date": "2021-03-08T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Whether you're a developer, a database analyst, or just someone looking to manage data for their small business, having the ability to install and configure MySQL is a professional asset. In this course, join instructor Bill Weinman as he steps through how to install and configure MySQL on various platforms. Bill shows how to install MySQL on a Mac, as well as machines running Windows and Ubuntu Linux. He demonstrates how to create user accounts, assign database access privileges, and manage passwords. Plus, he goes over the different storage engine options in MySQL, including InnoDB.",
+      "objectives": [
+        "Installing MySQL on macOS, Windows, and Linux",
+        "Installing MySQL Workbench",
+        "Importing SQL data into MySQL",
+        "Creating user accounts",
+        "Managing roles",
+        "Implementing storage engines",
+        "Creating a new database"
+      ],
+      "skills": ["Database Management System (DBMS)", "MySQL"],
+      "comments": "I started taking this instructor's <i>MySQL Essential Training</i> course, and when we got to the part about importing the sample databases, he recommended this course, where he covers that process. (Another trip down a LinkedIn Learning rabbit hole...)<br />So I took a look,  and since I had already done the installation in another course, I zipped through that chapter.<br />I imported the data, and also learned about user accounts, access privileges and roles, and password expiration, which I hadn't before. I created some other users, so I wouldn't be logging in as <i>root,</i> as I had been.<br />We also learned about the different database engines available in MySQL.<br />Now back to the <i>MySQL Essential Training</i> course...",
+      "url": "https://www.linkedin.com/learning/mysql-installation-and-configuration",
+      "certs": [
+        "CertificateOfCompletion_MySQLInstallationAndConfiguration_LI.pdf"
+      ]
+    },
+    {
+      "index": 56,
+      "title": "Learning Bash Scripting",
+      "instructor": "Scott Simpson",
+      "date_completed": "2021-04-02",
+      "date": [
+        {
+          "$date": "2021-04-02T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Bash, or the Bourne Again Shell, is a widely popular command-line interpreter for administration and programming tasks. But Bash is different than most scripting languages. That's why Scott Simpson spends some time in this course running you through the syntax—introducing variables, numbers, and control structures—so you can start writing scripts right away. He shows you how to wrap up multiline operations in one file, implement flow control, and interact with users to get input. Plus, he offers challenges along the way that allow you to put what you've learned to the test.",
+      "objectives": [
+        "What is Bash?",
+        "Understanding Bash script syntax",
+        "Creating a basic Bash script",
+        "Displaying text with \"echo\"",
+        "Working with numbers, strings, and arrays",
+        "Reading and writing text files",
+        "Working with loops",
+        "Using functions",
+        "Getting user input during execution",
+        "Ensuring a response"
+      ],
+      "skills": ["Bash", "Shell Scripting"],
+      "comments": "Another refresher...<br />I was reminded of some things that I had forgotten - exact syntax, etc. - and got back up to speed.<br />Getting my development system set up, as laid out in this instructor's <i>Learning Windows Subsystem for Linux</i> course here, really helped. I was able to use VS Code on Windows, and execute on a WSL instance of Ubuntu 20.04. This allowed me to use one big script file for each chapter, remarking out each prior lesson's section as I went along. I included comments as to what we were doing and why. And once I completed the course, since I was using WSL, it was trivial to copy the directory there where I saved my scripts over to Windows, since I like saving all of the work I do on these courses here in a central location on my Windows machine.<br />And along the way, I created some command aliases that I wanted on WSL, and also looked up some common/recommended ones online, adding them to my <i>.bashrc</i> file.",
+      "url": "https://www.linkedin.com/learning/learning-bash-scripting-2",
+      "certs": ["CertificateOfCompletion_LearningBashScripting_LI.pdf"]
+    },
+    {
+      "index": 55,
+      "title": "Learning Windows Subsystem for Linux",
+      "instructor": "Scott Simpson",
+      "date_completed": "2021-03-29",
+      "date": [
+        {
+          "$date": "2021-03-08T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Windows Subsystem for Linux (WSL) is an optional feature of Windows 10 that provides a Linux environment for developers inside of Windows. Rather than managing your own virtual machine or relying on a remote Linux machine for development, WSL provides a Linux kernel and enables users to install various distros within their Windows environment. In this course, get up to speed with the basics of WSL and explore common tasks and procedures for developing with Linux. Instructor Scott Simpson steps through how to work in the Linux environment, explaining how to use the shell, manage services within WSL, and define automated tasks that run at predefined times. Scott also covers ways to integrate WSL into your workflow, including how to install the Remote-WSL extension to use Visual Studio Code in WSL.",
+      "objectives": null,
+      "skills": ["IT Service Management", "Windows 10", "Linux"],
+      "comments": "OMG, what a wonderful course!<br />I started taking this instructor's Learning Bash Scripting course as a refresher, and he mentioned this course. I took a look, and saw that it covered using Visual Studio Code on Windows, with files on a WSL distribution.<br />We installed Windows Terminal, which offers tabs into PowerShell, the normal Windows Command Line, and WSL distro shells. We configured it to open to a default profile/shell, in my case to a Ubuntu 20.04 WSL instance.<br />Even though I have WSL version 2 installed, my distros were running in WSL 1 mode - we learned how to change them to running in WSL 2 mode.<br />WSL provides seamless file access between Windows and Linux environments, i.e., you have access to the files on both systems at the same time. So, for example, you can run Linux utilities, like awk and grep, etc. against the Windows filesystem.<br />The instructor had us install the Remote-WSL extension in Visual Studio Code - this gave us the ability to have a remote shell into the Linux environment, and create/edit and run scripts there, right from VS Code in Windows.<br />Now back to the Learning Bash Scripting course!",
+      "url": "https://www.linkedin.com/learning/learning-windows-subsystem-for-linux",
+      "certs": [
+        "CertificateOfCompletion_LearningWindowsSubsystemForLinux_LI.pdf"
+      ]
+    },
+    {
+      "index": 54,
+      "title": "Blockchain Basics",
+      "instructor": "Jonathan Reichental, Ph.D.",
+      "date_completed": "2021-03-27",
+      "date": [
+        {
+          "$date": "2021-03-27T05:37:00.000Z"
+        },
+        {
+          "$date": "2021-03-27T06:25:00.000Z"
+        }
+      ],
+      "synopsis": "We're on the precipice of a radical and disruptive new way of conducting all manner of transactions over the Internet. While still in its infancy, blockchain technology demands attention. In this introductory-level course, learn what blockchain is and what it might mean to you. Jonathan Reichental—named one of the world's top 100 CIOs in 2017—dives into blockchain technology from a conceptual perspective. The course is primarily non-technical by design, intended for those working in business leadership positions, data science, and IT management.<br /><br />Jonathan begins by describing some of the current challenges with the Internet, including existing risks and security problems such as identity management. Next, he describes how traditional online databases function, so that you have a basis for how the blockchain redesigns this function. He then describes how the blockchain becomes a potential solution for many of the existing limitations of online databases. Since the blockchain has its genesis in Bitcoin—the digital currency—he provides some background on that too. He also discusses how blockchain technology actually offers new capabilities beyond simply solving old problems. To wrap up the course, Jonathan shares steps you can take in your organization to understand the implications of the blockchain.",
+      "objectives": [
+        "Explain what Captcha does.",
+        "List the core benefits of a traditional database.",
+        "Assess whether Bitcoin requires any intermediaries in a transaction or not.",
+        "Explain why blockchain technology is useful beyond cryptocurrency.",
+        "Identify some ways to reduce the risk of blockchain innovation."
+      ],
+      "skills": ["Databases", "Big Data", "Blockchain"],
+      "comments": "As with the IoT (Internet of Things), which I also took a course here about, I wanted to find out what THIS was all about. And this is a good introduction for that.<br />This course covers how (a) Blockchain works, its advantages and disadvantages, and presents the possibilities (far more than just cryptocurrency transactions), obstacles, and risks.<br />And as this course was from a few years ago, some of the things mentioned have already come to pass, e.g., the recent purchase of a(n) NFT for a piece of digital art.",
+      "url": "https://www.linkedin.com/learning/blockchain-basics",
+      "certs": [
+        "CertificateOfCompletion_BlockchainBasics_LI.pdf",
+        "CertificateOfCompletion_BlockchainBasics_NASBA.pdf"
+      ]
+    },
+    {
+      "index": 53,
+      "title": "Designing RESTful APIs",
+      "instructor": "Keith Casey",
+      "date_completed": "2021-03-26",
+      "date": {
+        "$date": "2021-03-26T19:00:00.000Z"
+      },
+      "synopsis": "Having a solid understanding of how to correctly build APIs is important for any developer planning on creating websites. In this course, learn how to plan and model your own APIs, and explore the six REST design constraints that help guide your architecture. Keith Casey starts with a simple overview, including advice on identifying the users or \"participants\" of your system, and the activities they might perform with it. He discusses how to validate your design before you build it, and explores the HTTP concepts and REST constraints needed to build your API. To wrap up, Keith goes over some of the most common API design patterns you may encounter.",
+      "objectives": [
+        "Approaches to adding an API",
+        "Modeling tips",
+        "Identifying activities and breaking them into steps",
+        "Mapping activities to verbs and actions",
+        "Creating and grouping API methods",
+        "Validating your API",
+        "HTTP headers and response codes",
+        "Common design challenges",
+        "Versioning best practices",
+        "Hypermedia and documentation approaches"
+      ],
+      "skills": ["REST APIs", "RESTful architecture"],
+      "comments": "A LOT of good information in this course.<br />While it (necessarily) presented information (HTTP Response Codes and the six constraints for REST APIs) also covered in the Learning REST APIs course here that I recently completed, this course went deeper.<br />We spent more time on Headers, and a lot of time on the processes of planning and designing. We also got into versioning and documentation.<br />I think that the key takeaway for me was the need for constant INPUT.<br />And I was reminded again, that the more I learn, the more I find that I didn't know, and the more I need to learn...",
+      "url": "https://www.linkedin.com/learning/designing-restful-apis/",
+      "certs": ["CertificateOfCompletion_Designing RESTful APIs_LI.pdf"]
+    },
+    {
+      "index": 52,
+      "title": "Learning Node.js",
+      "instructor": "Alex Zanfir",
+      "date_completed": "2021-03-25",
+      "date": {
+        "$date": "2021-03-25T19:00:00.000Z"
+      },
+      "synopsis": "Node.js is a platform built on the Chrome JavaScript runtime that can help you build fast, scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient—perfect for data-intensive real-time applications that run across distributed devices. In this course, learn the basics of Node.js, and discover how to build a simple application. Alexander Zanfir goes into topics such as npm, reading and writing files, and Node.js frameworks. He covers Node.js features, such as async/await, and dives into popular web development concepts. Alexander also walks through how to build a demo chat app from start to finish.",
+      "objectives": [
+        "Asynchronous tasks and callbacks",
+        "Benefits and features of JavaScript",
+        "Managing third-party packages with npm",
+        "Node.js frameworks",
+        "Static serving with Express",
+        "Creating a browser app",
+        "Exploring databases",
+        "Saving data to MongoDB with Mongoose",
+        "Error handling and debugging",
+        "Simple tests and async tests"
+      ],
+      "skills": [
+        "Front-end Development",
+        "Node.js",
+        "Back-End Web Development"
+      ],
+      "comments": "A great course!<br />I'd used Node.js a little, taking the <i>Polyglot Web Development</i> course here. This got much deeper into things, also explaining <i>npm</i> (originally short for Node Package Manager) and <i>package.json</i> files.<br />As in the Polyglot... course, we used the <i>Express Server.</i> We also used <i>Mongoose</i> here, to connect to a MongoDB database.<br />The instructor had us create a free (Atlas) MongoDB Cloud account. That was cool, as I also put one of my local MongoDB databases up there, to use in the future for programming learning/experimenting.<br />We made API endpoints and used them to create a simple chat app, storing the messages in a MongoDB database (for persistence), and used <i>Socket.IO</i> for two-way communication, to \"push\" the messages back.<br />We then used <i>Jasmine</i> to create testing scripts to test our API, and and finished with an intro to test-first/test-driven development.",
+      "url": "https://www.linkedin.com/learning/learning-node-js-2017",
+      "certs": ["CertificateOfCompletion_Learning Nodejs_LI.pdf"]
+    },
+    {
+      "index": 51,
+      "title": "Learning REST APIs",
+      "instructor": "Morten Rand-Hendriksen",
+      "date_completed": "2021-03-19",
+      "date": {
+        "$date": "2021-03-19T00:00:00.000Z"
+      },
+      "synopsis": "Learn the basics of REST APIs. In this course, discover what REST APIs are, why they matter, and how putting them to use can help you build faster, more efficient applications. Review how HTTP and REST APIs relate, explore the six constraints of REST, and learn about HTTP status messages. Learn how to get started with consuming REST APIs to incorporate them into data-driven applications.",
+      "objectives": [
+        "What is a REST API?",
+        "Who or what interacts with REST APIs?",
+        "Anatomy of a REST request",
+        "HTTP status messages",
+        "Request/response pairs",
+        "GET, POST, and DELETE"
+      ],
+      "skills": [
+        "REST APIs",
+        "Front-end Development",
+        "Application Programming Interfaces",
+        "Back-End Web Development"
+      ],
+      "comments": "I've been using and writing Web APIs - this course gets into the nitty-gritty of what's going on with REST APIs, and how they work...",
+      "url": "https://www.linkedin.com/learning/learning-rest-apis",
+      "certs": ["CertificateOfCompletion_Learning REST APIs_LI.pdf"]
+    },
+    {
+      "index": 50,
+      "title": "Polyglot Web Development",
+      "instructor": "Kirsten Hunter",
+      "date_completed": "2021-03-19",
+      "date": {
+        "$date": "2021-03-19T00:00:00.000Z"
+      },
+      "synopsis": "Knowing multiple programming languages—and being able to pick up new ones quickly—makes you a more competitive and flexible web developer and freelancer. In this course, learn how to quickly pick up new web development languages and frameworks, including Node.js, Python, Perl, and Ruby. Discover the unique value each language brings, and how to build on what you already know. Plus, get hands-on practice with each language.",
+      "objectives": [
+        "Why become a polyglot programmer?",
+        "Exploring Node.js, Python, Perl, and Ruby code",
+        "Building on prior knowledge to learn new programming languages",
+        "Learning API read and write functionality in Node.js, Python, Perl, and Ruby",
+        "Implementing API functionality in Node.js, Python, Perl, and Ruby"
+      ],
+      "skills": [
+        "Python",
+        "MongoDB",
+        "Polyglot",
+        "Application Programming Interfaces",
+        "Node.js",
+        "Back-End Web Development",
+        "Perl",
+        "Ruby"
+      ],
+      "comments": "Excellent course, where we wrote Web APIs, pulling data from a MongoDB database, in Node.js, Python, Perl, and Ruby.<br />The instructor provided a Docker Container where everything was installed, and also provided direction to install the different platforms on our own OS.<br />So I did both - installed everything on Windows, and used the Container.<br />Wanting to have a consistent platform between the Container and my own installations, I decided to use the provided Dockerfile to build my own up-to-date Docker Image to create a Container from. Since things had changed from the time that the Dockerfile was created, I had a lot to figure out to make changes to build successfully.<br />The instructor also provided a Web page (HTML file) to have an interface which used the Web APIs to add, delete and update records from the MongoDB database. So I used this as a starting point, along with updating the Ruby code we ended up with, to modify that Web page to use with one of my own databases that I have in MongoDB.",
+      "url": "https://www.linkedin.com/learning/polyglot-web-development",
+      "certs": ["CertificateOfCompletion_Polyglot Web Development_LI.pdf"]
+    },
+    {
+      "index": 49,
+      "title": "Python: XML, JSON, and the Web",
+      "instructor": "Joe Marini",
+      "date_completed": "2021-03-12",
+      "synopsis": "Python is a powerful tool for working with data stored on web servers. In this course, Joe Marini demonstrates how to use Python to send, retrieve, and deliver web-based data to users. Learn how XML and JSON are used to store and exchange data, see how to use Python to retrieve XML and JSON data over the web, and find out how to parse that data using a range of different Python modules and features. Joe also shows how to fetch data from URLs and retrieve and send data via HTTP using the Python Requests library.",
+      "objectives": [
+        "Overview of XML and JSON",
+        "Retrieving and sending data over the internet",
+        "Handling errors",
+        "Using the Requests library to exchange data",
+        "Working with JSON data",
+        "Parsing XML data",
+        "XML DOM parsing"
+      ],
+      "skills": ["Python (Programming Language)"],
+      "comments": "Good course on using Python to exchange data over the Internet, and in processing the XML or JSON data returned.<br />We connected to a Web site that had endpoints for using/testing GET, POST, etc., commands.<br />I appreciated that we were provided with a Docker command to run a Container of the site, so that the site could be used locally (i.e., disconnected from the Internet.) So I created Containers that used Port 80 and another port that didn't conflict with my IIS or Apache. And I added to the code in the Exercise Files here, so that I could switch between the live Web site and either of the two Containers.<br />We used Python's <i>urllib</i> module and also a third-party library, <i>Requests.</i><br />We used the <i>json</i> module for working with JSON data, and the <i>xml.sax</i> API (Simple API for XML) for working with XML.<br />For XML DOM processing, we used <i>xml.dom.minidom,</i> and the ElementTree API (<i>etree</i>) in the <i>lxml</i> third-party library.<br />We used the <i>pip</i> tool (pip3) to install the Requests library and the lxml library (for its ElementTree API (etree)).",
+      "url": "https://www.linkedin.com/learning/python-xml-json-and-the-web",
+      "certs": ["CertificateOfCompletion_Python XML JSON and the Web_LI.pdf"]
+    },
+    {
+      "index": 48,
+      "title": "JavaScript and JSON: Integration Techniques",
+      "instructor": "Ray Villalobos",
+      "date_completed": "2021-03-08",
+      "date": {
+        "$date": "2021-03-08T19:19:00.000Z"
+      },
+      "synopsis": "JavaScript Object Notation (JSON) has replaced XML as the core way of sharing data, especially when it comes to JavaScript, since it's so much faster, sleeker, and easier to parse. In this course, dive into working with JSON tools, designing JSON objects, and using different ways to handling JSON data. Author Ray Villalobos also shows how to use AJAX and jQuery to parse your data and feeds, and shows JavaScript and JSON in action in a real-world practical application.",
+      "objectives": [
+        "What is JSON?",
+        "Creating simple data",
+        "Debugging JavaScript objects in the browser",
+        "Communicating across sites with JSONP",
+        "Rotating with jQuery Cycle"
+      ],
+      "skills": ["Front-end Development", "JavaScript", "JSON"],
+      "comments": "Another good course - a companion course to this instructor's JavaScript and AJAX: Integration Techniques course.<br /> We covered using online JSON validation tools, and debugging JavaScript objects in the browser.<br />We also covered looping through JavaScript objects and accessing objects in arrays, for processing after bringing the JSON file in as a JavaScript object.<br />We learned a cool workaround for accessing (online) JSON files, where a file from another domain can cause problems due to cross-domain policy (<a href=\"https://www.w3schools.com/js/js_json_jsonp.asp\" target=\"_blank\">JSONP</a>).<br />Finally, we finished up with a project that used the Mustache.js logicless template library, in conjunction with the jQuery Cycle library, along with CSS styling to polish it up.",
+      "url": "https://www.linkedin.com/learning/javascript-and-json-integration-techniques",
+      "certs": [
+        "CertificateOfCompletion_JavaScript and JSON Integration Techniques_LI.pdf"
+      ]
+    },
+    {
+      "index": 47,
+      "title": "JavaScript and AJAX: Integration Techniques",
+      "instructor": "Ray Villalobos",
+      "date_completed": "2021-03-06",
+      "synopsis": "The ability to read data and communicate information asynchronously is fundamental to modern web applications. In this course, author Ray Villalobos takes a look at integrating AJAX (Asynchronous JavaScript and XML) with JavaScript and jQuery—a combination that makes it easy to work with dynamic data and reduces the number of requests to the server. The course first explains what AJAX is, and shows how to load and reload pages with pure JavaScript, update the DOM, and read and parse data in the XML and JSON formats. Next, learn how to read and write information between the server and the client with AJAX methods in jQuery, and build a dynamic search application that updates search results as you type.",
+      "objectives": [
+        "What is AJAX?",
+        "Making requests asynchronous",
+        "Updating the DOM with getElementById",
+        "Reading JSON files",
+        "Working with jQuery and AJAX",
+        "Sending and searching JSON data",
+        "Incorporating CSS transitions"
+      ],
+      "skills": ["AJAX", "Front-end Development", "JavaScript"],
+      "comments": "Excellent course about creating dynamic Web pages using AJAX.<br />We fed data from plain text, XML and (mostly) JSON files to Web pages.<br />And we worked with jQuery, making the calls simpler.<br />We created a page with a live search (with the search results from JSON data narrowing as the user typed into a search box), finishing up with a lot of CSS to style the page and its elements, including animations and transitions.",
+      "url": "https://www.linkedin.com/learning/javascript-and-ajax-integration-techniques",
+      "certs": [
+        "CertificateOfCompletion_JavaScript and AJAX Integration Techniques_LI.pdf"
+      ]
+    },
+    {
+      "index": 46,
+      "title": "Advanced PHP: Debugging Techniques",
+      "instructor": "Jon Peck",
+      "date_completed": "2021-03-03",
+      "synopsis": "Debug your PHP code efficiently with a variety of client and server-side tools. In this concise course for experienced PHP developers, author Jon Peck demonstrates how to leverage PHP's built-in tools, as well as the Xdebug and Firebug extensions, and FirePHP libraries to improve the quality of your code and reduce troubleshooting overhead.<br /><br />This course covers installation of Xdebug on Apache as well as working with the NetBeans IDE (integrated development environment). Jon then introduces native web browser developer tools for Firefox and Chrome, and demonstrates browser independent web debugging tools. Best practices for debugging and profiling web application failures and performance issues are also covered.",
+      "objectives": [
+        "Configuring PHP error reporting",
+        "Logging errors to file",
+        "Gracefully handling fatal errors",
+        "Installing Xdebug",
+        "Understanding the principles of remote debugging",
+        "Remote debugging with NetBeans",
+        "Extending your browser with Firebug, FirePHP, or ChromePHP"
+      ],
+      "skills": ["Xdebug", "PHP", "Back-End Web Development"],
+      "comments": "This is a very informative and helpful course, but since it is dated (2012) parts of it took some work and digging to get through it (more on that in a bit...)<br />We configured PHP (in php.ini) to report errors, logged those errors to a file and sent in email, and learned how to gracefully handle them.<br />We installed and used Xdebug (in NetBeans) - displaying variables, used step-debugging, and set up profiling.<br />Xdebug was where some of my struggle occurred - the course was made with Xdebug 2, and Xdebug 3 is the current version, and what I used. Some of the functions used in the course were no longer available (not just deprecated, but non-existent). But I did eventually realize the version difference, and found this page: <a href=\"https://xdebug.org/docs/upgrade_guide\" target=\"_blank\">Upgrading from Xdebug 2 to 3</a>.<br />That helped me with the functions, and when I struggled for quite a while getting the step-debugging connecting, I noticed the part about the port changing between versions. Well, THAT explained it! And I got it going...<br />We also covered browser extensions for PHP debugging, and I found the one for Chrome, <i>ChromePHP,</i> the most (currently) useful.<br />And, once again, I set up the Exercise Files on Apache and IIS Web Servers in Windows.",
+      "url": "https://www.linkedin.com/learning/advanced-php-debugging-techniques",
+      "certs": [
+        "CertificateOfCompletion_Advanced PHP Debugging Techniques_LI.pdf"
+      ]
+    },
+    {
+      "index": 45,
+      "title": "Docker for Data Scientists",
+      "instructor": "Jonathan Fernandes",
+      "date_completed": "2021-02-25",
+      "synopsis": "In a field where reproducible results are essential, Docker is rapidly emerging as one of the top tools for bringing efficiency to the work that data science teams—particularly those working in machine learning (ML)—are doing. Creating and developing ML models is often messy. Seasoned data scientists know that different versions of the same software can produce different results. With Docker, you can include the right versions of each needed dependency and library, so no one ever has to do any configuration. After the Dockerfile is built, you'll have exactly what you need. In this course, Jonathan Fernandes helps data scientists get up and running with Docker, demonstrating how to build a Dockerized ML application that can easily be shared. Along the way, he shares common use cases for the tool. Upon wrapping up this course, you'll be prepared to leverage the power of containers in your other ML projects.",
+      "objectives": [
+        "Why Docker is gaining prominence",
+        "Running a container",
+        "Docker under the hood",
+        "Working with Dockerfiles",
+        "Uploading images to Docker Hub",
+        "Common use cases for Docker"
+      ],
+      "skills": [
+        "Python (Programming Language)",
+        "Machine Learning",
+        "Containerization",
+        "Docker Products"
+      ],
+      "comments": "I did a mini-run on some more Docker, drilling in some more on Docker commands, Dockerfiles, etc.<br />We created a development environment Image with Python <i>(Miniconda), pandas, seaborn,</i> and <i>Jupyter</i> (along with data).<br />We then created Containers, exposing a port that could be connected through, and automatically running commands to open up a Jupyter notebook.",
+      "url": "https://www.linkedin.com/learning/docker-for-data-scientists",
+      "certs": ["CertificateOfCompletion_Docker for Data Scientists_LI.pdf"]
+    },
+    {
+      "index": 44,
+      "title": "Docker for .NET Developers with Visual Studio",
+      "instructor": "Lee Brandt",
+      "date_completed": "2021-02-24",
+      "synopsis": " Docker—a popular software containerization platform—can streamline the development process by speeding up the setup and configuration of environments. If you're a .NET developer who wants to employ containers in your application environment, this course can help by demonstrating how to leverage Docker in your workflow. Instructor Lee Brandt begins by discussing the role of Docker in the container world, and then goes over basic concepts, including how to run a container from a Docker image, and how to list and remove containers. Lee then walks through a sample project to lend a real-world context to essential Docker tasks, including how to add a Dockerfile to a Visual Studio project, and how to build a Docker image from a Dockerfile. He wraps up the course by discussing how to work with the Docker Compose file format.",
+      "objectives": [
+        "Why containers?",
+        "How do containers compare to virtual machines?",
+        "Creating a Dockerfile",
+        "Building an image from a Dockerfile",
+        "Running a container from a new image",
+        "Working with the Docker Compose file format",
+        "Pushing images to Docker Hub"
+      ],
+      "skills": ["Docker Products", "Visual Studio"],
+      "comments": "We created an Image and Container from a (provided) Web API Solution, creating a Dockerfile and a Docker Compose file, and pushed the Image to Docker Hub.",
+      "url": "https://www.linkedin.com/learning/docker-for-dot-net-developers-with-visual-studio",
+      "certs": [
+        "CertificateOfCompletion_Docker for .NET Developers with Visual Studio_LI.pdf"
+      ]
+    },
+    {
+      "index": 43,
+      "title": "Learning PHP",
+      "instructor": "Joe Casabona",
+      "date_completed": "2021-02-23",
+      "synopsis": "PHP is still one most popular server-side languages used to build dynamic websites, powering everything from Facebook to Wikipedia. And although it is not especially difficult to use, nonprogrammers often find it intimidating. This introductory course was designed to change that by teaching you PHP through a series of clear, focused, and easy-to-follow lessons. After briefly explaining what PHP is, instructor Joe Casabona introduces the features of the language. He covers variables, control structures, calculations, loops, and functions, as well as includes and error handing, in a series of hands-on exercises. He then moves on to more advanced topics, including how to maintain state with sessions and cookies. Upon wrapping up this course, you'll have the skills you need to start developing and maintaining interactive websites using PHP.",
+      "objectives": null,
+      "skills": ["PHP", "Back-End Web Development"],
+      "comments": "We covered the usual things for learning a language, such as variables, arrays, loops, functions, and objects, etc.<br />We also covered including external files and troubleshooting.<br />A LOT of time was spent on Forms - the form elements, validating for required fields, and validating and sanitizing the input.<br />We also sent email of the inputted data - Since I don't have an email server set up, I had to edit the php.ini file(s) for my Apache and IIS to use my Time Warner email account(s).<br />We finished up with reading and writing files, and using cookies and session variables.",
+      "url": "https://www.linkedin.com/learning/learning-php-4",
+      "certs": ["CertificateOfCompletion_Learning PHP_LI.pdf"]
+    },
+    {
+      "index": 42,
+      "title": "Advanced Java Programming",
+      "instructor": "Bethan Palmer",
+      "date_completed": "2021-02-18",
+      "synopsis": "Want to get more out of the Java language and platform? In this platform- and framework-neutral course, instructor Bethan Palmer digs into some of the language’s more advanced features, helping you expand your programming skills as she equips you with techniques you can use when building applications anywhere Java is used: in web, mobile, and desktop applications. Bethan covers a variety of topics, including generics, working with the Collections Framework, and functional programming. Plus, learn about I/O in Java, working with files and directories, and structuring applications using the modular system available in Java.",
+      "objectives": [
+        "Installing the NetBeans IDE",
+        "Using generic methods in Java",
+        "Using wildcards in generic programming",
+        "Implementing a queue with a LinkedList",
+        "Functional programming in Java",
+        "Multi-threading",
+        "Working with I/O in Java",
+        "Managing files and directories"
+      ],
+      "skills": ["Software Development", "Java"],
+      "comments": "In this course, we used the Apache NetBeans IDE. It's OK - the instructor didn't cover its workings/capabilities at all, so I can't really compare it to IntelliJ, beyond that it also works.<br />We covered Generics, and more on Collections, such as using a LinkedHashMap (similar to a Dictionary in other languages, but linked).<br />We also covered more on Functions, including method references, streams (as opposed to I/O streams, although we covered those as well) and parallel streams.<br />We covered modular structures and working with multiple modules, along with threading and multi-threading, and finished up with files and directories.",
+      "url": "https://www.linkedin.com/learning/advanced-java-programming-2",
+      "certs": ["CertificateOfCompletion_Advanced Java Programming_LI.pdf"]
+    },
+    {
+      "index": 41,
+      "title": "C#: Interfaces and Generics",
+      "instructor": "Joe Marini",
+      "date_completed": "2021-02-10",
+      "synopsis": "Take your C# coding skills to the next level by learning to use interfaces and generics in this course with programming expert Joe Marini. Interfaces provide a way of implementing common types of behaviors that can be reused across multiple classes. Interfaces keep your code nimble, compact, and efficient. Generics, on the other hand, help you work with strongly typed data collections, without having to commit to a data type ahead of time. Used in combination, these features make your C# projects easier to build and scale, with fewer bugs and performance issues along the way. Start watching to learn how to integrate interfaces and generics into your projects today.",
+      "objectives": [
+        "Designing and implementing an interface",
+        "Implementing multiple interfaces",
+        "Using .NET-defined interfaces",
+        "Understanding how generics improve program reliability",
+        "Exploring .NET's generic data collection classes"
+      ],
+      "skills": ["Object-Oriented Programming (OOP)", "C#"],
+      "comments": "This course covered specifying and enforcing behavior(s) with Interfaces, both custom and the built-in .NET Interfaces.<br />It also covered Generics, as in this instructor's C#: Collections course. However, the programming challenge here was a bit more involved, as we used Delegates more so than in that course, and it involved using multiple Collection types in the same solution.",
+      "url": "https://www.linkedin.com/learning/c-sharp-interfaces-and-generics",
+      "certs": ["CertificateOfCompletion_C Interfaces and Generics_LI.pdf"]
+    },
+    {
+      "index": 40,
+      "title": "C#: Delegates, Events and Lambdas",
+      "instructor": "Joe Marini",
+      "date_completed": "2021-02-07",
+      "synopsis": "C# provides function types to fit a variety of scenarios, called delegates, events, and lambda functions. In this course, Joe Marini explores these key elements, starting with delegates, which allow developers to easily separate functional pieces of a program. Joe shows how to create both anonymous and composable delegates, using a shipping costs calculator as a practical example. Next, he covers using events to broadcast and listen to messages both inside and outside a program, switching functionality on and off on demand. Finally, the course explores lambda functions: concise ways to declare small and focused or one-off functions, which keep your program code tight and efficient.<br /><br />Start watching to learn how to adapt this flexible set of programming tools to your own C# programming needs.",
+      "objectives": null,
+      "skills": ["Object-Oriented Programming (OOP)", "C#"],
+      "comments": "In the C#: Collections course I took here by this same (excellent) instructor, which covered mostly Generic Collections, we used some Lambda expressions. I was unfamiliar with them, but in that context, it was straightforward enough for me to catch on.<br />He recommended his course, C#: Interfaces and Generics, so I started that one. Towards the beginning of that course, he mentioned that if we were unfamiliar with Delegates, which I was familiar with only in passing, to take this course.<br />Seeing that this course also covered Lambdas, I was able to get a better grasp of them, along with Delegates, which are quite versatile and powerful. We also covered (raising and) handling Events, as an offshoot of Delegates, in a context outside of handling UI Events such as mouse clicks, etc.<br />Now, back to the C#: Interfaces and Generics course...",
+      "url": "https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas",
+      "certs": ["CertificateOfCompletion_C Delegates Events and Lambdas_LI.pdf"]
+    },
+    {
+      "index": 39,
+      "title": "C#: Collections",
+      "instructor": "Joe Marini",
+      "date_completed": "2021-02-04",
+      "synopsis": "Efficiently manage data with C# collection classes. In this course, join Joe Marini as he details how to maintain collections of data in C# and choose the right collection class to apply to a wide set of programming scenarios. Joe begins by covering basic concepts, including the difference between generic and non-generic collections and how to select a collection class to suit a specific programming problem. He then goes over basic collection classes, including how to use a LinkedList, and discusses specialized collections such as OrderDictionary and StringCollection.",
+      "objectives": [
+        "Selecting a collection class",
+        "Basic list operations",
+        "How stacks operate on elements",
+        "Using dictionary classes",
+        "Using the ListDictionary and HybridDictionary collections",
+        "Using StringCollection"
+      ],
+      "skills": ["C#"],
+      "comments": null,
+      "url": "https://www.linkedin.com/learning/c-sharp-collections",
+      "certs": ["CertificateOfCompletion_C Collections_LI.pdf"]
+    },
+    {
+      "index": 38,
+      "title": "Leading without Formal Authority",
+      "instructor": "Lisa Earle McLeod and Elizabeth Lotardo",
+      "date_completed": "2021-02-01",
+      "synopsis": "Leadership isn't just a skill for managers. Demonstrating leadership is important for employees at every level of an organization. There are opportunities to lead every day, whether you hold a formal leadership position or not. In this course, leadership and personal development experts Lisa Earle McLeod and Elizabeth Lotardo outline how individual contributors or SMEs can exhibit leadership by influencing, inspiring, mentoring, and motivating others. They also help you overcome unique challenges such as how to communicate when you think your boss or team is headed in the wrong direction.",
+      "objectives": [
+        "Name three ways that you can add value to a meeting.",
+        "Recognize the benefits of including emotional impact in your stories.",
+        "Explain how developing a mindset can increase efficiency and productivity.",
+        "Identify an easy way to reinforce expectations.",
+        "Determine when it is necessary team to tell your boss about a mistake made by a peer.",
+        "Recall the most important benefit of punctuality."
+      ],
+      "skills": ["Communication", "Accountability", "Leadership"],
+      "comments": "I had a role for many years where I had leadership responsibility, but without formal authority. So it was nice to see that there was actually a course about this.<br />I found that I had grown into doing some things right, had \"grown\" away from doing some other things right, and learned some new things from this course.",
+      "url": "https://www.linkedin.com/learning/leading-without-formal-authority",
+      "certs": [
+        "CertificateOfCompletion_Leading without Formal Authority_LI.pdf"
+      ]
+    },
+    {
+      "index": 37,
+      "title": "Excel: Lookup Functions in Depth",
+      "instructor": "Dennis Taylor",
+      "date_completed": "2021-01-29",
+      "synopsis": "Microsoft Excel offers a variety of powerful lookup functions that allow you to easily retrieve information across spreadsheets. In this course, Excel expert Dennis Taylor demystifies some of the most significant lookup functions. Tune in to learn how to use the new XLOOKUP function, which can handle all the capabilities of the widely used VLOOKUP and HLOOKUP functions, in addition to providing more power and flexibility. Explore uses of the MATCH function and the newer, more robust XMATCH function to match up data, and learn how to extract data using the INDEX function. Discover how to restructure the lists being searched to ensure that you're using each function efficiently, and learn about dynamic array lookup functions like UNIQUE, SORT, SORTBY, and FILTER. Along the way, Dennis shares practical examples that help you grasp how to implement these functions in your workflow.",
+      "objectives": null,
+      "skills": ["Data Analysis", "Microsoft Excel"],
+      "comments": "The last one, for now, on my roll of Excel courses here - a good refresher, along with some good new info.<br />I'd used VLOOKUP(), HLOOKUP(), and MATCH(), etc., before, but not XLOOKUP() and XMATCH(), new for 365.<br />I have Office 2019 Pro, so to get the X Functions, I had to download a beta version of the Add-in from GitHub.<br />The X Functions mostly worked using that Add-in, but since 2019 doesn't implement Dynamic Arrays, I had to find and use workarounds in some formulas.<br />And I was unable to follow along with the last chapter (except for the very last lesson), because the functions discussed were Dynamic Array functions, so were not available for me using 2019.<br />(But I did watch them all, anyway... ;^ ) )",
+      "url": "https://www.linkedin.com/learning/excel-lookup-functions-in-depth",
+      "certs": [
+        "CertificateOfCompletion_Excel Lookup Functions in Depth_LI.pdf"
+      ]
+    },
+    {
+      "index": 36,
+      "title": "Excel: Power Pivot for Beginners",
+      "instructor": "Joshua Rischin",
+      "date_completed": "2021-01-27",
+      "synopsis": "The Power Pivot feature in Microsoft Excel for Windows allows you to import, merge, and analyze data from many sources. Many people assume Power Pivot is a complex feature reserved for advanced users. Not so! In this short course, instructor Josh Rischin debunks myths around Power Pivot, explaining what it is and the best way to use it. Josh walks you through building a basic data model by identifying your data sources and creating data relationships. Then he shows how to analyze the data and present your results using PivotTables and PivotCharts.",
+      "objectives": null,
+      "skills": ["Data Management", "Data Analysis", "Microsoft Excel"],
+      "comments": "Learning more about PivotTables, etc., using the Power Pivot component, which I had to add to Excel as a COM Add-in.<br />Power Pivot allows one to add a Data Model, drawing from various sources, and easily set up Relationships between the sources. Calculations and Measures can also be added.<br />This course did cover PivotCharts, including using Filters and Slicers.",
+      "url": "https://www.linkedin.com/learning/excel-power-pivot-for-beginners",
+      "certs": [
+        "CertificateOfCompletion_Excel Power Pivot for Beginners_LI.pdf",
+        "CertificateOfCompletion_Excel PivotTables for Beginners_PMI.pdf"
+      ]
+    },
+    {
+      "index": 35,
+      "title": "Excel: PivotTables for Beginners",
+      "instructor": "Dave Ludwig",
+      "date_completed": "2021-01-26",
+      "synopsis": "PivotTables don't have to be scary! This powerful Excel feature cuts the time you spend on formulas in half. In this concise course, Excel trainer Dave Ludwig demystifies PivotTables and shows you how to get started using them to analyze your data. Dave begins by explaining two PivotTable basic building blocks: value fields and row fields. Then he shows you how to adjust a PivotTable by adding fields, filters, and formatting. Finally, Dave shows you how to use special filter buttons which are known as slicers, and he also demonstrates how to use timelines. At the end, he goes over the basics of refreshing and updating a PivotTable.",
+      "objectives": [
+        "Describe when you would use a PivotTable.",
+        "List the things you need to do prior to creating a PivotTable.",
+        "Explain the benefits of creating an Excel table before creating a PivotTable.",
+        "Describe a conceptual representation of the value field.",
+        "Cite the reason you should periodically refresh a PivotTable."
+      ],
+      "skills": ["Pivot Tables", "Business Analytics", "Microsoft Excel"],
+      "comments": "I knew of PivotTables, and had a boss that lived in them, but hadn't used them myself. Turns out, they are a simple-to-use, powerful feature.<br />The interface for specifying the fields is like that used in Report Builder for SQL Server Reporting Services. In the course I took for that here, we didn't do much (if any) with Column Fields, so I was able to get a little experience with those here in this course. And it's nice to see the results immediately in Excel, without the need to run a report first, as in SSRS.<br />This course did not cover PivotCharts, but there are other courses here that do, and this course was a good, quick intoduction to PivotTables.<br />In any case, I'm now getting another tool in my toolbox...",
+      "url": "https://www.linkedin.com/learning/excel-pivottables-for-beginners",
+      "certs": [
+        "CertificateOfCompletion_Excel PivotTables for Beginners_LI.pdf",
+        "CertificateOfCompletion_Excel PivotTables for Beginners_NASBA.pdf"
+      ]
+    },
+    {
+      "index": 34,
+      "title": "Implementing a Data Warehouse SQL Server 2019",
+      "instructor": "Adam Wilbert",
+      "date_completed": "2021-01-19",
+      "synopsis": "Dimensional models like data warehouses can provide a more accessible and consistent form of data storage than relational databases. You can consolidate data from multiple sources into a single repository for business intelligence, analysis, and reporting. This course explains how to create a long-term data storage solution using local SQL Server instances and Azure SQL Data Warehouse. Instructor Adam Wilbert shows how to build a data warehouse from the ground up, starting with the tables and views; establish control flow; enforce data quality; and use your data in services such as SQL Server Reporting Services and Power BI. By the end of the course, you will be able to implement a robust, custom solution to serve all your organization’s business intelligence, reporting, and analysis needs.",
+      "objectives": [
+        "Transactional databases vs. data warehouses",
+        "Star and snowflake schemas",
+        "Creating a data warehouse",
+        "Designing tables and views",
+        "Rebuilding columnstore indexes",
+        "Creating an Azure SQL Data Warehouse",
+        "Establishing control flow beyond ETL",
+        "Enforcing data quality",
+        "Configuring Master Data Services",
+        "Consuming data from the warehouse in BI services"
+      ],
+      "skills": [
+        "Database Design",
+        "Data Warehousing",
+        "Data Warehouse Architecture",
+        "Microsoft SQL Server"
+      ],
+      "comments": "This is a great, info-filled course.<br />I was somewhat aware of data warehouses. Some coworkers had used \"reporting\" databases, but I don't know if those were built using a dimensional model, as we learned about here, or still in a (normalized) relational model.<br />Along with creating a data warehouse on a local instance of SQL Server, we also created a data warehouse on the Azure cloud, and moved the schema and data there.<br />We installed SQL Server Data Quality Services, and learned about cleansing data and creating a custom knowledge base for that. De-duping is also available with DQS.<br />We also installed and configured Master Data Services, which aims to keep data consistent throughout data sources for an organization.<br />We also used the MDS Client, and installed, configured, and used the MDS Excel add-in.",
+      "url": "https://www.linkedin.com/learning/implementing-a-data-warehouse-sql-server-2019",
+      "certs": [
+        "CertificateOfCompletion_Implementing a Data Warehouse SQL Server 2019_LI.pdf"
+      ]
+    },
+    {
+      "index": 33,
+      "title": "IoT Foundations: Fundamentals",
+      "instructor": "Bruce Sinclair",
+      "date_completed": "2021-01-18",
+      "synopsis": "The Internet of Things (IoT) is more than just smart or connected devices. In this course, learn what IoT is, and how it works from a technical standpoint. Bruce Sinclair provides a broad overview of IoT, explaining each of its main components. He also goes into the software-defined product—the digital twin of the physical product—as well as the hardware-defined product, explaining how sensors and embedded systems help to gather data. Plus, he dives into the network fabric, and explains what external systems are and why it's important to consider them when designing an IoT product.",
+      "objectives": [
+        "IoT value modeling",
+        "The software-defined product",
+        "The hardware-defined product",
+        "Embedded systems",
+        "Connected sensors",
+        "The network fabric",
+        "OT IT and fog networks",
+        "Analytics and big data",
+        "Data services"
+      ],
+      "skills": ["Internet of Things (IoT)"],
+      "comments": "With the IoT being a burgeoning area, I wanted to get an idea of what was going on.<br />And this is a good intro for that, mainly with realizing where the value comes in, as opposed to just smart or connected products.",
+      "url": "https://www.linkedin.com/learning/iot-foundations-fundamentals",
+      "certs": ["CertificateOfCompletion_IoT Foundations Fundamentals_LI.pdf"]
+    },
+    {
+      "index": 32,
+      "title": "SQL Server: Reporting Services",
+      "instructor": "Adam Wilbert",
+      "date_completed": "2021-01-18",
+      "synopsis": "Discover how to build, edit, and publish interactive reports using Reporting Services in SQL Server. In this course, author Adam Wilbert shows how to create, format, and share reports that leverage a variety of data sources. First, he takes you through the setup process, followed by the step-by-step process of building a report. He covers interactive elements, formatting, charts, sorting, filtering, web viewing, and mobile viewing. Adam also shares best practices, tips, and tricks that you can use to ensure your reports are dynamic.",
+      "objectives": [
+        "What is SQL Server Reporting Services (SSRS)?",
+        "Installing and setting up SSRS",
+        "Configuring a report server",
+        "Joining data tables",
+        "Filtering and sorting data",
+        "Grouping data in a report",
+        "Working with matrixes",
+        "Using aggregate functions",
+        "Working with parameters",
+        "Displaying charts and sparklines",
+        "Creating device-specific layouts",
+        "Viewing reports in the Power BI mobile app",
+        "Reusing report parts"
+      ],
+      "skills": [
+        "SQL Server Reporting Services (SSRS)",
+        "Business Intelligence (BI)",
+        "Microsoft SQL Server"
+      ],
+      "comments": "This was a very informative and even FUN course!<br />And what a great tool!<br />Years ago, when I worked at an R.O.P., I created the tables and charts used in the yearly financial presentation for the board. Then, I used Borland Quattro Pro for Windows (spreadsheet), and while it was powerful in its own right, it took a lot of manipulation to get things to look as I and my superiors were aiming for.<br />Oh, how I wish I had had a tool like this back then!<br />In this course, we installed and configured SSRS, used its Web Portal, and installed and used Report Builder and Mobile Report Publisher. Then, installing the Power BI app on my mobile devices, I was able to connect to the Report Server with them to view the Mobile Reports created.<br />I want to explore more with these Mobile Reports.<br />We also set up subscriptions to (non-mobile) reports.",
+      "url": "https://www.linkedin.com/learning/sql-server-reporting-services",
+      "certs": ["CertificateOfCompletion_SQL Server Reporting Services_LI.pdf"]
+    },
+    {
+      "index": 31,
+      "title": "SQL Server Integration Services",
+      "instructor": "Adam Wilbert",
+      "date_completed": "2021-01-15",
+      "synopsis": "SQL Server Integration Services (SSIS) is one of the core add-on components to SQL Server. With SSIS, professionals can create automated workflows that streamline the process of consolidating data from a wide variety of sources. Through a process called ETL—extract, transform, and load—you can ingest and move data between systems such as other databases, flat data files, and even online repositories. In this course, Adam Wilbert helps you get up and running with SSIS. Adam shows how to work with different control flow tasks, data sources, connections, and transformations. Plus, see how to add variables to control package execution, run packages with T-SQL, and more.",
+      "objectives": [
+        "Managing and administering SQL with SSIS tasks",
+        "Making packages dynamic with variables and parameters",
+        "Creating a sequence container",
+        "Extracting data from a source",
+        "Handling errors",
+        "Running packages with T-SQL",
+        "Scheduling packages with SQL Server Agent"
+      ],
+      "skills": [
+        "Database Administration",
+        "Microsoft SQL Server",
+        "SQL Server Integration Services (SSIS)"
+      ],
+      "comments": "Wow, Microsoft has really done a great job here!<br />I had used the old DTS Packages feature/component to periodically populate a backup internal KB database, and to schedule (using SQL Server Agent) a Full-Text Index job to run nightly so that new KB Articles could be searched/returned.<br />But now, the packages are designed in Visual Studio and deployed from there into Microsoft SQL Server Management Studio. And the Visual Studio environment for this is wonderful! And powerful!",
+      "url": "https://www.linkedin.com/learning/sql-server-integration-services-2",
+      "certs": [
+        "CertificateOfCompletion_SQL Server Integration Services_LI.pdf"
+      ]
+    },
+    {
+      "index": 30,
+      "title": "Learning MongoDB",
+      "instructor": "Justin Jenkins",
+      "date_completed": "2021-01-08",
+      "synopsis": "Excelling in an ever-changing software development world requires true \"full stack\" experience. Knowledge of nonrelational databases in particular adds exciting new capabilities and features that make everyday development easier, more streamlined, and vastly more scalable. This course provides an introduction to using MongoDB, one of the most popular nonrelational databases. Discover how to create documents to store data, organize documents in collections, and write queries to read, update, and delete documents. Instructor Justin Jenkins also shows how to properly index data to increase performance in MongoDB, and then shows how MongoDB can be integrated with applications written in Python, Node.js, and PHP. In the final chapter, he covers basic server administration, including replication, sharding, security, and backups. Make sure to practice your newfound MongoDB skills using the challenge and solution sets issued along the way.",
+      "objectives": [
+        "Installing MongoDB on Windows and macOS",
+        "Creating documents and collections",
+        "Working with operators and arrays",
+        "Writing queries to update and delete data",
+        "Creating basic indexes",
+        "Coding with MongoDB and PHP, Node.js, and PHP",
+        "Maintaining MongoDB",
+        "Implementing security",
+        "Backing up and restoring MongoDB"
+      ],
+      "skills": ["MongoDB", "Database Development", "Full-Stack Development"],
+      "comments": "I wanted to learn about a NoSQL database. MongoDB is a NoSQL database, and is a document database. (<a href=\"https://www.mongodb.com/document-databases/\" target=\"_blank\">What is a Document Database?</a>)<br />I got more experience composing and using JSON, as MongoDB stores its data as BSON (Binary JSON). (<a href=\"https://www.mongodb.com/json-and-bson\" target=\"_blank\">JSON and BSON</a>)<br />Coding with MongoDB was one of the topic areas covered - in Python, Node.js, and PHP. To do this I had to install drivers for each of my installations of those, to connect them to MongoDB.<br />MongoDB seems very cool, I really enjoyed this course, and I want to delve more into it...",
+      "url": "https://www.linkedin.com/learning/learning-mongodb/modern-database-and-application-design-with-mongodb",
+      "certs": ["CertificateOfCompletion_Learning MongoDB_LI.pdf"]
+    },
+    {
+      "index": 29,
+      "title": "SAP ERP Essential Training (2018)",
+      "instructor": "Justin Valley",
+      "date_completed": "2021-01-07",
+      "synopsis": "The SAP ERP, or enterprise resource planning, platform helps large businesses streamline their processes and support each segment of their business, from sales to financial accounting. In this course, instructor Justin Valley helps you get started with SAP ERP, going over key concepts and tips that can help you use this enterprise software most effectively. Justin goes over the difference between technical modules and functional modules in SAP and explores key SAP modules, including SAP project systems (PS) and SAP human capital management (HCM). He also goes over how to navigate inside SAP as an end user, use various search methods to find data, run and export reports from SAP, and more.",
+      "objectives": [
+        "Differentiate between master data and transactional data.",
+        "List different inventory modules in SAP.",
+        "Explain general menu navigation in SAP.",
+        "Describe basic report setup in SAP.",
+        "Determine basic report printing in SAP."
+      ],
+      "skills": ["SAP ERP"],
+      "comments": "Learned a bit about an ERP system that I hadn't used...",
+      "url": "https://www.linkedin.com/learning/sap-erp-essential-training-2018",
+      "certs": [
+        "CertificateOfCompletion_SAP ERP Essential Training 2018_LI.pdf",
+        "CertificateOfCompletion_SAP ERP Essential Training 2018_NASBA.pdf"
+      ]
+    },
+    {
+      "index": 28,
+      "title": "HTML5: Geolocation",
+      "instructor": "Bill Weinman",
+      "date_completed": "2021-01-03",
+      "synopsis": "This course shows how to add location tracking to a web application with a combination of JavaScript, CSS and HTML5. First, author and HTML5 expert Bill Weinman provides a thorough explanation of the geolocation API, including considerations every developer should take into account, such as data dependability, power usage, and privacy concerns. The course then covers how to detect support for geolocation, retrieve coordinates from a device (whether once or continuously), handle errors, and integrate the results with Google Maps to create a location-aware web application that will run on many mobile browsers.",
+      "objectives": [
+        "Understanding how geolocation works",
+        "Detecting geolocation support",
+        "Getting coordinates",
+        "Continuous tracking with watchPosition()",
+        "Integrating geolocation with Google Maps"
+      ],
+      "skills": ["Geographic Information Systems (GIS)", "HTML"],
+      "comments": "I had to (finally) add a self-signed certificate to my IIS to get SSL working, so that the browsers (especially on my other devices) would allow for using my location.<br />      And I've started doing the same for Apache, which is a bit more of a chore...",
+      "url": "https://www.linkedin.com/learning/html5-geolocation",
+      "certs": ["CertificateOfCompletion_HTML5 Geolocation_LI.pdf"]
+    },
+    {
+      "index": 27,
+      "title": "Python Essential Training",
+      "instructor": "Bill Weinman",
+      "date_completed": "2021-01-01",
+      "synopsis": "Due to its power and simplicity, Python has become the scripting language of choice for many large organizations, including Google, Yahoo, and IBM. A thorough understanding of Python 3, the latest version, will help you write more efficient and effective scripts. In this course, Bill Weinman demonstrates how to use Python 3 to create well-designed scripts and maintain existing projects. This course covers the basics of the language syntax and usage, as well as advanced features such as objects, generators, and exceptions. Learn how types and values are related to objects; how to use control statements, loops, and functions; and how to work with generators and decorators. Bill also introduces the Python module system and shows examples of Python scripting at work in a real-world application.",
+      "objectives": [
+        "Python anatomy",
+        "Types and values",
+        "Conditionals and operators",
+        "Building loops",
+        "Defining functions",
+        "Python data structures: lists, tuples, sets, and more",
+        "Creating classes",
+        "Handling exceptions",
+        "Working with strings",
+        "File input/output (I/O)",
+        "Creating modules",
+        "Integrating a database with Python db-api"
+      ],
+      "skills": ["Python (Programming Language)"],
+      "comments": "Drilling it in...",
+      "url": "https://www.linkedin.com/learning/python-essential-training-2018",
+      "certs": ["CertificateOfCompletion_Python Essential Training_LI.pdf"]
+    },
+    {
+      "index": 26,
+      "title": "Cloud Computing Careers and Certifications: First Steps",
+      "instructor": "Lynn Langit",
+      "date_completed": "2020-12-24",
+      "synopsis": "Do you want to start a career in cloud computing, but don't know where to begin? Whether you’re an IT professional or a computer science student, this course can help by providing an ideal foundational mapping of the career paths and certifications that you should consider if you're interested in transitioning to cloud computing. Instructor and cloud architect Lynn Langit covers a variety of career paths, including IT pro, developer, analyst, and architect roles. Throughout the course, she focuses on the major cloud platforms—AWS, Microsoft Azure, Google, and Alibaba—discusses certifications available for each, and explores the future of cloud computing careers. Lynn discusses machine learning, virtualization, networking, scripting, and more.",
+      "objectives": null,
+      "skills": ["Cloud Computing", "IT Management"],
+      "comments": null,
+      "url": "https://www.linkedin.com/learning/cloud-computing-careers-and-certifications-first-steps-2",
+      "certs": [
+        "CertificateOfCompletion_Cloud Computing Careers and Certifications First Steps_LI.pdf"
+      ]
+    },
+    {
+      "index": 25,
+      "title": "Visual Studio Code for Python Developers",
+      "instructor": "Joe Marini",
+      "date_completed": "2020-12-21",
+      "synopsis": "Visual Studio (VS) Code—the optimized code editor for Windows, macOS, and Linux—provides stellar support for Python right out of the box. Even if you’re already familiar with VS Code, this course can help you speed up your development work by highlighting how to best leverage this popular code editor when developing Python apps. Instructor Joe Marini covers everything from writing and debugging Python code, to using the built-in refactoring tools to make your code easier to maintain, to maximizing your productivity with must-have extensions such as REST Client. After wrapping up this course, you’ll have the knowledge you need to make the most out of VS Code when working with Python projects.",
+      "objectives": [
+        "Constructing a simple Python program in VS Code",
+        "Editing, formatting, and refactoring Python code",
+        "Debugging Python code",
+        "Setting breakpoints",
+        "Using Python docstring",
+        "Creating better comments for your source code",
+        "Using the REST Client extension"
+      ],
+      "skills": [
+        "Python (Programming Language)",
+        "Microsoft Visual Studio Code"
+      ],
+      "comments": "I had taken the Learning Python course by this same instructor, and am in the middle of a long Python Essential Training course (by a different instructor). That course uses Komodo Edit, so I am following along using that, but I prefer Visual Studio Code. It can be used on Mac, Windows and Linux, and for various languages.<br /><br />So I took this course, which led us to set up VS Code for use with Python. It included setting up a Debugging configuration (along with actual debugging), and installing VS Code Extensions for auto-formatting, for documenting and commenting, and for a REST client, which can generate code (in various languages) to plug in to our own projects.<br /><br />I configured my VS Code installations on my Mac mini, Windows laptop, and 5 Hyper-V Linux VMs.",
+      "url": "https://www.linkedin.com/learning/visual-studio-code-for-python-developers",
+      "certs": [
+        "CertificateOfCompletion_Visual Studio Code for Python Developers_LI.pdf"
+      ]
+    },
+    {
+      "index": 24,
+      "title": "jQuery for Web Designers",
+      "instructor": "Joe Chellman",
+      "date_completed": "2020-12-19",
+      "synopsis": "JavaScript is the programming language of the web. But some problems are a little difficult to solve using 100% pure JavaScript. jQuery closes most of the gaps, and does it so well that a huge number of developers now use jQuery to create some of the coolest front-end plugins around. This course will help web designers learn how to use jQuery's core library and plugins to create richer, more usable sites—faster and more efficiently than with JavaScript alone. It features real-world examples and some easily learned best practices, while covering jQuery basics such as functions, classes, event binding, and data manipulation. Author and developer Joe Chellman shows how to install and customize popular plugins and offers some compelling use cases for jQuery-based (vs. CSS-based) animation.",
+      "objectives": [
+        "When to use jQuery",
+        "Installing jQuery",
+        "Setting up functions",
+        "Using jQuery classes",
+        "Modifying the DOM",
+        "Event binding",
+        "Reading and setting values",
+        "Integrating plugins",
+        "Animating websites with jQuery"
+      ],
+      "skills": ["Front-end Development", "jQuery"],
+      "comments": "Another informative course!<br />The jQuery library can make things easier to do than in Vanilla JavaScript.<br />We used it in Web Forms, and also used the Colorbox plugin (which enhances lightboxes (used for displaying images, etc.)).<br />Then we finished up with Animations, and were then provided with further sources for acquiring Plugins, and learning more about jQuery and JavaScript.",
+      "url": "https://www.linkedin.com/learning/jquery-for-web-designers",
+      "certs": ["CertificateOfCompletion_jQuery for Web Designers_LI.pdf"]
+    },
+    {
+      "index": 23,
+      "title": "JavaScript for Web Designers",
+      "instructor": "Joe Chellman",
+      "date_completed": "2020-12-13",
+      "synopsis": "Web designers can improve their skill sets and job prospects by getting comfortable with JavaScript. It's the only scripting language for client-side programming—for doing things that would be impossible with HTML and CSS alone—and is increasingly popular for server-side programming, too. Learn some basic, real-world uses for JavaScript in this course with Joe Chellman. Find out how to write JavaScript in the browser and in a code editor, and then put it straight to use in a store checkout page: manipulating forms and form fields, reading data, checking input for errors, and displaying the results of shipping calculations. Plus, learn how to use JavaScript time and date functions to create features like clocks, and add interactive content through APIs like Bing Maps.",
+      "objectives": [
+        "What is JavaScript?",
+        "Writing and debugging JavaScript",
+        "Interacting with the DOM",
+        "Working with forms with JavaScript",
+        "Using JavaScript to track dates and times",
+        "Creating maps with the free Bing Maps API",
+        "Fetching data from a third-party API"
+      ],
+      "skills": ["Front-end Development", "JavaScript", "Web Design"],
+      "comments": "Excellent course!<br />I started the course, jQuery for Web Designers, and although I had taken the Learning the JavaScript Language course by this same instructor, it was presented in a way that was application agnostic, so I paused and took this course, by the same instructor (Joe Chellman), which focuses on the Web design context. And I'm glad I did!<br />We worked on Web Forms, including validating input, and working with dates and times, including using a third-party library for their formatting.<br />We also embedded a Bing Map on a page, then went further, to creating and controlling one using the Bing Maps API.<br />We finished up by using the Ziptastic API to aid users/customers by filling in the city and state info on a form for them, given a Zip Code, and then using the Axios library to handle the JSON data returned from the Ziptastic request.<br />Now, back to the jQuery course!",
+      "url": "https://www.linkedin.com/learning/javascript-for-web-designers-3",
+      "certs": ["CertificateOfCompletion_JavaScript for Web Designers_LI.pdf"]
+    },
+    {
+      "index": 22,
+      "title": "SQL Tips, Tricks, & Techniques",
+      "instructor": "Ben Sullins",
+      "date_completed": "2020-11-28",
+      "synopsis": "Get Ben Sullins's 12 must-have SQL techniques for data science pros—engineers, DevOps, data miners, programmers, and other systems specialists. Ben's tips focus on practical applications of SQL queries for data analysis. Learn how to retrieve data, join tables, calculate rolling averages and rankings, work with dates and times, use window functions, aggregate and filter data, and much more. Each tip is short, relevant, and up to date with current industry best practices—making this the perfect course for busy analysts who normally struggle to find time to build their skills.",
+      "objectives": null,
+      "skills": ["Big Data", "SQL"],
+      "comments": "I saw that some former Kofax coworkers had taken this course, so I checked it out as a refresher.<br />It was that, and much more! He presented some very nice techniques!<br />Having maintained and extensively used a database feeding a knowledge base, I had minimal need for aggregations as presented here, but some of this would have really helped for enhancing our reporting on the activity.",
+      "url": "https://www.linkedin.com/learning/sql-tips-tricks-techniques",
+      "certs": ["CertificateOfCompletion_SQL Tips Tricks Techniques_LI.pdf"]
+    },
+    {
+      "index": 21,
+      "title": "Learning JavaScript Debugging",
+      "instructor": "Joe Chellman",
+      "date_completed": "2020-11-27",
+      "synopsis": "Whether you're new to coding or an experienced developer, bugs are an inevitable part of web development. Debuggers can make the task of finding and fixing those bugs much easier. In this course, learn how to work with a debugger to efficiently locate and resolve issues in your JavaScript projects. Instructor Joe Chellman provides a language-centered guide to dealing with the complexities involved in creating for the largest distributed platform out there: the web. He covers why we need debuggers, goes over notable jargon and concepts, and steps through the basics of using a debugger. He then takes a look at debugging in practice, sharing how to debug a React application in Chrome, how to debug on iOS using Simulator, how to debug a WordPress theme in Visual Studio Code, and more.",
+      "objectives": [
+        "Understanding the need for a debugger",
+        "Debuggers in web browsers",
+        "Basic debugger concepts",
+        "Debugging the use of a jQuery plugin",
+        "Remote debugging on an Android device",
+        "Debugging a node application in WebStorm",
+        "Using a debugger as a learning tool on a live site"
+      ],
+      "skills": ["JavaScript"],
+      "comments": "This is a very informative course - from debugging inside various Web browsers, to hooking up Visual Studio Code to automatically launch Chrome for debugging, to using the (Xcode) Simulator on iOS.<br />We went over debugging jQuery plug-ins, React apps, and a WordPress theme.<br />Since the instructor had us set up live Web sites for some of the lessons, and he used MAMP (Apache/MySQL/PHP) on a Mac, I'm glad I installed MAMP on my Mac mini in an earlier course I took here. I also set up those Web sites in Apache on Windows, in IIS there as well, and in Apache on an Ubuntu Server Hyper-V VM.",
+      "url": "https://www.linkedin.com/learning/learning-javascript-debugging-2",
+      "certs": ["CertificateOfCompletion_Learning JavaScript Debugging_LI.pdf"]
+    },
+    {
+      "index": 20,
+      "title": "Succeeding in Web Development: Full Stack and Front End",
+      "instructor": "Ray Villalobos",
+      "date_completed": "2020-11-20",
+      "synopsis": "Do you want to become a web developer? Nowadays, web development isn't one job. There is a range of technologies and career options to explore. The core responsibilities are split two ways—between front-end developers who specialize in websites and applications and back-end developers who work with servers and databases—but you can also become a full-stack developer who oversees all aspects of a project. This course provides a map of the core technologies and advice about mastering them, complemented with the details you need to connect them to jobs. Senior staff author Ray Villalobos also provides tips on finding training, getting hired, and maximizing your earning potential in this lucrative and exciting field.",
+      "objectives": [
+        "Types of web developers",
+        "The role of HTML, CSS, and JavaScript",
+        "Server technologies",
+        "Getting web development training",
+        "Choosing the right tools",
+        "Getting a job",
+        "Negotiating your salary"
+      ],
+      "skills": ["Web Development", "Full-Stack Development"],
+      "comments": null,
+      "url": "https://www.linkedin.com/learning/succeeding-in-web-development-full-stack-and-front-end",
+      "certs": [
+        "CertificateOfCompletion_Succeeding in Web Development Full Stack and Front End_LI.pdf"
+      ]
+    },
+    {
+      "index": 19,
+      "title": "Innovative Customer Service Techniques",
+      "instructor": "Jeff Toister",
+      "date_completed": "2020-11-20",
+      "synopsis": "Help customer service teams unlock hidden potential and take customer service to new levels. In this course, designed to benefit managers and frontline employees alike, instructor Jeff Toister shares research and offers insight into what elite customer service professionals know and do, and discusses the two basic needs of every customer. Find out how social pressure can affect quality of service, learn what highly motivated customer service employees have in common, and discover ways to encourage people to work together as a team.",
+      "objectives": [
+        "Identifying the most important need",
+        "Using positive language",
+        "Making wait time more bearable",
+        "Improving powers of observation",
+        "Overcoming the illusion of speed",
+        "Reducing the negative impact of multitasking",
+        "Avoiding directed-attention fatigue"
+      ],
+      "skills": ["Small Business Management", "Customer Service"],
+      "comments": null,
+      "url": "https://www.linkedin.com/learning/innovative-customer-service-techniques",
+      "certs": [
+        "CertificateOfCompletion_Innovative Customer Service Techniques_LI.pdf",
+        "CertificateOfCompletion_Innovative Customer Service Techniques_PMI.pdf"
+      ]
+    },
+    {
+      "index": 18,
+      "title": "Learning Docker",
+      "instructor": "Arthur Ulfeldt",
+      "date_completed": "2020-11-20",
+      "synopsis": "Docker is the next step beyond virtualization. A Docker image contains everything it needs to run, independent of the Linux server on which it lives: a copy of the operating system, a database, code, configuration files, dependencies, and so on. Images can also be packaged and shared with other Docker admins. Arthur Ulfeldt uses Docker to run complex systems with millions of users and hundreds of containers. Here, he shares his knowledge with you. He introduces the basics of Docker, including its containers, Dockerfiles (or base images), and capabilities for networking, data management, infrastructure optimization, and more. Watch and learn how to build your own containers, as well as how to network and link containers.",
+      "objectives": [
+        "Installing Docker on Mac, Windows, and Linux",
+        "Understanding the Docker flow",
+        "Running processes in containers",
+        "Managing, networking, and linking containers",
+        "Working with Docker images, volumes, and registries",
+        "Building Dockerfiles",
+        "Managing networking and namespaces with Docker",
+        "Building entire systems with Docker"
+      ],
+      "skills": ["Cloud Computing", "Cloud Development", "Docker Products"],
+      "comments": "This one took me a while, because there are slight differences in Docker between Linux, Mac, and Windows, and I wanted to be familiar with, or at least aware of, those differences. So I did several of the lessons on all of those three platforms.<br /><br />After I had created several Linux VMs a while back, I became aware of Containers. I read a little bit about them, but at the time, didn't see the purpose (for ME, anyway), nor the full capabilities. So I didn't feel like getting into them at that point.<br /><br />Then I noticed that some of my former coworkers at Kofax had taken this course, so I looked up the course and saw that it dealt with Containers, and it looked like Docker was a cool way of dealing with them.<br /><br />Containers can be used for quickly pulling up a Linux instance (Image-->Container) for testing something out, to Containers working together to accomplish something, to groups of Containers comprising a full-fledged application, or for setting up a development environment, etc.",
+      "url": "https://www.linkedin.com/learning/learning-docker-2018",
+      "certs": ["CertificateOfCompletion_Learning Docker_LI.pdf"]
+    },
+    {
+      "index": 17,
+      "title": "Learning GitHub",
+      "instructor": "Aaron Stewart and GitHub",
+      "date_completed": "2020-11-09",
+      "synopsis": "GitHub is the industry-standard tool for collaborating on and sharing code. It’s popular among software developers, project managers, designers, and students for its flexibility and control. This course introduces GitHub and Git, the version control system that GitHub is built upon. Instructor Aaron Stewart, a training content specialist at GitHub, explains the benefits of version control, how to navigate GitHub and the command line, how GitHub and Git are related, and the best practices for communication and collaboration on GitHub. Aaron also reviews the most common tasks, such as branching, commits, and pull requests, and shows you how to create a simple local project and move it to GitHub to share with your team. Once you have completed the course, you should be able to immediately start using Git and GitHub to manage your own code.",
+      "objectives": [
+        "What is GitHub?",
+        "The GitHub workflow",
+        "Using the command line",
+        "Creating branches",
+        "Making a commit",
+        "Creating and merging pull requests",
+        "Working locally with GitHub Desktop",
+        "Creating a new project",
+        "Moving the project to GitHub",
+        "Working with teams on GitHub",
+        "Creating task lists",
+        "Formatting text"
+      ],
+      "skills": ["Git", "GitHub", "Version Control"],
+      "comments": "I ran across GitHub when following something about Python training which took me there. I didn't end up taking that course there (yet) but did take a Python course here on LinkedIn Learning, and am in progress on a couple more. I'll go back and check out that initial Python course on GitHub...<br /><br />And in other courses I've taken here, we obtained the Exercise Files from GitHub. The instructors provided enough info for us to do THAT, but I wasn't sure what all was going on.<br />I was also exposed to GitHub in some courses using Visual Studio Code, but only briefly.<br /><br />So I wanted to learn a bit about it, and this course did fit the bill - we learned about Git and GitHub, using the Command Line, GitHub Desktop, and the GitHub Web site.",
+      "url": "https://www.linkedin.com/learning/learning-github",
+      "certs": ["CertificateOfCompletion_Learning GitHub_LI.pdf"]
+    },
+    {
+      "index": 16,
+      "title": "Learning C++",
+      "instructor": "Erin Colvin",
+      "date_completed": "2020-11-04",
+      "synopsis": "C++ is an efficient and versatile programming language. C++ powers systems software, desktop applications, and even video games, and it's the language that helped land humans on the moon. Simply put, C++ is a must-know for any modern-day programmer—and it's a great place to get started if you're programming for the first time. This course will get you up and running fast. Instructor Erin Colvin covers simple data types, including numbers and strings; flow-control features like loops and if, else, and switch statements; and functions, the code that encapsulates tasks your program performs. Dr. Colvin also covers working with files and special data structures such as classes and linked lists. Each chapter is full of practical code examples and challenges to help you practice your C++ skills.",
+      "objectives": [
+        "Getting set up to code",
+        "Creating your first simple program with C++",
+        "Variables and arrays",
+        "Flow control with if statements and loops",
+        "Functions",
+        "Opening and editing files",
+        "Data structures"
+      ],
+      "skills": ["C++"],
+      "comments": "Another refresher...<br />We were also introduced to (and used) the Dev-C++ IDE.",
+      "url": "https://www.linkedin.com/learning/learning-c-plus-plus-3",
+      "certs": ["CertificateOfCompletion_Learning CPP_LI.pdf"]
+    },
+    {
+      "index": 15,
+      "title": "C# & .NET: Programming",
+      "instructor": "Alexander Zanfir",
+      "date_completed": "2020-10-23",
+      "synopsis": "If you've programmed in C#, you've already used part of .NET. Microsoft's object-oriented language is an integral part of the framework. But there are many other features of .NET that can make your development workflow more productive and efficient. This training course will help you learn the essentials of .NET programming with C#—techniques that use .NET features to write richer, cleaner code. Alexander Zanfir explains how to use collections, make your app more responsive with async programming, assign and change class properties, optimize performance with multithreading, and inject data into strings. Plus, learn how to handle errors and manage application resources more efficiently with the using statement.",
+      "objectives": [
+        "What is .NET?",
+        "Creating a local application vs. a web application",
+        "Using collections to group objects",
+        "Changing program flow with async programming",
+        "Using class properties",
+        "Optimizing applications with multithreading",
+        "Injecting data with string interpolation",
+        "Error handling",
+        "Managing resources with the using statement"
+      ],
+      "skills": [".NET Framework", "C#"],
+      "comments": "While I'd pretty much just \"picked up\" C# in Extended/Continuing Ed .NET courses (ASP, ADO, XML Web Services) I've taken, it was nice to take a dedicated course.<br />It was a good refresher, and I learned a lot of new things.<br />It was also nice to see and use the current features in Visual Studio 2019 (Community).",
+      "url": "https://www.linkedin.com/learning/c-sharp-dot-net-programming",
+      "certs": ["CertificateOfCompletion_C .NET Programming_LI.pdf"]
+    },
+    {
+      "index": 14,
+      "title": "Java Essential Training: Objects and APIs",
+      "instructor": "David Gassner",
+      "date_completed": "2020-10-20",
+      "synopsis": "If you want to build applications for mobile devices, desktop computers, or the web, you need to know Java—and keep your knowledge up to date as the language evolves. Java 9 is changing quite a few important aspects of the programming workflow, particularly the handling of objects and APIs. This course is the second in the Java Essential Training series, which provides the foundation for learning Java 9. Instructor David Gassner starts by showing how to debug Java code in IntelliJ IDEA, and handle any exceptions that occur. He explains how to create custom classes and understand how Java implements inheritance, a core principle of object-oriented programming. Plus, learn how to store data in memory with the Java Collections Framework, extend Java with popular APIs, make network requests, and package your applications for deployment in JAR files.",
+      "objectives": [
+        "Debugging Java code",
+        "Handling exceptions",
+        "Creating custom classes",
+        "Working with inheritance",
+        "Managing data collections",
+        "Using Java packages and libraries",
+        "Preparing a Java application for deployment"
+      ],
+      "skills": ["Java"],
+      "comments": "More Java refreshment... And some new things (that I knew in other languages, but hadn't done in Java).<br />And deeper into the IntelliJ IDEA - it is wonderful! Keyboard shortcuts; it signals about possible Exceptions, then can be directed to wrap statements/sections in Try/Catch blocks. Will automatically import packages when they are used. Can generate code for \"Getter\" and \"Setter\" methods in Classes. And more!",
+      "url": "https://www.linkedin.com/learning/java-essential-training-objects-and-apis",
+      "certs": [
+        "CertificateOfCompletion_Java Essential Training Objects and APIs_LI.pdf"
+      ]
+    },
+    {
+      "index": 13,
+      "title": "Learning Java",
+      "instructor": "Kathryn Hodge",
+      "date_completed": "2020-10-17",
+      "synopsis": "Java is one of the top five programming languages, and is used for websites, embedded controllers, and Android app development. Interested in learning how to code with Java? Join instructor Kathryn Hodge as she helps you get up and running with this popular language. Kathryn covers all the basics: data types, strings, functions, and loops. She helps you control the flow and logic of your code, and debug your project to make sure it runs perfectly. Along the way, she provides real-world examples and introduces challenges that allow you to practice your new skills. This course is perfect for developers who need to get up to speed with Java fast, as well as for beginning programmers who want their first taste of this popular language.",
+      "objectives": null,
+      "skills": ["Software Development", "Java"],
+      "comments": "I wanted a Java refresher (syntax, etc.).<br />It started out VERY basic, but did get into Classes. And we did learn a little about debugging in the IntelliJ IDEA IDE (which the instructor introduced us to).",
+      "url": "https://www.linkedin.com/learning/learning-java-4",
+      "certs": ["CertificateOfCompletion_Learning Java_LI.pdf"]
+    },
+    {
+      "index": 12,
+      "title": "Installing Apache, MySQL, and PHP",
+      "instructor": "David Gassner",
+      "date_completed": "2020-10-17",
+      "synopsis": "This course describes how to install and configure Apache HTTP Server, MySQL database server, and PHP, known collectively as the AMP stack, on a local development computer. David Gassner covers different installation approaches, including installing the components separately on Windows, macOS, and Linux and installing the prepackaged WampServer and MAMP bundles. Plus, learn how to troubleshoot port conflicts and other AMP-related issues.",
+      "objectives": [
+        "Installing Apache on Windows",
+        "Working with PHP on Windows and macOS",
+        "Installing MySQL on Windows and macOS",
+        "Starting and stopping Apache on macOS",
+        "Installing Apache, PHP, and MySQL on Ubuntu Linux",
+        "Installing and managing WampServer",
+        "Defining WampServer directory aliases",
+        "Installing MAMP on macOS",
+        "Configuring Apache and MySQL server ports on MAMP",
+        "Handling port conflicts on Windows and macOS",
+        "Resetting the root admin password for MySQL"
+      ],
+      "skills": ["Database Development", "MySQL", "PHP", "Apache"],
+      "comments": "I ended up installing and configuring the separate components (Apache, MySQL, PHP) along with MySQL Workbench on Windows 10, a MAMP bundle on a Mac, and then went back and installed MySQL Workbench there, and the separate components on a Ubuntu (Desktop) (Linux) Hyper-V VM, and on a Ubuntu Server (Linux) Hyper-V VM.",
+      "url": "https://www.linkedin.com/learning/installing-apache-mysql-and-php-3",
+      "certs": [
+        "CertificateOfCompletion_Installing Apache MySQL and PHP_LI.pdf"
+      ]
+    },
+    {
+      "index": 11,
+      "title": "Learning Regular Expressions",
+      "instructor": "Kevin Skoglund",
+      "date_completed": "2020-10-13",
+      "synopsis": "Regular expressions, or regexes, can help you speed up tedious tasks and streamline your workflow. Regexes can be used in most modern programming languages, including Java, JavaScript, Perl, Python, ActionScript, and C#. In this course, learn how to use regexes to define complex text patterns which can be used for powerful search and replace techniques. Instructor Kevin Skoglund covers the basic syntax of regexes, shows how to create flexible matching patterns, and demonstrates how the regular expression engine parses text to find matches. Learn how to write regexes using character sets, grouping, alternation, start and end anchors, word boundaries; and more.",
+      "objectives": [
+        "Creating flexible patterns using character sets",
+        "Achieving efficiency when using repetition",
+        "Writing logical and efficient alternations",
+        "Defining character sets",
+        "Greedy and lazy expressions",
+        "Writing regexes using start and end anchors"
+      ],
+      "skills": [" Pattern Matching", "Regular Expressions"],
+      "comments": "Great course!<br />From minimally using grep in HP-UX at a job, to programming classes, to using grep in Linux courses, I always told myself, \"I need to learn more about Regular Expressions.\"<br />And now I have!",
+      "url": "https://www.linkedin.com/learning/learning-regular-expressions-2",
+      "certs": ["CertificateOfCompletion_Learning Regular Expressions_LI.pdf"]
+    },
+    {
+      "index": 10,
+      "title": "Learning the JavaScript Language",
+      "instructor": "Joe Chellman",
+      "date_completed": "2020-10-12",
+      "synopsis": "JavaScript is the lingua franca of the web, but before using it to create dynamic websites, you need to understand how it works. In this course, Joe Chellman explores the syntax behind the JavaScript language. He shows how to \"speak\" JavaScript by gaining an understanding of variables, types, objects, arrays, operators, control structures, loops, and functions, through a series of hands-on examples that put these ideas into action. After completing this course, most developers will grasp the core syntax of JavaScript and how this scripting language works to build powerful and complex functionality on the web.",
+      "objectives": [
+        "Using a text editor",
+        "Declaring and assigning variables",
+        "Booleans and the quest for truth",
+        "Working with objects and arrays",
+        "Using operators and control structures",
+        "Iterating with loops",
+        "Objects, references, and functions",
+        "Promises, async, and await"
+      ],
+      "skills": ["Front-end Development", "JavaScript"],
+      "comments": null,
+      "url": "https://www.linkedin.com/learning/learning-the-javascript-language-2",
+      "certs": [
+        "CertificateOfCompletion_Learning the JavaScript Language_LI.pdf"
+      ]
+    },
+    {
+      "index": 9,
+      "title": "Phone-Based Customer Service",
+      "instructor": "Jeff Toister",
+      "date_completed": "2020-10-09",
+      "synopsis": "Customer service expert Jeff Toister helps customer service specialists develop the specific skills needed to help customers over the phone. Learn how to break the ice and develop rapport with the people you serve, even when you're pressed for time. Tune out distractions and develop listening skills that are critically important to phone service. Last, learn how to express empathy, de-escalate angry callers, and stay focused throughout the day.",
+      "objectives": [
+        "Developing the perfect phone greeting",
+        "Filling dead air",
+        "Managing holds and transfers",
+        "Listening",
+        "Expressing empathy",
+        "De-escalating angry callers"
+      ],
+      "skills": [
+        "Communication",
+        "Small Business Management",
+        "Customer Service",
+        "Phone Coverage"
+      ],
+      "comments": null,
+      "url": "https://www.linkedin.com/learning/phone-based-customer-service",
+      "certs": ["CertificateOfCompletion_PhoneBased Customer Service_LI.pdf"]
+    },
+    {
+      "index": 8,
+      "title": "Introduction to CSS",
+      "instructor": "Carrie Dils",
+      "date_completed": "2020-10-09",
+      "synopsis": "Once you have learned the basics of HTML, it's time to start exploring Cascading Style Sheets (CSS), the language that makes HTML look great in the browser. This course gives you a tour of the possibilities, showing what CSS is capable of doing and the basics you need to make it work for you. Join Carrie Dils as she explains what CSS is and how it works with HTML, discusses authoring options, and covers common CSS concepts such as the CSS box model and how to work with fonts and color. Plus, she demonstrates how to structure a page with CSS, maintain CSS with version control, work with media queries, and more.",
+      "objectives": [
+        "What is CSS?",
+        "Understanding how CSS works with HTML",
+        "Applying fonts",
+        "Understanding the classic box model",
+        "Setting margins and padding",
+        "Positioning elements",
+        "Basic CSS layout concepts",
+        "Media types and media queries",
+        "Working with CSS frameworks and CSS grids",
+        "Creating responsive layouts",
+        "Tools that help you write and maintain CSS"
+      ],
+      "skills": [
+        "Front-end Development",
+        "Cascading Style Sheets (CSS)",
+        "Web Standards"
+      ],
+      "comments": "Although billed as an \"Introduction,\" this course is PACKED with great information!",
+      "url": "https://www.linkedin.com/learning/introduction-to-css",
+      "certs": ["CertificateOfCompletion_Introduction to CSS_LI.pdf"]
+    },
+    {
+      "index": 7,
+      "title": "Working with Upset Customers",
+      "instructor": "Jeff Toister",
+      "date_completed": "2020-10-08",
+      "synopsis": "More than any other topic, frontline employees ask for advice on how to serve angry and upset customers. This course reveals proven techniques for effectively neutralizing negative situations. Customer service expert Jeff Toister also shares specific actions employees can take before and after encounters with upset customers that will reduce the likelihood of problems occurring in the future.",
+      "objectives": [
+        "Listening with empathy",
+        "Helping the customer be right",
+        "Preserving the relationship",
+        "Learning from angry customers",
+        "Passing along complaints",
+        "Replacing trigger words"
+      ],
+      "skills": ["Customer Communication", "Customer Service"],
+      "comments": "I liked the fact that he provided a PDF with Additional Resources, that had links.<br />Good customer service!<br />I've taken other courses here that didn't do that, but just popped up links during the videos, that couldn't even be copied/pasted. So I'd have to pause the presentation, go type the link into a browser, then create a bookmark/favorite for it.",
+      "url": "https://www.linkedin.com/learning/working-with-upset-customers",
+      "certs": ["CertificateOfCompletion_Working with Upset Customers_LI.pdf"]
+    },
+    {
+      "index": 6,
+      "title": "Learn API Documentation with JSON and XML",
+      "instructor": "Peter Gruenbaum",
+      "date_completed": "2020-10-05",
+      "synopsis": "Document the ins and outs of the data sent and received by web APIs so that developers can understand how to build applications that can successfully use that data. Programming and technical writing expert Peter Gruenbaum knows that APIs are becoming increasingly more important, which is why, in this course, he shows you how to document structured data using data-interchange formats to help you establish strong, foundational skills in web API documentation. Peter shares the benefits of creating good documentation, explains the differences between responses and requests, and discusses how to work with common data types and collections—from numbers and text to arrays and dictionaries. He then shows how to create and document structured data using JSON and then XML. He wraps up the course by examining the pros and cons of available documentation and collaboration tools like wikis and knowledge bases.",
+      "objectives": [
+        "The purpose of documentation",
+        "Data types",
+        "Structured data",
+        "Writing JSON and XML",
+        "Markdown",
+        "Documenting one-level JSON responses",
+        "Documenting nested JSON responses",
+        "XML attributes and examples",
+        "Documenting XML",
+        "Structuring data documentation"
+      ],
+      "skills": ["Application Programming Interfaces", "JSON", "XML"],
+      "comments": "I wasn't sure what this course was going to cover, and it turned out to be pretty interesting -<br />It pertains to the JSON and/or XML data used when sending requests to, and receiving responses from, Web APIs.<br />We learned how to clearly document that structured data using tables we created using Markdown (language).<br />I had just been introduced to Markdown in a course I had taken here recently, and it is a great tool - for quickly presenting formatted information (incl. links, pictures, tables, etc.), which can then be easily converted to HTML.<br />We also covered tools/systems and other resources that can be used in this endeavor.",
+      "url": "https://www.linkedin.com/learning/learn-api-documentation-with-json-and-xml",
+      "certs": [
+        "CertificateOfCompletion_Learn API Documentation with JSON and XML_LI.pdf"
+      ]
+    },
+    {
+      "index": 5,
+      "title": "Learning Python",
+      "instructor": "Joe Marini",
+      "date_completed": "2020-10-03",
+      "synopsis": "Python—the popular and highly readable object-oriented language—is both powerful and relatively easy to learn. Whether you're new to programming or an experienced developer, this course can help you get started with Python. Joe Marini provides an overview of the installation process, basic Python syntax, and an example of how to construct and run a simple Python program. Learn to work with dates and times, read and write files, and retrieve and parse HTML, JSON, and XML data from the web.",
+      "objectives": [
+        "Installing Python",
+        "Choosing an editor or IDE",
+        "Working with variables and expressions",
+        "Writing loops",
+        "Using the date, time, and datetime classes",
+        "Reading and writing files",
+        "Fetching internet data",
+        "Parsing and processing HTML"
+      ],
+      "skills": ["Python (Programming Language)"],
+      "comments": "There was a cool lesson where we worked with JSON data from a USGS Earthquakes GeoJSON Feed page, extracting and displaying some of the data from recent earthquakes.<br />This was my first exposure to working with JSON data, and I'm thinking about seeing if I can incorporate some of that earthquake data into an iOS app. I know that there are plenty of earthquake apps around, but I think it would be a good learning experience, nonetheless...",
+      "url": "https://www.linkedin.com/learning/learning-python/learning-python",
+      "certs": [
+        "CertificateOfCompletion_Learn API Documentation with JSON and XML_LI.pdf"
+      ]
+    },
+    {
+      "index": 4,
+      "title": "Visual Studio Code for Web Developers",
+      "instructor": "Joe Marini",
+      "date_completed": "2020-09-30",
+      "synopsis": "A great code editor is a crucial addition to any web developer's arsenal of tools. In this course, learn how to make the most of Visual Studio (VS) Code—the powerful code editor from Microsoft—when working with web-based projects.<br /><br />Joe Marini kicks off the course by taking you through the app's user interface, and showing how to work with its basic editing features. Next, Joe demonstrates how to customize VS Code by configuring preferences, setting your own keyboard shortcuts, and working with snippets. He also explains how to maximize your productivity by installing and managing extensions from the Visual Studio Marketplace. Plus, he discusses how VS Code works with folders and collections of files, helps you understand the IntelliSense feature, and dives into the app's advanced code editing features, such as automatic formatting.",
+      "objectives": [
+        "Installing Visual Studio Code",
+        "The VS Code UI",
+        "Understand how VS Code works with built-in Git integration",
+        "Customizing VS Code",
+        "Configuring preferences",
+        "Setting keyboard shortcuts",
+        "Using extensions",
+        "Working with snippets",
+        "Using VS Code to edit different parts of the same file",
+        "Using multiple selections",
+        "Understanding how VS Code works with JSON files"
+      ],
+      "skills": [
+        "Front-end Development",
+        "Back-End Web Development",
+        "Visual Studio"
+      ],
+      "comments": null,
+      "url": "https://www.linkedin.com/learning/visual-studio-code-for-web-developers",
+      "certs": [
+        "CertificateOfCompletion_Visual Studio Code for Web Developers_LI.pdf"
+      ]
+    },
+    {
+      "index": 3,
+      "title": "Learning PowerShell",
+      "instructor": "Matt Hester",
+      "date_completed": "2020-09-26",
+      "synopsis": "What is PowerShell? PowerShell is a powerful language used for scripting and automation for your IT Infrastructure. In this short course, author Matt Hester provides an overview of the most current release, PowerShell 5.0, including how to read the PowerShell language and scripts, get help, and use cmdlets.<br /><br />Matt then dives into PowerShell's functions and What If statements, working with output, and coding in the Integrated Scripting Environment (ISE). The course wraps up with some tips on using PowerShell for both on-premises and cloud deployments involving Office 365 and Azure.",
+      "objectives": [
+        "Identify the purpose of a delimiter.",
+        "Recognize the tools needed to build a command using the ISE.",
+        "Identify the options to use when running Get-Service from a remote computer.",
+        "Recognize the capabilities of four cmdlets.",
+        "Explain how to transfer aliases from a file into PowerShell.",
+        "Determine if a cmdlet will generate an error when executed."
+      ],
+      "skills": ["PowerShell", "IT Automation"],
+      "comments": null,
+      "url": "https://www.linkedin.com/learning/learning-powershell",
+      "certs": [
+        "CertificateOfCompletion_Learning PowerShell_LI.pdf",
+        "CertificateOfCompletion_Learning PowerShell_NASBA.pdf"
+      ]
+    },
+    {
+      "index": 2,
+      "title": "Technical Writing: Quick Start Guides",
+      "instructor": "Leslie O'Flahavan",
+      "date_completed": "2020-09-25",
+      "synopsis": "A quickstart guide is a short, getting-started document that usually accompanies a product or software. In this course, writing instructor Leslie O'Flahavan explains the components, best writing practices, and overall strategy for creating a quickstart guide that helps readers easily find answers to their questions. Leslie shares how to base your quickstart guide on your user manual or develop your guide by using customer feedback. She also discusses how to clearly identify the overall purpose of your guide, write clear headings, and use plain language. To wrap up, she covers methods for getting feedback from subject matter experts and users to ensure that your guide is both accurate and useful.",
+      "objectives": [
+        "Explain the difference between a conceptual guide and a procedural guide.",
+        "Determine how to address a user when writing a quickstart guide.",
+        "Recall a tactic that helps avoid too many notes.",
+        "Identify the benefits of using plain language.",
+        "Name the most important aspect of formatting."
+      ],
+      "skills": ["Technical Writing"],
+      "comments": null,
+      "url": "https://www.linkedin.com/learning/technical-writing-quick-start-guides",
+      "certs": [
+        "CertificateOfCompletion_Technical Writing Quick Start Guides_LI.pdf",
+        "CertificateOfCompletion_Technical Writing Quick Start Guides_PMI.pdf"
+      ]
+    },
+    {
+      "index": 1,
+      "title": "Learning Linux Command Line",
+      "instructor": "Scott Simpson",
+      "date_completed": "2020-09-25",
+      "synopsis": "Knowledge of the Linux command line is critical for anyone who uses this open-source operating system. For many tasks, it's more efficient and flexible than a graphical environment. For administrators, it plays a vital role in configuring permissions and working with files. In this course, experienced instructor Scott Simpson discusses the basics of working with the Linux command line using the Bash shell, focusing on practical Linux commands with examples that help you navigate through the file and folder structure, edit text, and set permissions. Scott also discusses some of the common command-line tools, such as grep, awk, and sed, and command-line apps such as the nano and Vim text editors. The course wraps up with a look at how to install and update software with a package manager.",
+      "objectives": [
+        "Recognize what the characters \"-h\" represent in the statement \"df –h/home/alice/Documents\"",
+        "Explain how to recall a previous command in Bash.",
+        "Identify what the command \"ls -l\" will show.",
+        "Recall what is needed to use the find command to look for files by name, size, and so on.",
+        "List the two modes file permissions can be set to.",
+        "Recall why many command line tools are intended to be used in pipes with other commands.",
+        "Explain what the command \"grep -E \"[123]\" report.txt\" will show.",
+        "Identify what the \">\" symbol is often used for."
+      ],
+      "skills": [
+        "Bash",
+        "Network Administration",
+        "Computer Networking",
+        "Linux"
+      ],
+      "comments": "Excellent course! I recently created several Hyper-V VMs (in part, to learn a little about working with Hyper-V) of various Linux flavors on my laptop. And it has been several years since Connie sent the Kofax Technical Support dept. to Linux classes, so I needed a refresher. I had already (re)learned some of this by looking stuff up on the Internet, but this would have saved me some time. And this course helped me to understand why/how things are as they are.<br />And I also learned about using Linux in Windows using the WSL (Windows Subsystem for Linux).",
+      "url": "https://www.linkedin.com/learning/learning-linux-command-line-2",
+      "certs": [
+        "CertificateOfCompletion_Learning Linux Command Line_LI.pdf",
+        "CertificateOfCompletion_Learning Linux Command Line_NASBA.pdf",
+        "CertificateOfCompletion_Learning Linux Command Line_CompTIA.pdf"
+      ]
+    }
+  ]
+}

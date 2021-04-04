@@ -1,0 +1,76 @@
+/* @override 
+	http://iviewsource.com/exercises/json/mystyle.css */
+	
+body {
+	/* background: EEE7D5; */
+	/* background: #dce6f8; */
+	background:#05549e;
+	font-family: 'Libre Baskerville';
+}
+
+#coursebox {
+	/* width: 300px; */
+	width: 70%;
+	height: 460px;
+	margin: 0 auto;
+	/* margin: 0 auto auto auto; */
+	/* background: #93A1A1; */
+	background: #dce6f8;
+	/* background: white; */
+	padding: 1px 20px;
+	border-radius: 10px;
+	overflow: hidden;
+}
+
+#coursebox h3, #coursebox h4 {
+	font-weight: normal;
+	margin: 0;
+	padding: 0;
+} 
+
+#coursebox h3 {
+	font-size: 2em;
+	line-height: .8em;
+	font-family: 'Wendy One';
+	color: #115F79;
+}
+
+#coursebox h4 {
+	/* color: #973C26; */
+	color: #501313ce;
+	font-weight: bold;
+	margin-bottom: 5px;
+	line-height: 1.2em;
+}
+
+#coursebox h5 {
+	color: #05549e;
+}
+
+#coursebox img {
+	float: right;
+	margin-left: 10px;
+	border-radius: 10px;
+	width: 40%;
+}
+
+#coursebox p {
+	color: #1E3A40;
+	font-size: .8em;
+}
+
+#coursebox #next_btn, #coursebox #prev_btn {
+	/* background: #d33682; */
+	background: #5ea9f0;
+	padding: 5px 10px;
+	border-radius: 10px;
+	margin: 10px 0;
+	display: inline-block;
+}
+
+#coursebox a#next_btn, #coursebox a#prev_btn {
+	text-decoration: none;
+	color: #FFF;
+}
+
+
