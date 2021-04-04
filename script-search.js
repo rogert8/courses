@@ -25,7 +25,7 @@ $('#search').keyup(function () {
 				}	// no url exists
 
 				if (val.instructor && val.instructor[0] !== "") {
-					output += '<p>' + 'Instructor: ' + val.instructor + '<p>';
+					output += '<p>' + 'Instructor(s): ' + val.instructor + '<p>';
 				}	// isntructor exists
 
 				if (val.skills && val.skills.length > 0 && val.skills[0] !== "") {
