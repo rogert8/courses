@@ -2,22 +2,20 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8" />
-	<title>Course Search</title>
+	<title>Courses</title>
 	<link rel="stylesheet" href="styles.css" />
 </head>
 <body>
 	<div id="desc" style="font-size: 0.8em;">
-		I created this page after taking a couple of LinkedIn Learning courses — <i>JavaScript and AJAX: Integration Techniques</i> and <i>JavaScript and JSON: Integration Techniques.</i><br />I took what I learned from those two courses, and started with what we ended up with from the former, modifying it for my use here, and creating my own JSON file to use as the data.<br /><br />Click in the search entry box — Backspace to display all of the courses I have taken from LinkedIn Learning, in reverse-chronological order, or type for a live search, with the results filtering as you type...<br />Hovering over an entry in the list will expand it, displaying further info. You can then click on the link that is the Course Title, which will bring you to that course on the LinkedIn Learning site, and click on the link(s) for the certificate(s) to view the PDF certificate file(s).
+		I created these pages after taking a couple of LinkedIn Learning courses — <i>JavaScript and AJAX: Integration Techniques</i> and <i>JavaScript and JSON: Integration Techniques.</i> I took what I learned from those two courses (and other courses and resources), modifying our completed projects for my use here, and creating my own JSON file to use as the data.<br /><br /><div>Click the enabled button(s) to go to the related page(s).<br /><br /><i>Note: These pages are likely to change frequently, as this ongoing project is a work-in-progress (and I continuously take new courses).</i></div>
 	</div>
-<div id="searcharea">
-	<label for="search">search</label>
-	<p>Enter a Course, Instructor, Skill, or Learning Objective:</p>
-	<input type="search" name="search" id="search" placeholder="course, instructor, skill, or learning objective" />
-</div>
-<div id="update"></div>
+	<div id="btns">
+		<btn onclick="window.location.href='coursesearch.html';">Course Search</btn> <btn id="btncoursescycle" >Courses Cycle</btn>
+	</div>
+		
 <script src="jquery.js"></script>
 <!-- <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script> -->
-<script src="script.js"></script>
+
 <!-- <script src="script-test.js"></script> -->
 </body>
 </html>
