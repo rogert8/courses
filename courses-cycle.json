@@ -1,6 +1,38 @@
 {
   "courses": [
     {
+      "index": 59,
+      "title": "Cloud Native Development with Node.js, Docker, and Kubernetes",
+      "instructor": "Chris Bailey",
+      "date_completed": "2021-04-11",
+      "date": [
+        {
+          "$date": "2021-04-11T19:00:00.000Z"
+        }
+      ],
+      "synopsis": "While the vast majority of Node.js apps are deployed and run in the cloud, few leverage all that modern cloud computing platforms have to offer. If you're looking to take the next step in your cloud computing journey, then this course is for you. Join Chris Bailey as he shows developers how to go from merely hosting apps in the cloud to building and deploying cloud native apps. Chris begins by providing an overview of what it means to be cloud native and create Node.js apps that exploit the cloud's features. He then steps through how to take an existing Node.js app and package it with Docker, deploy the app to Kubernetes, and enhance it with cloud native capabilities, including support for self-healing and metrics.",
+      "objectives": [
+        "Using Node.js in the cloud",
+        "Creating a Node.js app",
+        "Building a production Dockerfile",
+        "Deploying an app to Kubernetes using Helm",
+        "Adding self-healing capabilities",
+        "Building custom charts and graphs",
+        "Adding support for metrics and request tracking"
+      ],
+      "skills": [
+        "Cloud Application Development",
+        "Kubernetes",
+        "Node.js",
+        "Docker Products"
+      ],
+      "comments": "I saw that a former coworker had taken this course, and I had taken Node.js and Docker courses here, and wanted to learn about Kubernetes. So this sounded like a good course for me...and it was.<br />We created Containers for a nodeserver - in dev and debug \"flavors,\" as well as a \"slim\" production Container.<br />We used Kubernetes to deploy multiple instances of our app (a simple Web site/page, in this case) for load-balancing.<br />We set up a few endpoints so that Kubernetes could check the health of our deployments, to restart as necessary, as well as for metrics.<br />We deployed Prometheus to collect those metrics, and Grafana for a nice graphical dashboard.<br />Finally, we added Zipkin and Jaeger for OpenTracing.<br /><br />As with other courses here, at times it was a bit of a struggle because of newer versions of things that are now available than were used in the course, as well as the pointed-to Web sites for acquiring the various things having changed.",
+      "url": "https://www.linkedin.com/learning/cloud-native-development-with-node-js-docker-and-kubernetes/docker-vs-kubernetes",
+      "certs": [
+        "CertificateOfCompletion_CloudNativeDevelopmentWithNodejsDockerAndKubernetes.pdf"
+      ]
+    },
+    {
       "index": 58,
       "title": "MySQL Essential Training",
       "instructor": "Bill Weinman",
@@ -79,7 +111,7 @@
         "Ensuring a response"
       ],
       "skills": ["Bash", "Shell Scripting"],
-      "comments": "Another refresher...<br />I was reminded of some things that I had forgotten - exact syntax, etc. - and got back up to speed.<br />Getting my development system set up, as laid out in this instructor's <i>Learning Windows Subsystem for Linux</i> course here, really helped. I was able to use VS Code on Windows, and execute on a WSL instance of Ubuntu 20.04. This allowed me to use one big script file for each chapter, remarking out each prior lesson's section as I went along. I included comments as to what we were doing and why. And once I completed the course, since I was using WSL, it was trivial to copy the directory there where I saved my scripts over to Windows, since I like saving all of the work I do on these courses here in a central location on my Windows machine.<br />And along the way, I created some command aliases that I wanted on WSL, and also looked up some common/recommended ones online, adding them to my <i>.bashrc</i> file.",
+      "comments": "Another refresher...<br />I was reminded of some things that I had forgotten - exact syntax, etc. - and got back up to speed.<br />Getting my development system set up, as laid out in this instructor's <i>Learning Windows Subsystem for Linux</i> course here, really helped. I was able to use VS Code on Windows, and execute on a WSL instance of Ubuntu 20.04. This allowed me to use one big script file for each chapter, remarking out each prior lesson's section as I went along. I included comments as to what we were doing and why. And once I completed the course, since I was using WSL, it was trivial to copy the directory there where I saved my scripts over to Windows, since I like saving all of the work I do in these courses here in a central location on my Windows machine.<br />And along the way, I created some command aliases that I wanted on WSL, and also looked up some common/recommended ones online, adding them to my <i>.bashrc</i> file.",
       "url": "https://www.linkedin.com/learning/learning-bash-scripting-2",
       "certs": ["CertificateOfCompletion_LearningBashScripting_LI.pdf"]
     },
