@@ -1,5 +1,31 @@
 [
   {
+    "index": 60,
+    "title": "Learning JDBC",
+    "instructor": "Frank P Moley III",
+    "date_completed": "2021-04-15",
+    "date": [
+      {
+        "$date": "2021-04-15T12:00:00.000Z"
+      }
+    ],
+    "synopsis": "Whether developers want to build mobile device apps for Android or web-based or desktop-based applications with the core Java SDK from Oracle, they must contend with the fact that many dynamic applications need to integrate data from a relational database. In this course, Frank Moley helps you get up to speed with the Java Database Connectivity (JDBC) API, showing how to use it to read and manage data from relational databases such as Postgres, Oracle Database, MySQL, and SQL Server in applications programmed with Java. Frank begins by going over key JDBC terminology, the basics of configuring a PostgreSQL database, and how to create the course project. He then provides detailed instructions on how to select and update data, work with transactions, handle exceptions, and more.",
+    "objectives": [
+      "Deciphering JDBC terminology",
+      "Using containerized PostgreSQL",
+      "Creating, reading, updating, and deleting data",
+      "The Repository pattern",
+      "Using stored procedures",
+      "Ordering and limiting results",
+      "Transactions in JDBC",
+      "Handling exceptions"
+    ],
+    "skills": ["Java"],
+    "comments": "When I first learned Java, JDBC didn't even exist yet, so I've been wanting to learn (about) it.<br />We connected to a PostgreSQL database in a Docker Container. I jumped ahead to the lesson in the PostgreSQL Essential Training course here that I have queued up about using a graphical interface, then installed pgAdmin 4 to connect to the database in the container, which made things easier than always using the Linux command line. <br />We coded the CRUD operations, implementing DAOs, including extracting/displaying data from a few table joins in a Master-Detail type of scenario.<br />We also used a stored procedure, covered transactions, and briefly covered exception handling, though not very much deeper than we used in our code.<br />The instructor briefly discussed the Java Persistence API (JPA), for which I already have a couple of courses queued up here, as well as Spring, so I guess I'll be going down more LinkedIn Learning rabbit holes...",
+    "url": "https://www.linkedin.com/learning/learning-jdbc",
+    "certs": ["CertificateOfCompletion_LearningJDBC_LI.pdf"]
+  },
+  {
     "index": 59,
     "title": "Cloud Native Development with Node.js, Docker, and Kubernetes",
     "instructor": "Chris Bailey",
