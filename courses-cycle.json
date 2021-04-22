@@ -1,6 +1,40 @@
 {
   "courses": [
     {
+      "index": 61,
+      "title": "Data Ingestion with Python",
+      "instructor": "Miki Tebeka",
+      "date_completed": "2021-04-21",
+      "date": [
+        {
+          "$date": "2021-04-21T19:00:00.000Z"
+        }
+      ],
+      "synopsis": "A sizable portion of a data scientist's day is often spent fetching and cleaning the data they need to train their algorithms. In this course, learn how to use Python tools and techniques to get the relevant, high-quality data you need. Instructor Miki Tebeka covers reading files, including how to work with CSV, XML, and JSON files. He also discusses calling APIs, web scraping (and why it should be a last resort), and validating and cleaning data. Plus, discover how to establish and monitor key performance indicators (KPIs) that help you monitor your data pipeline.",
+      "objectives": [
+        "Describe the characteristics of different data types and the work of data scientists.",
+        "Describe different data serialization formats and explain how to use them in Python.",
+        "Define APIs and explain how to use them with Python to make http calls, interpret JSON, and utilize message queues.",
+        "Explain what web scraping is and describe ways to do it.",
+        "Define what a schema is and describe characteristics of schemas and how they influence operations.",
+        "Describe the characteristics of different types of databases.",
+        "Categorize types of errors and explain how to correct them.",
+        "Explain design criteria for data systems and describe how to monitor performance using KPIs."
+      ],
+      "skills": [
+        "Python (Programming Language)",
+        "Data Management",
+        "Data Ingestion",
+        "Data Cleaning"
+      ],
+      "comments": "I learned a lot from this course. Even though I hope to further understand what was behind all that we were doing, in the future, I did get more practice with Pandas (a data analysis and manipulation library/tool for Python), as we used it throughout the course.<br />I also now have some nice Docker Containers - for Nats, a messaging system; a Redis key-value data store; a Neo4j Graph Database, for relationships; and one for an ElasticSearch document database.<br />I got some good experience working with CSV, JSON, and XML files, and APIs, as well as with various types of databases.<br /><br />The instructor spent little if any time about getting some of the environments set up, so I struggled mightily with that - sometimes for every lesson. Along with the fact that some things in the accompanying files were wrong. Fortunately, in the Q&A area, other students helped with some of these problems, and I also used the Internet at large to resolve other issues. So, if any of you take this course and need help with such issues, please feel free to hit me up...",
+      "url": "https://www.linkedin.com/learning/data-ingestion-with-python",
+      "certs": [
+        "CertificateOfCompletion_DataIngestionWithPython_LI.pdf",
+        "CertificateOfCompletion_DataIngestionWithPython_NASBA.pdf"
+      ]
+    },
+    {
       "index": 60,
       "title": "Learning JDBC",
       "instructor": "Frank P Moley III",
