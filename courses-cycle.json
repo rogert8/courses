@@ -1,6 +1,32 @@
 {
   "courses": [
     {
+      "index": 62,
+      "title": "pandas Essential Training",
+      "instructor": "Jonathan Fernandes",
+      "date_completed": "2021-04-28",
+      "date": [
+        {
+          "$date": "2021-04-28T19:00:00.000Z"
+        }
+      ],
+      "synopsis": "pandas is an open-source library that provides high-performance, easy-to-use data structures, and data analysis tools for Python. In this intermediate-level, hands-on course, learn how to use the pandas library and tools for data analysis and data structuring. Instructor Jonathan Fernandes dives into topics such as DataFrames, basic plotting, indexing, and groupby. To help you learn how to work with data more effectively, Jonathan takes you through a series of exercises that are based on the same large, public data set: the Olympic medal winners from 1896 to 2008.",
+      "objectives": [
+        "DataFrames",
+        "Working with plots",
+        "Boolean indexing",
+        "String handling",
+        "Indexing",
+        "Grouping data",
+        "Reshaping",
+        "Creating your own colormaps"
+      ],
+      "skills": ["Pandas (Software)", "Data Analysis"],
+      "comments": "I'd used <i>pandas</i> in the last course I took here, <i>Data Ingestion with Python</i> - that was mainly in scripts, using, for example, Visual Studio Code.<br />In this course, our vehicle was a <i>Jupyter Notebook.</i> I'd used those before, in a <i>Docker for Data Scientists</i> course here, but that was mainly just setting up a Container to use as a dev environment.<br />In our Jupyter Notebook here, we used <i>matplotlib</i> for plotting our data (results), as well as <i>Seaborn,</i> a data visualization library based on matplotlib.<br />We used a nice dataset - the Olympic medal winners from all of the Olympics from 1896 - 2008 - their countries, events, etc., which allowed us to glean various insights.",
+      "url": "https://www.linkedin.com/learning/pandas-essential-training",
+      "certs": ["CertificateOfCompletion_pandasEssentialTraining_LI.pdf"]
+    },
+    {
       "index": 61,
       "title": "Data Ingestion with Python",
       "instructor": "Miki Tebeka",
