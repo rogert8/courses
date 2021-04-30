@@ -1,5 +1,29 @@
 [
   {
+    "index": 63,
+    "title": "Introducing Jupyter",
+    "instructor": "Josh McQuiston",
+    "date_completed": "2021-04-30",
+    "date": [
+      {
+        "$date": "2021-04-30T19::00.000Z"
+      }
+    ],
+    "synopsis": "Present your projects like a pro with a new tool, Jupyter Notebook. Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, charts and graphics, and descriptive text. It’s ideal for machine learning, statistical modeling, and other projects that require analysis and visualization. Join instructor Josh McQuiston as he shows how to run Jupyter notebooks, streamline workflows, and use common graphs to visualize your data in uncommon ways. The lessons are illustrated with examples based in real data, so you get an accurate picture of the real-world impact Jupyter can make on your development projects.",
+    "objectives": [
+      "Running a Jupyter notebook",
+      "Using shortcuts",
+      "Line and cell commands",
+      "Visualizing data with plotting",
+      "Publishing Jupyter notebooks in GitHub",
+      "Presenting your notebooks with the slideshow feature"
+    ],
+    "skills": ["Data Visualization"],
+    "comments": "I used Jupyter Notebooks in prior courses that I've taken here - <i>pandas Essential Training</i> and <i>Docker for Data Scientists.</i> During the pandas Essential Training course, I explored Jupyter Notebooks on my own, to see more of how they work, and what all was available. That led me to take this course, dedicated to this topic.<br />We covered all parts of the interface, the different modes, some good keyboard shortcuts, and Line/Cell Magic Commands, which among other things, allow for loading, running, and writing/saving external Python scripts in a Notebook.<br />As in the pandas Essential Training course, we covered plotting (graphs), sometimes more in-depth.<br />Finally, we exported our Notebook in different formats - HTML, PDF, and as an HTML Slideshow.",
+    "url": "https://www.linkedin.com/learning/introducing-jupyter",
+    "certs": ["CertificateOfCompletion_IntroducingJupyter_LI.pdf"]
+  },
+  {
     "index": 62,
     "title": "pandas Essential Training",
     "instructor": "Jonathan Fernandes",
