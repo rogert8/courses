@@ -55,11 +55,19 @@ body {
 	color: #501313ce;
 	font-weight: bold;
 	margin-bottom: 5px;
-	line-height: 1.2em;
+	/* line-height: 1.2em; */
 }
 
 #coursebox h5 {
 	color: #05549e;
+
+}
+
+#coursebox h6 {
+	color: #05549e;
+	margin-bottom: 2px;
+	/* float: right; */
+	/* display: inline-block; */
 }
 
 #coursebox img {
@@ -80,6 +88,7 @@ body {
 	padding: 5px 10px;
 	border-radius: 10px;
 	margin: 10px 0;
+	margin-bottom: 0px;
 	display: inline-block;
 }
 
