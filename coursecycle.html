@@ -25,12 +25,13 @@
     <script id="coursestpl" type="text/template">
       {{#courses}}
       	<div class="course">
-      		<!-- <img src="images/{{index}}.jpg" alt="Photo of {{index}}" /> -->
+          <!-- <h6>#{{index}}</h6> -->
+                		<!-- <img src="images/{{index}}.jpg" alt="Photo of {{index}}" /> -->
       		<a href="{{url}}" target="_blank"><img src="images/{{index}}.JPG" alt="Photo of {{index}}" /></a>
       		<!-- <h3>{{title}}</h3> -->
       		<!-- <h4>{{title}}</h4> -->
       		<!-- <h4><a href="{{url}}">{{title}}</a></h4> -->
-          <h5>#{{index}}</h5>
+          <h6>#{{index}}</h6>
       		<h4>{{title}}</h4>
       		<h5>Instructor(s): {{instructor}}</h5>
       		<p style="font-size: 0.7em;"><b>Completed: </b>{{date_completed}}<style="font-size: 1em;" /p>
