@@ -1,6 +1,32 @@
 {
   "courses": [
     {
+      "index": 64,
+      "title": "JSON Processing with Java EE",
+      "instructor": "Alex Theedom",
+      "date_completed": "2021-05-04",
+      "date": [
+        {
+          "$date": "2021-05-04T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "JSON is a ubiquitous and lightweight data transfer format used for the storage and interchange of information in an organized and human-readable manner. It is commonly used as the data format of choice in microservices, RESTful APIs, and NoSQL data stores. Knowing how to manipulate JSON is crucial knowledge for any developer.<br /><br />In this course, discover how to use the Java Enterprise Edition (EE) JSON-Processing API. With its two programming models, JSON-Processing is one of the simplest ways to generate, query, and parse JSON data, and you'll find that implementing it in your projects is quick and easy. Join Alex Theedom as he covers an array of topics, including how to use both the object model and the streaming model, how to traverse a JSON structure, and how to parse JSON data using the extensive builder APIs. When you wrap up this course, you'll be ready to develop with this essential and powerful API.",
+      "objectives": [
+        "Working with JSON and Java",
+        "JSON-Processing API features",
+        "The Java EE JSON object model",
+        "Creating a model from a JSON string",
+        "Building a JSON model",
+        "Traversing the JSON model",
+        "Outputting the JSON model to a data stream",
+        "Parsing and writing JSON data"
+      ],
+      "skills": ["Software Design", "JSON", "Java"],
+      "comments": "A good course on processing JSON with Java, using the JSON-Processing (JSON-P) API. It is similar to other languages' processing of JSON/XML.<br />And while probably not exactly \"test-driven development,\" we did spend a lot of time writing tests to verify that our code worked (as opposed to just \"printing\" out the resultant JSON strings).<br />(We used the IntelliJ IDEA.)",
+      "url": "https://www.linkedin.com/learning/json-processing-with-java-ee",
+      "certs": ["CertificateOfCompletion_JSONProcessingWithJavaEE_LI.pdf"]
+    },
+    {
       "index": 63,
       "title": "Introducing Jupyter",
       "instructor": "Josh McQuiston",
