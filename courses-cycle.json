@@ -1212,7 +1212,7 @@
         "Greedy and lazy expressions",
         "Writing regexes using start and end anchors"
       ],
-      "skills": [" Pattern Matching", "Regular Expressions"],
+      "skills": ["Pattern Matching", "Regular Expressions"],
       "comments": "Great course!<br />From minimally using grep in HP-UX at a job, to programming classes, to using grep in Linux courses, I always told myself, \"I need to learn more about Regular Expressions.\"<br />And now I have!",
       "url": "https://www.linkedin.com/learning/learning-regular-expressions-2",
       "certs": ["CertificateOfCompletion_Learning Regular Expressions_LI.pdf"]
