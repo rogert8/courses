@@ -1,5 +1,33 @@
 [
   {
+    "index": 65,
+    "title": "Learning Java Applications",
+    "instructor": "Todd Perkins",
+    "date_completed": "2021-05-09",
+    "date": [
+      {
+        "$date": "2021-05-09T19:00:00.000Z"
+      }
+    ],
+    "synopsis": "Get a practical introduction to Java programming, focused on developing Java applications for desktop, web, and mobile platforms. In this course, Todd Perkins provides a structured guide to Java application development. He reviews the basic building blocks of the Java language: variables, functions, arrays, conditional statements, classes, and more. In chapters 3 and 4, he shows how to build a user interface with Swing, the UI toolkit for Java, and connect Swing table components to different data sources. He also covers distribution and deployment of Java applications via JAR files, server-side programming with JavaServer Pages (JSP), and the Android development workflow. By the end of the course, you should know the basics of Java and be able to create simple desktop, web, and mobile apps of your own.",
+    "objectives": [
+      "Installing Java",
+      "Choosing an IDE",
+      "Creating a Java class",
+      "Java language basics",
+      "Creating a UI with Swing",
+      "Storing data in tables and arrays",
+      "Publishing and using JAR files",
+      "Creating a JPS project",
+      "Writing server-side Java",
+      "Developing Android apps with Java"
+    ],
+    "skills": ["Application Development", "Java"],
+    "comments": "I wanted to take this course because, while we created \"console\" applications in the other Java courses I have taken here, this course covered graphical applications, using <i>Swing.</i> And I have an old Java program that I created back after I first learned Java, that was graphical, which I used to place instruments in a space (stage, room, etc.) for MIDI files for my synthesizer, that I want to recreate. I can't find the source code for that. (It may be on a 3.5\" floppy somewhere here). Back then we didn't have the nice Swing tools, and had to do everything from scratch in code.<br />We published runnable JAR files, including with resources, and installed Apache Tomcat and ran Java code from a .jsp page in our Web browser.<br />We ended up with installing Android Studio, based on IntelliJ IDEA, and created and ran a simple Android app. That was nice for me, since I'd only learned iOS development before.<br />In the bulk of the course, we used the Eclipse IDE and I found that its Code Completion is not as \"smart\" as other IDEs, such as IntelliJ IDEA, as it completes method calls, but not variables. It does, however, also alert you and make it easy to import libraries that you use in code.",
+    "url": "https://www.linkedin.com/learning/learning-java-applications-2",
+    "certs": ["CertificateOfCompletion_LearningJavaApplications_LI.pdf"]
+  },
+  {
     "index": 64,
     "title": "JSON Processing with Java EE",
     "instructor": "Alex Theedom",
