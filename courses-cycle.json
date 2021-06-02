@@ -1,6 +1,42 @@
 {
   "courses": [
     {
+      "index": 67,
+      "title": "Building Web APIs with ASP.NET Web API 2.2",
+      "instructor": "Jonathan \"J.\" Tower",
+      "date_completed": "2021-06-02",
+      "date": [
+        {
+          "$date": "2021-06-02T19:00:00.000Z"
+        }
+      ],
+      "synopsis": "Learn how to connect web and mobile applications to back-end servers and databases in your applications using ASP.NET Web API 2.2, a popular framework for building web APIs on top of the .NET Framework. In this course, join Jonathan \"J.\" Tower as he steps through how to use this framework to efficiently create RESTful services. Learn how routing works with Web API to ensure APIs work as planned and are easily consumed by remote applications. Discover how data is modeled in Web API, along with how to build business logic for your API. Plus, learn about handling errors, securing your services, and documenting and testing your APIs.",
+      "objectives": [
+        "Convention-based routing",
+        "Binding your code to an HTTP request",
+        "Validating models",
+        "Using attributes to route requests",
+        "Customizing attribute routes",
+        "Data serialization and model binding",
+        "Error handling",
+        "Using exception filters and exception loggers",
+        "API documentation and testing",
+        "Securing your API"
+      ],
+      "skills": [
+        "ASP.NET",
+        "C#",
+        "Application Programming Interfaces",
+        "Back-End Web Development",
+        "Entity Framework"
+      ],
+      "comments": "This was a really good course.<br />We used C#, and covered different ways of routing requests, including using Data Transfer Objects (DTOs) to streamline requests/responses.<br />We covered error/exception handling, a couple of different ways to implement API documentation, and authorization and securing the API. I was glad to learn about securing all or part of an API, and do have some other courses queued up about this.<br />Postman, which I had used before, was the tool we used for testing the API, and we learned some tips and tricks for that tool, of which I hadn't been aware.<br />We used the NuGet Package Manager UI in Visual Studio to install packages for JSON Web Tokens (for Authorization) and Swashbuckle/Swagger for documentation. Earlier in the course, I became aware of/familiar with the Package Manager Console, when I had to do some things to take care of the differences between the current state of Visual Studio/.NET Framework, and things as they had been when this course was created.<br /><br />I also had to troubleshoot a <pre>Could not find a part of the path '...\\bin\\roslyn\\csc.exe'</pre>error, and can pass on the simplest solution, if anyone is interested.",
+      "url": "https://www.linkedin.com/learning/building-web-apis-with-asp-dot-net-web-api-2-2-2",
+      "certs": [
+        "CertificateOfCompletion_BuildingWebAPIsWithASP.NETWebAPI2.2_LI.pdf"
+      ]
+    },
+    {
       "index": 66,
       "title": "Communication within Teams",
       "instructor": "Daisy Lovelace",
