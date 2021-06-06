@@ -1,5 +1,27 @@
 [
   {
+    "index": 68,
+    "title": "SQL Code Challenges",
+    "instructor": "Scott Simpson",
+    "date_completed": "2021-06-05",
+    "date": {
+      "$date": ["2021-06-05T13:00:00.000Z"]
+    },
+    "synopsis": "Want to assess your SQL skills? These concise challenges let you stretch your brain and test your talents. Get hands-on practice querying and retrieving data, adding new tables to existing databases, updating data in multiple tables and multiple records, and presenting summary data. LinkedIn Learning staff instructor Scott Simpson structures each challenge in real-world scenarios: a restaurant website that takes reservations and online orders, and a library lending system. After each challenge, Scott shares his own solution. You can see how a professional programmer creates personalized, data-driven documents; handles sign-up data; deletes records; prepares reports; and more.",
+    "objectives": [
+      "Composing SELECT statements to retrieve data",
+      "Searching records by date ranges",
+      "Adding tables to existing databases",
+      "Adding data to more than one table",
+      "Updating multiple records simultaneously",
+      "Generating summary reports"
+    ],
+    "skills": ["Database Queries", "SQL"],
+    "comments": "I intentionally took a while to complete this course, working on a query or two here and there (while I was working on other courses) to stay sharp over time.<br />Even the most difficult challenges weren't too difficult, but I did learn about some of the differences in syntax between SQLite's SQL and other SQL flavors.<br />We used DB Browser for SQLite, and worked in databases for a restaurant and for a library. The challenge scenarios were interesting, as they would be typical for those entities.",
+    "url": "https://www.linkedin.com/learning/sql-code-challenges",
+    "certs": ["CertificateOfCompletion_SQLCodeChallenges_LI.pdf"]
+  },
+  {
     "index": 67,
     "title": "Building Web APIs with ASP.NET Web API 2.2",
     "instructor": "Jonathan \"J.\" Tower",
