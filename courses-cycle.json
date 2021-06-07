@@ -1,6 +1,27 @@
 {
   "courses": [
     {
+      "index": 69,
+      "title": "Introducing Entity Framework",
+      "instructor": "Cam Soper and Microsoft .NET",
+      "date_completed": "2021-06-06",
+      "date": [
+        {
+          "$date": "2021-06-06T19:00:00.000Z"
+        }
+      ],
+      "synopsis": "Instructor Cam Soper introduces Entity Framework (EF) Core. EF Core is an object-relational mapper (ORM) that simplifies working with relational databases using strongly typed .NET objects. Cam shows you how to reverse engineer an existing database for use with EF Core. He explains that ASP.NET and EF Core are a perfect match to accelerate your web app development. He demonstrates how to use SQLite and Azure Cosmos database providers with EF Core. Cam concludes by exploring several ways you can optimize your EF Core code.  This course was created by Microsoft.NET. We are pleased to host this training in our library.",
+      "objectives": null,
+      "skills": [
+        "Entity Framework (EF) Core",
+        "Relational Databases",
+        ".NET Framework"
+      ],
+      "comments": "In a prior course I took here, Building Web APIs with ASP.NET Web API 2.2, we used the Entity Framework (to work with/model databases). I wanted to learn more about it, and see why things were as they were in the Exercise Files we were provided with in that course.<br />Again, we used C#, this time for a Console app, and again using the Nuget Package Manager, this time to add the Entity Framework Core packages. Using that, we created a database and tables programmatically.<br />We learned how to use the Scaffold-DbContext NuGet Package Manager Console command to reverse-engineer an existing database, auto-creating classes for the tables, etc.<br />Then we used ASP.NET Core scaffolding with Entity Framework to auto-create Web pages to handle CRUD operations on the database. <br />We then covered other (than SQL Server) database providers - for SQLite and Azure Cosmos DB.<br />To get a SQLite database file of the SQL Server database we were using, I had to go find the SQL Server database files, attach them into my SQL Server instance, and find a convertor that connected to that instance and converted the database to a SQLite .db file.<br />For the Azure Cosmos database Solution, I was barely able to see all of the connection properties (to his Azure DB) on screen, but did get it to connect and display our Create Product screen. But even after several attempts, I didn't get the Save to work, as he glossed over that, merely telling us that he already had the Models classes set up in his Solution.<br />We then learned some performance tips.",
+      "url": "https://www.linkedin.com/learning/introducing-entity-framework",
+      "certs": ["CertificateOfCompletion_IntroducingEntityFramework_LI.pdf"]
+    },
+    {
       "index": 68,
       "title": "SQL Code Challenges",
       "instructor": "Scott Simpson",
