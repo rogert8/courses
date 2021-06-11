@@ -1,5 +1,37 @@
 [
   {
+    "index": 70,
+    "title": "Learning React.js",
+    "instructor": "Eve Porcello",
+    "date_completed": "2021-06-10",
+    "date": [
+      {
+        "$date": "2021-06-10T19:00:00.000Z"
+      }
+    ],
+    "synopsis": "React.js is designed to make the process of building modular, reusable user interface components simple and intuitive. In this course, Eve Porcello guides you through the foundations of React development, including the use of React hooks—a new feature starting in React 16.8 that allows developers to add functionality to components without writing classes. Eve shows how to create components, display dynamic data with properties, and render components using JSX syntax. Eve also manages the state of components with hooks; uses powerful React enhancements, such as the useEffect hook for loading remote data; and leverages cloud deployment options for apps created with create-react-app.<br /><br />This course was created by Eve Porcello. We are pleased to offer this training in our library.",
+    "objectives": [
+      "What is React.js?",
+      "Creating and rendering React elements",
+      "Introducing JSX",
+      "Creating a React component",
+      "Rendering",
+      "Managing state with hooks",
+      "Using multi-state variables",
+      "Fetching data",
+      "Deploying a React app"
+    ],
+    "skills": [
+      "Web Development",
+      "Application Frameworks",
+      "JavaScript",
+      "React.js"
+    ],
+    "comments": "This is a nice course on using React.js, an open-source JavaScript library used for building user interfaces.<br />And Create React App (create-react-app) is pretty cool, generating a React project structure. You can then modify the index.html, index.js and other files to create your app.<br />We learned about creating React Elements and React Components.<br />We finished up by generating a production build of our app, and putting it up on Netlify for hosting.<br />And now I have some React Native and GraphQL courses queued up...",
+    "url": "https://www.linkedin.com/learning/learning-react-js-5",
+    "certs": ["CertificateOfCompletion_LearningReact.js_LI.pdf"]
+  },
+  {
     "index": 69,
     "title": "Introducing Entity Framework",
     "instructor": "Cam Soper and Microsoft .NET",
