@@ -1,5 +1,32 @@
 [
   {
+    "index": 71,
+    "title": "Advanced Python",
+    "instructor": "Joe Marini",
+    "date_completed": "2021-06-17",
+    "date": [
+      {
+        "$date": "2021-06-17T19:00:00.000Z"
+      }
+    ],
+    "synopsis": "Develop your Python programming skills. Python is a great choice for building all kinds of applications, but to fully take advantage of its power and flexibility, you need to master all its advanced functionality. In this course, you can learn how to leverage next-level Python features such as object-oriented special class methods, use logging to track performance and user activity, see how to port code from Python 2 to 3, and make your code more efficient and easier to read and maintain. Instructor Joe Marini also shows how to manipulate data, build custom classes and functions, create lists, and write more elegant, optimized code.",
+    "objectives": [
+      "Truth value testing",
+      "Template strings",
+      "Iterators",
+      "Transforms",
+      "Advanced Python functions",
+      "Advanced collections",
+      "Advanced classes and objects",
+      "Logging",
+      "Python comprehensions: list, dictionary, and set"
+    ],
+    "skills": ["Python (Programming Language)", "Coding Practices"],
+    "comments": "A very good course.<br />We learned about advanced collections, such as a namedtuple, Counters, and OrderedDict and Deque objects.<br />And we learned about adding object operations and comparisons to classes, and using the logging module.<br />We also learned about comprehensions - using a special syntax to derive a new list of values from an existing list of values. This syntax shortens the code (compared to using map), and can also be applied to dictionaries and sets.",
+    "url": "https://www.linkedin.com/learning/advanced-python",
+    "certs": ["CertificateOfCompletion_AdvancedPython_LI.pdf"]
+  },
+  {
     "index": 70,
     "title": "Learning React.js",
     "instructor": "Eve Porcello",
