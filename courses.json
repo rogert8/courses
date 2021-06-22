@@ -1,5 +1,35 @@
 [
   {
+    "index": 72,
+    "title": "Serverless and Microservices for AWS",
+    "instructor": "Aileen Smith",
+    "date_completed": "2021-06-21",
+    "date": [
+      {
+        "$date": "2021-06-21T19:00:00.000Z"
+      }
+    ],
+    "synopsis": "The benefit of serverless architectures are well-defined. Serverless helps developers focus on what they do best—building solutions—without the difficulty of managing and scaling infrastructure. However, when it comes to implementation, the instructions are much less clear. In this course, developer and AWS Community Hero Aileen Smith explores both the how and the why of serverless microservices architectures in AWS. Learn how to leverage Lambda functions and Elastic Container Service (ECS) components, choose the right integration technology, configure an API for access, and coordinate serverless workflows with Step Functions. Aileen also shows how to transition an existing application to serverless and solve common deployment and management challenges.",
+    "objectives": [
+      "Serverless technologies on AWS",
+      "What are microservices?",
+      "Building serverless components on AWS",
+      "Hybrid architectures",
+      "Serverless machine learning",
+      "Transitioning an existing application to serverless",
+      "Serverless challenges and solutions"
+    ],
+    "skills": [
+      "Microservices",
+      "Cloud Computing",
+      "Serverless Computing",
+      "Amazon Web Services (AWS)"
+    ],
+    "comments": null,
+    "url": "https://www.linkedin.com/learning/serverless-and-microservices-for-aws",
+    "certs": ["CertificateOfCompletion_ServerlessAndMicroservicesForAWS_LI.pdf"]
+  },
+  {
     "index": 71,
     "title": "Advanced Python",
     "instructor": "Joe Marini",
