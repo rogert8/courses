@@ -1,6 +1,33 @@
 {
   "courses": [
     {
+      "index": 73,
+      "title": "Installing and Running WordPress: Local by FlyWheel",
+      "instructor": "Morten Rand-Hendriksen",
+      "date_completed": "2021-06-25",
+      "date": [
+        {
+          "$date": "2021-06-25T19:00:00.000Z"
+        }
+      ],
+      "synopsis": "Whether you’re just learning to use WordPress or busy developing new WordPress websites and themes, having a local version is essential. Installing WordPress on your computer gives you full control for experimentation, development, and testing. You see the changes you make immediately—no need to upload and download files. Local by FlyWheel is a free application that makes it easy to get a local WordPress environment up and running fast. In this course, instructor Morten Rand-Hendriksen helps you install and run WordPress locally on both Windows and Mac using Local. He then shows how to take advantage of all its benefits, including Live Link, local file access, cloning, and Blueprints, a special Local feature that makes launching your next WordPress site even easier.",
+      "objectives": [
+        "Downloading and installing Local",
+        "Configuring SSL",
+        "Turning on and off local sites",
+        "Enabling and using Live Link",
+        "Accessing and editing local files and databases",
+        "Cloning and export sites",
+        "Creating and using Blueprints"
+      ],
+      "skills": ["Content Management", "WordPress"],
+      "comments": "Although I have experience managing Web sites on various platforms, I didn't have experience with WordPress. So I started taking the WordPress.com Essential Training course here. Then I realized that I should take the WordPress 5 Essential Training course, using the version from WordPress.org, which allows for more control, and which would likely be the platform in use at a place that I would work using/supporting it, instead.  So I started taking that course, where the instructor recommended this course, to get a local installation of WordPress to work with.<br />Local by FlyWheel is pretty cool - you can creae WordPress sites that run in their own containers. And when creating the sites, you can choose between a couple of Web Servers, some PHP and some MySQL versions.<br />We learned how to turn on and off sites, clone and export them, and use a site as a Blueprint to create future sites from. We also learned about accessing the command line interface for WordPress.<br />Now back to the WordPress 5 Essential Training course...",
+      "url": "https://www.linkedin.com/learning/installing-and-running-wordpress-local-by-flywheel",
+      "certs": [
+        "CertificateOfCompletion_InstallingAndRunningWordPressLocalByFlyWheel_LI.pdf"
+      ]
+    },
+    {
       "index": 72,
       "title": "Serverless and Microservices for AWS",
       "instructor": "Aileen Smith",
