@@ -1,6 +1,31 @@
 {
   "courses": [
     {
+      "index": 74,
+      "title": "WordPress 5 Essential Training",
+      "instructor": "Morten Rand-Hendriksen",
+      "date_completed": "2021-06-27",
+      "date": [
+        {
+          "$date": "2021-06-27T19:00:00.000Z"
+        }
+      ],
+      "synopsis": "WordPress powers millions of blogs and websites. Available in 180 languages, WordPress can be hosted on any server, accessed in any browser, and built into almost anything you imagine: blog, portfolio, website, or online store. Learn how to create your own web experiences with this powerful and open-source publishing platform. Instructor Morten Rand-Hendriksen helps you get the most out of WordPress and create feature-rich blogs and websites. Morten explains how to create and publish posts and pages; create and edit blocks; and define reusable content blocks to take full advantage of the new block editor codenamed \"Gutenberg.\"<br /><br />Note: This course covers WordPress 5. The training will be updated as WordPress evolves.",
+      "objectives": [
+        "Installing WordPress",
+        "Creating posts and pages",
+        "Formatting text",
+        "Publishing and scheduling posts",
+        "Adding images, audio, and video",
+        "Bulk editing posts and pages",
+        "Working with reusable blocks"
+      ],
+      "skills": ["Blogging Software", "Content Management", "WordPress"],
+      "comments": "This is a good course, focusing on content management, using the powerful Block Editor.<br />I appreciated the Reusable Block feature, and the ability to use it to create templates, which I can envision being useful for creating Knowledge Base content.<br />Now on to the <i>WordPress 5 Essential Training: Site Administration</i> course...",
+      "url": "https://www.linkedin.com/learning/wordpress-5-essential-training",
+      "certs": ["CertificateOfCompletion_WordPress5EssentialTraining_LI.pdf"]
+    },
+    {
       "index": 73,
       "title": "Installing and Running WordPress: Local by FlyWheel",
       "instructor": "Morten Rand-Hendriksen",
