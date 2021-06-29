@@ -1,6 +1,39 @@
 {
   "courses": [
     {
+      "index": 75,
+      "title": "WordPress 5 Essential Training: Site Administration",
+      "instructor": "Morten Rand-Hendriksen",
+      "date_completed": "2021-06-29",
+      "date": [
+        {
+          "$date": "2021-06-29T13:00:00.000Z"
+        }
+      ],
+      "synopsis": "WordPress is an easy way to get a website up and running, but sometimes you want to take a WordPress site further. This course shows how to administer a self-hosted WordPress site. Learn how to work with the settings, including important privacy settings, and configure your site's style, menus, widgets, and theme with the Customizer. Find out how to extend WordPress with plugins, add and manage users, and manage comments and spam. Instructor Morten Rand-Hendriksen also provides tips for keeping your WordPress site secure and up to date—and troubleshoot it when something goes wrong.",
+      "objectives": [
+        "Adjusting settings",
+        "Changing discussion and privacy settings",
+        "Using the Customizer to adjust site identity and visuals",
+        "Creating and customizing menus",
+        "Installing and activating themes",
+        "Extending WordPress with plugins",
+        "Adding and managing users",
+        "Managing comments and spam",
+        "WordPress security and maintenance"
+      ],
+      "skills": [
+        "Content Management Systems (CMS)",
+        "Blogging Software",
+        "WordPress"
+      ],
+      "comments": "This is a good companion course to this same instructor's <i>WordPress 5 Essential Training</i> course. Whereas that course covered content creation/management, this one went through every part/setting on a site's Admin page/Settings section.<br />We covered managing Users, their Privacy, and handling Spam, along with using Themes and other things. We ended with an excellent lesson on recovering from a site crash.<br />And I created a site template for myself, configuring the settings on it to his recommendations (or deciding from his explanations).",
+      "url": "https://www.linkedin.com/learning/wordpress-5-essential-training-site-administration",
+      "certs": [
+        "CertificateOfCompletion_WordPress5EssentialTraining-SiteAdministration_LI.pdf"
+      ]
+    },
+    {
       "index": 74,
       "title": "WordPress 5 Essential Training",
       "instructor": "Morten Rand-Hendriksen",
