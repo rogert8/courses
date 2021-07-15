@@ -1,5 +1,34 @@
 [
   {
+    "index": 78,
+    "title": "Angular Essential Training",
+    "instructor": "Justin Schwartzenberger",
+    "date_completed": "2021-07-15",
+    "date": [
+      {
+        "$date": "2021-07-15T13:00:00.000Z"
+      }
+    ],
+    "synopsis": "Angular was designed by Google to address challenges programmers face building complex, single-page applications. This JavaScript platform provides a solid core of web functionality, letting you take care of the design and implementation details. In this course, Justin Schwartzenberger introduces you to the essentials of this \"superheroic\" platform, including powerful features such as two-way data binding, comprehensive routing, and dependency injection. Justin steps through the platform one feature at a time, focusing on the component-based architecture of Angular. Learn what Angular is and what it can do, as Justin builds a full-featured web app from start to finish. After mastering the essentials, you can tackle the other project-based courses in our library and create your own Angular app.",
+    "objectives": [
+      "What is Angular?",
+      "Working with components",
+      "Binding events and properties",
+      "Getting data to components",
+      "Using directives and pipes",
+      "Creating Angular forms",
+      "Validating form data",
+      "How Angular does dependency injection",
+      "Making HTTP calls",
+      "Routing",
+      "Styling components"
+    ],
+    "skills": ["Angular"],
+    "comments": "Angular is a very complex client-side framework for JavaScript, but is very powerful, and it actually makes some things simpler to manage.<br />We learned about creating Components, using Angular Forms (using built-in and custom validation) along with HTTP calls and Routing (to different (API) URLs.<br />We used the Web Developer Tools in a Web browser to see what Angular turned into the page's HTML, to help understand what Angular is doing, and we finished up with a whole chapter on styling Components.",
+    "url": "https://www.linkedin.com/learning/angular-essential-training-2",
+    "certs": ["CertificateOfCompletion_AngularEssentialTraining_LI.pdf"]
+  },
+  {
     "index": 77,
     "title": "Python GUI Development with Tkinter",
     "instructor": "Barron Stone",
