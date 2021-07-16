@@ -1,6 +1,29 @@
 {
   "courses": [
     {
+      "index": 79,
+      "title": "Build a Google Maps App with JavaScript",
+      "instructor": "Mark Lassoff and Framework Tech",
+      "date_completed": "2021-07-16",
+      "date": [
+        {
+          "$date": "2021-07-16T13:00:00.000Z"
+        }
+      ],
+      "synopsis": "Build a quick and compelling app that uses the Google Places library and JavaScript to implement geolocation. In this short, hands-on course, Mark Lassoff helps you create a simple Google Maps integrated application using vanilla JavaScript: Feed Me, a restaurant locator. This project can help you hone your JavaScript skills and add a much-needed feature—an interactive map—to your existing sites and applications. Plus, learn how to add extra information to Google Maps markers, such as the price and rating for the featured restaurants.  This course was created by Framework Tech. We are pleased to host this training in our library.",
+      "objectives": null,
+      "skills": [
+        "Web Application Development",
+        "JavaScript",
+        "Google Maps API"
+      ],
+      "comments": "A refresher for me of the content of some other courses I've taken here that covered mapping -<br />I'm disappointed that Google no longer supports keyless use of the Google Maps API, and since I didn't want to go through the rigmarole of registering for an API Key, and providing credit card info, etc., I wasn't able to use all of the features used in our app. But enough to follow along with, and learn a few things. For instance, the instructor clued me in to <i>Sensors</i> in a Web browser's Web Developer Tools, where one can change the Location, for testing, and the <i>Device Toolbar</i>, where one can test out the display for various mobile devices.",
+      "url": "https://www.linkedin.com/learning/build-a-google-maps-app-with-javascript",
+      "certs": [
+        "CertificateOfCompletion_BuildAGoogleMapsAppWithJavaScript_LI.pdf"
+      ]
+    },
+    {
       "index": 78,
       "title": "Angular Essential Training",
       "instructor": "Justin Schwartzenberger",
