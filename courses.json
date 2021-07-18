@@ -1,5 +1,39 @@
 [
   {
+    "index": 80,
+    "title": "Building Serverless Apps on AWS",
+    "instructor": "Emmanuel Henri",
+    "date_completed": "2021-07-18",
+    "date": [
+      {
+        "$date": "2021-07-08T18:00:00.000Z"
+      }
+    ],
+    "synopsis": "Learn how to develop a NodeJS serverless app on Amazon Web Services (AWS). First, get introduced to several services: Lambda, DynamoDB, S3, Postman, and the API gateway. Then, see how to install Postman, set up an Amazon account, implement an S3 storage bucket with static content, and set up serverless Lambda compute. Next, find out how to create a table on the DynamoDB AWS service and create a POST function. Additionally, discover how to code and test final endpoint functions.",
+    "objectives": [
+      "Getting started with AWS",
+      "Building a serverless app",
+      "Exploring Lambda and DynamoDB",
+      "Working with S3",
+      "Setting up a base client app",
+      "Working with APIs and gateways",
+      "Coding endpoint GET functions",
+      "Using Postman for testing",
+      "Testing an AWS serverless app"
+    ],
+    "skills": [
+      "Cloud Computing",
+      "Amazon Web Services (AWS)",
+      "Cloud Development"
+    ],
+    "comments": "Although the <i>Serverless and Microservices for AWS</i> course I took here was good, with the instructor explaining the architecture and the decision-making when implementing, and transitioning an existing application to AWS, we didn't actually DO any of it. So I got a feel for what the pieces were, and how they fit together, but not how each piece actually worked.<br />In THIS course, we actually USED some of the AWS services -<br />We put a static Web site up in an S3 storage bucket, and set the permissions appropriately. So I then put up my LinkedIn Learning Courses Web site that I have on GitHub onto AWS (<a href=\"http://rtcourses.s3-website-us-west-1.amazonaws.com/\" target=\"_blank\">Courses on AWS</a>).<br />We set up a table in DynamoDB, and wrote some Lambda compute functions for POST and GET to/from it, and tested those functions in Lambda. We then set up an API Gateway for those functions, and tested our API externally using Postman.<br />This course also had some issues with being a little old - the Node.js versions available on AWS had changed some, so that we had to modify the provided code a bit. Other students helped out with this in the Q&A section. And the AWS interface had changed, so I had to poke around a bit to find the current location of a key setting to get my Lambda compute functions to work.<br />As always, if any of you take this course and need help with those two issuess, I am happy to help...",
+    "url": "https://www.linkedin.com/learning/building-serverless-apps-on-aws-2018",
+    "certs": [
+      "CertificateOfCompletion_BuildingServerlessAppsOnAWS_LI.pdf",
+      "CertificateOfCompletion_BuildingServerlessAppsOnAWS_CompTIA.pdf"
+    ]
+  },
+  {
     "index": 79,
     "title": "Build a Google Maps App with JavaScript",
     "instructor": "Mark Lassoff and Framework Tech",
