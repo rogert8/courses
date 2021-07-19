@@ -82,7 +82,7 @@
         "Styling components"
       ],
       "skills": ["Angular"],
-      "comments": "Angular is a very complex client-side framework for JavaScript, but is very powerful, and it actually makes some things simpler to manage.<br />We learned about creating Components, using Angular Forms (using built-in and custom validation) along with HTTP calls and Routing (to different (API) URLs.<br />We used the Web Developer Tools in a Web browser to see what Angular turned into the page's HTML, to help understand what Angular is doing, and we finished up with a whole chapter on styling Components.",
+      "comments": "Angular is a very complex client-side framework for JavaScript, but is very powerful, and it actually makes some things simpler to manage.<br />We learned about creating Components, using Angular Forms (using built-in and custom validation) along with HTTP calls and Routing (to different (API) URLs).<br />We used the Web Developer Tools in a Web browser to see what Angular turned into the page's HTML, to help understand what Angular is doing, and we finished up with a whole chapter on styling Components.",
       "url": "https://www.linkedin.com/learning/angular-essential-training-2",
       "certs": ["CertificateOfCompletion_AngularEssentialTraining_LI.pdf"]
     },
