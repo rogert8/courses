@@ -1,5 +1,39 @@
 [
   {
+    "index": 81,
+    "title": "AWS for Developers: DynamoDB",
+    "instructor": "Robby Millsap",
+    "date_completed": "2021-07-21",
+    "date": [
+      {
+        "$date": "2021-07-21T13:00:00.000Z"
+      }
+    ],
+    "synopsis": "DynamoDB is a fully managed NoSQL database solution hosted on the AWS cloud. It allows developers quickly scale to support millions of requests without having to worry about provisioning, clustering, patching, and replication. DynamoDB is also known for being an ideal solution for web APIs due to its robust support of JSON. In this course, learn how to leverage this solution so you can reap the high-performance benefits. Robby Millsap covers planning, database fundamentals, coding, and support. He takes you through the process of modeling data, creating tables, using Node.js, indexing, fetching, searching, scanning, querying, authentication, monitoring, and more.",
+    "objectives": [
+      "NoSQL vs. relational DBs",
+      "DynamoDB vs. MongoDB",
+      "Data modeling in DynamoDB",
+      "Working with composite keys and sort keys",
+      "Pricing and planning for capacity",
+      "Creating secondary indexes",
+      "Provisioning a DynamoDB table",
+      "Scanning data and querying data",
+      "Defining data types in JSON",
+      "Working with client libraries",
+      "Using Node.js with DynamoDB",
+      "Monitoring"
+    ],
+    "skills": [
+      "Amazon Web Services (AWS)",
+      "Cloud Development",
+      "Amazon DynamoDB"
+    ],
+    "comments": "An excellent course!<br /><br />After I took the <i>Angular Essential Training</i> course here, I saw an article about hosting an Angular app on GitHub, then I also discovered that there is on issue with GitHub Pages with Angular apps that use Routing. I found some articles about getting around those issues, but for the time being I settled with just hosting the project from the course, with some of my own modifications (with more to come), on my local Apache and IIS Web servers.<br />After taking the <i>Building Serverless Apps on AWS</i> course here, I stored the Angular app in an S3 bucket, and it worked.<br />In that Angular project, we used a mock API back end, and didn't persist the data, but after taking that <i>Building Serverless Apps on AWS</i> course, I foresaw using a DynamoDB database and an API Gateway for the Angular project. So I thought that I needed to learn more about DynamoDB databases, and this course definitely fit the bill.<br /><br />We covered data modeling for maximum performance, and cost considerations, as well as installing and using the AWS CLI, scanning and querying data.<br />We also covered coding to the database using Node.js - to create a table, insert data (also using transactions) and query the data.<br />We learned about and enabled Streams, to track when data was changed and what the changes were and coded a script to output that info.<br />We also installed and used DynamoDB locally, so as not to rack up charges on AWS while developing.<br />The table that the instructor had us create was pretty cool, dealing with a small bit of baseball team stats, and mostly focusing on the Angels.",
+    "url": "https://www.linkedin.com/learning/aws-for-developers-dynamodb",
+    "certs": ["CertificateOfCompletion_AWSForDevelopersDynamoDB_LI.pdf"]
+  },
+  {
     "index": 80,
     "title": "Building Serverless Apps on AWS",
     "instructor": "Emmanuel Henri",
