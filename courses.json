@@ -1,5 +1,24 @@
 [
   {
+    "index": 83,
+    "title": "Creativity at Work: A Short Course from Seth Godin",
+    "instructor": "Seth Godin",
+    "date_completed": "2021-07-27",
+    "date": [
+      {
+        "$date": "2021-07-27T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "You are a creative person. Despite what your inner critic may have told you, you absolutely can solve complex business problems without a roadmap. The potential is there; whether or not you tap into it is up to you. In this concise course, Seth Godin—the author of 20 best-selling books, including The Dip, Linchpin, Purple Cow, and The Practice—lays out how to help your team let go of the fears that hinder your creative progress and start creating work that matters. Learn how to combat preconceived notions about creativity, including the idea that creativity is a gift bestowed upon a select few. (Spoiler alert: it's not.) Discover how to tap into your team’s creativity by embracing the possibility of failure, cultivating practical empathy, and exploring the root causes of writer's block and impostor syndrome. Plus, get tips for making creative problem-solving a habit that sticks.",
+    "objectives": null,
+    "skills": ["Creative Ideation", "Creative Problem Solving"],
+    "comments": "The instructor has very interesting and out-of-the-ordinary ways of looking at some things.",
+    "url": "https://www.linkedin.com/learning/creativity-at-work-a-short-course-from-seth-godin",
+    "certs": [
+      "CertificateOfCompletion_CreativityAtWork-AShortCourseFromSethGodin_LI.pdf"
+    ]
+  },
+  {
     "index": 82,
     "title": "Data Engineering Foundations",
     "instructor": "Harshit Tyagi",
