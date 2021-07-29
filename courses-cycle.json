@@ -1,6 +1,23 @@
 {
   "courses": [
     {
+      "index": 84,
+      "title": "PostgreSQL Essential Training",
+      "instructor": "Adam Wilbert",
+      "date_completed": "2021-07-29",
+      "date": [
+        {
+          "$date": "2021-07-29T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "PostgreSQL is one of the world’s most popular open-source database platforms. This highly flexible and scalable relational database management system (RDBMS) supports everything from general purpose databases to machine learning applications and geospatial map servers. In this course, instructor Adam Wilbert helps you get up and running with PostgreSQL. Adam covers the essential first steps of setting up a PostgreSQL server and working with the graphical interface, pgAdmin. He then shows how to work with pgAdmin to create new database objects, populate them with data, and retrieve records from the database. If you're new to the platform (or relational databases in general), this course serves as an entry point and provides a solid foundation for further exploration in database administration.",
+      "objectives": null,
+      "skills": ["PostgreSQL", "Relational Databases", "Database Administration"],
+      "comments": "I used a containerized (using Docker) PostgreSQL database in the <i>Learning JDBC</i> course I took here, and I also used that in a <i>Data Engineering Foundations</i> course (also here).<br />After the latter course, I decided that it was time to take this course, that I had queued up after the former course.<br />I had taken a sneak peek at this course because it has a lesson about using a graphical interface, so I had gone ahead and installed pgAdmin 4 and used it with the containerized PostgreSQL database in both of those earlier courses.<br />In this course, we installed PostgreSQL locally (not in a container), and the installation also included pgAdmin 4. I went ahead and used my prior installation of it, since I had recently updated it (to a newer version than was included in this local installation).<br />In this local installation, I had taken care to specify a different port than was used in the container, to avoid conflicts. And pgAdmin 4 still showed the server in the container (running or not), and when I connected to this new (local) server, I was able to see and use both.<br />As with other \"Essential...\" courses here, this course started out very basic, in this case, regarding SQL and relational database concepts such as foreign keys, and joins, etc. It did pick up, and we got into constraints and indexes, accounts, roles and privileges, and backing up and restoring databases.<br />I mostly appreciated being reminded of the differences in the flavor of SQL used here and other flavors I have used, as well as learning more about what is available in pgAdmin 4 and how it works.",
+      "url": "https://www.linkedin.com/learning/postgresql-essential-training",
+      "certs": ["CertificateOfCompletion_PostgreSQLEssentialTraining_LI.pdf"]
+    },
+    {
       "index": 83,
       "title": "Creativity at Work: A Short Course from Seth Godin",
       "instructor": "Seth Godin",
@@ -248,7 +265,7 @@
           "$date": "2021-06-27T19:00:00.000Z"
         }
       ],
-      "synopsis": "WordPress powers millions of blogs and websites. Available in 180 languages, WordPress can be hosted on any server, accessed in any browser, and built into almost anything you imagine: blog, portfolio, website, or online store. Learn how to create your own web experiences with this powerful and open-source publishing platform. Instructor Morten Rand-Hendriksen helps you get the most out of WordPress and create feature-rich blogs and websites. Morten explains how to create and publish posts and pages; create and edit blocks; and define reusable content blocks to take full advantage of the new block editor codenamed \"Gutenberg.\"<br /><br />Note: This course covers WordPress 5. The training will be updated as WordPress evolves.",
+      "synopsis": "WordPress powers millions of blogs and websites. Available in 180 languages, WordPress can be hosted on any server, accessed in any browser, and built into almost anything you imagine: blog, portfolio, website, or online store. Learn how to create your own web experiences with this powerful and open-source publishing platform. Instructor Morten Rand-Hendriksen helps you get the most out of WordPress and create feature-rich blogs and websites. Morten explains how to create and publish posts and pages; create and edit blocks; and define reusable content blocks to take full advantage of the new block editor codenamed \"Gutenberg.\"  Note: This course covers WordPress 5. The training will be updated as WordPress evolves.",
       "objectives": [
         "Installing WordPress",
         "Creating posts and pages",
@@ -359,7 +376,7 @@
           "$date": "2021-06-10T19:00:00.000Z"
         }
       ],
-      "synopsis": "React.js is designed to make the process of building modular, reusable user interface components simple and intuitive. In this course, Eve Porcello guides you through the foundations of React development, including the use of React hooks—a new feature starting in React 16.8 that allows developers to add functionality to components without writing classes. Eve shows how to create components, display dynamic data with properties, and render components using JSX syntax. Eve also manages the state of components with hooks; uses powerful React enhancements, such as the useEffect hook for loading remote data; and leverages cloud deployment options for apps created with create-react-app.<br /><br />This course was created by Eve Porcello. We are pleased to offer this training in our library.",
+      "synopsis": "React.js is designed to make the process of building modular, reusable user interface components simple and intuitive. In this course, Eve Porcello guides you through the foundations of React development, including the use of React hooks—a new feature starting in React 16.8 that allows developers to add functionality to components without writing classes. Eve shows how to create components, display dynamic data with properties, and render components using JSX syntax. Eve also manages the state of components with hooks; uses powerful React enhancements, such as the useEffect hook for loading remote data; and leverages cloud deployment options for apps created with create-react-app.  This course was created by Eve Porcello. We are pleased to offer this training in our library.",
       "objectives": [
         "What is React.js?",
         "Creating and rendering React elements",
@@ -524,7 +541,7 @@
           "$date": "2021-05-04T19:19:00.000Z"
         }
       ],
-      "synopsis": "JSON is a ubiquitous and lightweight data transfer format used for the storage and interchange of information in an organized and human-readable manner. It is commonly used as the data format of choice in microservices, RESTful APIs, and NoSQL data stores. Knowing how to manipulate JSON is crucial knowledge for any developer.<br /><br />In this course, discover how to use the Java Enterprise Edition (EE) JSON-Processing API. With its two programming models, JSON-Processing is one of the simplest ways to generate, query, and parse JSON data, and you'll find that implementing it in your projects is quick and easy. Join Alex Theedom as he covers an array of topics, including how to use both the object model and the streaming model, how to traverse a JSON structure, and how to parse JSON data using the extensive builder APIs. When you wrap up this course, you'll be ready to develop with this essential and powerful API.",
+      "synopsis": "JSON is a ubiquitous and lightweight data transfer format used for the storage and interchange of information in an organized and human-readable manner. It is commonly used as the data format of choice in microservices, RESTful APIs, and NoSQL data stores. Knowing how to manipulate JSON is crucial knowledge for any developer.  In this course, discover how to use the Java Enterprise Edition (EE) JSON-Processing API. With its two programming models, JSON-Processing is one of the simplest ways to generate, query, and parse JSON data, and you'll find that implementing it in your projects is quick and easy. Join Alex Theedom as he covers an array of topics, including how to use both the object model and the streaming model, how to traverse a JSON structure, and how to parse JSON data using the extensive builder APIs. When you wrap up this course, you'll be ready to develop with this essential and powerful API.",
       "objectives": [
         "Working with JSON and Java",
         "JSON-Processing API features",
@@ -996,7 +1013,7 @@
       "title": "Advanced PHP: Debugging Techniques",
       "instructor": "Jon Peck",
       "date_completed": "2021-03-03",
-      "synopsis": "Debug your PHP code efficiently with a variety of client and server-side tools. In this concise course for experienced PHP developers, author Jon Peck demonstrates how to leverage PHP's built-in tools, as well as the Xdebug and Firebug extensions, and FirePHP libraries to improve the quality of your code and reduce troubleshooting overhead.<br /><br />This course covers installation of Xdebug on Apache as well as working with the NetBeans IDE (integrated development environment). Jon then introduces native web browser developer tools for Firefox and Chrome, and demonstrates browser independent web debugging tools. Best practices for debugging and profiling web application failures and performance issues are also covered.",
+      "synopsis": "Debug your PHP code efficiently with a variety of client and server-side tools. In this concise course for experienced PHP developers, author Jon Peck demonstrates how to leverage PHP's built-in tools, as well as the Xdebug and Firebug extensions, and FirePHP libraries to improve the quality of your code and reduce troubleshooting overhead.  This course covers installation of Xdebug on Apache as well as working with the NetBeans IDE (integrated development environment). Jon then introduces native web browser developer tools for Firefox and Chrome, and demonstrates browser independent web debugging tools. Best practices for debugging and profiling web application failures and performance issues are also covered.",
       "objectives": [
         "Configuring PHP error reporting",
         "Logging errors to file",
@@ -1115,7 +1132,7 @@
       "title": "C#: Delegates, Events and Lambdas",
       "instructor": "Joe Marini",
       "date_completed": "2021-02-07",
-      "synopsis": "C# provides function types to fit a variety of scenarios, called delegates, events, and lambda functions. In this course, Joe Marini explores these key elements, starting with delegates, which allow developers to easily separate functional pieces of a program. Joe shows how to create both anonymous and composable delegates, using a shipping costs calculator as a practical example. Next, he covers using events to broadcast and listen to messages both inside and outside a program, switching functionality on and off on demand. Finally, the course explores lambda functions: concise ways to declare small and focused or one-off functions, which keep your program code tight and efficient.<br /><br />Start watching to learn how to adapt this flexible set of programming tools to your own C# programming needs.",
+      "synopsis": "C# provides function types to fit a variety of scenarios, called delegates, events, and lambda functions. In this course, Joe Marini explores these key elements, starting with delegates, which allow developers to easily separate functional pieces of a program. Joe shows how to create both anonymous and composable delegates, using a shipping costs calculator as a practical example. Next, he covers using events to broadcast and listen to messages both inside and outside a program, switching functionality on and off on demand. Finally, the course explores lambda functions: concise ways to declare small and focused or one-off functions, which keep your program code tight and efficient.  Start watching to learn how to adapt this flexible set of programming tools to your own C# programming needs.",
       "objectives": null,
       "skills": ["Object-Oriented Programming (OOP)", "C#"],
       "comments": "In the C#: Collections course I took here by this same (excellent) instructor, which covered mostly Generic Collections, we used some Lambda expressions. I was unfamiliar with them, but in that context, it was straightforward enough for me to catch on.<br />He recommended his course, C#: Interfaces and Generics, so I started that one. Towards the beginning of that course, he mentioned that if we were unfamiliar with Delegates, which I was familiar with only in passing, to take this course.<br />Seeing that this course also covered Lambdas, I was able to get a better grasp of them, along with Delegates, which are quite versatile and powerful. We also covered (raising and) handling Events, as an offshoot of Delegates, in a context outside of handling UI Events such as mouse clicks, etc.<br />Now, back to the C#: Interfaces and Generics course...",
@@ -1908,7 +1925,7 @@
       "title": "Learning PowerShell",
       "instructor": "Matt Hester",
       "date_completed": "2020-09-26",
-      "synopsis": "What is PowerShell? PowerShell is a powerful language used for scripting and automation for your IT Infrastructure. In this short course, author Matt Hester provides an overview of the most current release, PowerShell 5.0, including how to read the PowerShell language and scripts, get help, and use cmdlets.<br /><br />Matt then dives into PowerShell's functions and What If statements, working with output, and coding in the Integrated Scripting Environment (ISE). The course wraps up with some tips on using PowerShell for both on-premises and cloud deployments involving Office 365 and Azure.",
+      "synopsis": "What is PowerShell? PowerShell is a powerful language used for scripting and automation for your IT Infrastructure. In this short course, author Matt Hester provides an overview of the most current release, PowerShell 5.0, including how to read the PowerShell language and scripts, get help, and use cmdlets.  Matt then dives into PowerShell's functions and What If statements, working with output, and coding in the Integrated Scripting Environment (ISE). The course wraps up with some tips on using PowerShell for both on-premises and cloud deployments involving Office 365 and Azure.",
       "objectives": [
         "Identify the purpose of a delimiter.",
         "Recognize the tools needed to build a command using the ISE.",
