@@ -1,6 +1,23 @@
 {
   "courses": [
     {
+      "index": 85,
+      "title": "Advanced Pandas",
+      "instructor": "Madecraft and Brett Vanderblock",
+      "date_completed": "2021-07-31",
+      "date": [
+        {
+          "$date": "2021-07-31T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "If you've worked in Python, you're likely familiar with the basic of pandas. In this advanced course, instructor Brett Vanderblock shares how you can take advantage of the advanced functions of pandas—such as working with dates, dealing with missing data, merging DataFrames, and more—to work more effectively with your data. First, Brett introduces you to DataFrames, identifies the top functions in pandas, and shows you how to configure your pandas workspace efficiently. He walks you through converting data types, working with strings, and using the apply map and applymap functions effectively. He shows you how to combine Groupby and multiple aggregate functions in pandas and how to use the merge, join, and concat functions. Brett steps through plotting and statistical functions with pandas. He concludes by explaining how you can use pandas-profiling and Geopandas to get the most out of your functions and data.  This course was created by Madecraft. We are pleased to host this training in our library.",
+      "objectives": null,
+      "skills": ["Pandas (Software)", "Data Management", "Data Visualization"],
+      "comments": "This course used the Jupyter Notebook platform.<br />I got some more practice with <i>stack</i> and <i>unstack,</i> and learned about functions I hadn't used, such as <i>pivot, pivot_table,</i> and <i>melt.</i><br />We learned about merging, joining and concatenating dataframes, as well as categorizing and correlation.<br />I learned more about plotting, and pandas Profiling, which is a nice tool.<br />We also used <i>geopandas</i> - We had to go to mapbox's site for a free API token, then we turned our dataframe consisting of location names and latitude and longitude values into a GeoDataFrame, creating an interactive map (using <i>plotly</i>) showing the locations of 5 mountain peaks west of Boulder, CO.",
+      "url": "https://www.linkedin.com/learning/advanced-pandas",
+      "certs": ["CertificateOfCompletion_AdvancedPandas_LI.pdf"]
+    },
+    {
       "index": 84,
       "title": "PostgreSQL Essential Training",
       "instructor": "Adam Wilbert",
@@ -12,7 +29,11 @@
       ],
       "synopsis": "PostgreSQL is one of the world’s most popular open-source database platforms. This highly flexible and scalable relational database management system (RDBMS) supports everything from general purpose databases to machine learning applications and geospatial map servers. In this course, instructor Adam Wilbert helps you get up and running with PostgreSQL. Adam covers the essential first steps of setting up a PostgreSQL server and working with the graphical interface, pgAdmin. He then shows how to work with pgAdmin to create new database objects, populate them with data, and retrieve records from the database. If you're new to the platform (or relational databases in general), this course serves as an entry point and provides a solid foundation for further exploration in database administration.",
       "objectives": null,
-      "skills": ["PostgreSQL", "Relational Databases", "Database Administration"],
+      "skills": [
+        "PostgreSQL",
+        "Relational Databases",
+        "Database Administration"
+      ],
       "comments": "I used a containerized (using Docker) PostgreSQL database in the <i>Learning JDBC</i> course I took here, and I also used that in a <i>Data Engineering Foundations</i> course (also here).<br />After the latter course, I decided that it was time to take this course, that I had queued up after the former course.<br />I had taken a sneak peek at this course because it has a lesson about using a graphical interface, so I had gone ahead and installed pgAdmin 4 and used it with the containerized PostgreSQL database in both of those earlier courses.<br />In this course, we installed PostgreSQL locally (not in a container), and the installation also included pgAdmin 4. I went ahead and used my prior installation of it, since I had recently updated it (to a newer version than was included in this local installation).<br />In this local installation, I had taken care to specify a different port than was used in the container, to avoid conflicts. And pgAdmin 4 still showed the server in the container (running or not), and when I connected to this new (local) server, I was able to see and use both.<br />As with other \"Essential...\" courses here, this course started out very basic, in this case, regarding SQL and relational database concepts such as foreign keys, and joins, etc. It did pick up, and we got into constraints and indexes, accounts, roles and privileges, and backing up and restoring databases.<br />I mostly appreciated being reminded of the differences in the flavor of SQL used here and other flavors I have used, as well as learning more about what is available in pgAdmin 4 and how it works.",
       "url": "https://www.linkedin.com/learning/postgresql-essential-training",
       "certs": ["CertificateOfCompletion_PostgreSQLEssentialTraining_LI.pdf"]
