@@ -72,7 +72,8 @@ body {
 	width: 100%;
 	padding: 0 20px;
 	/* background: #EEE; */
-	background: rgb(238, 239, 240);
+	/* background: rgb(238, 239, 240); */
+	background: #dce6f8;
 	padding-bottom: 10px;
 	/* height: 110px; */
 	height: 165px;
@@ -96,7 +97,8 @@ body {
 	/* background: #dceff7; */
 	/* background: #bed5ff; */
 	/* background: #d1e0fc; */
-	background: #dce6f8;
+	/* background: #dce6f8; */
+	background: rgb(238, 239, 240);
 	min-height: 165px;
 	/* max-height: 980px; */
 	/* height: 250px; */
@@ -116,7 +118,8 @@ body {
 #update li:hover h2 a {
 	/* color: #5f2c21; */
 	/* color: #8d3622; */
-	color: #501313ce;
+	/* color: #501313ce; */
+	color: #BF5841;
 }
 
 #update li:focus {
@@ -149,7 +152,8 @@ body {
 }
 
 #update h2 a {
-	color: #BF5841;
+	/* color: #BF5841; */
+	color: #501313ce;
 }
 
 /* #update ul li ul li {
