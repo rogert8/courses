@@ -1,6 +1,35 @@
 {
   "courses": [
     {
+      "index": 86,
+      "title": "Learning Amazon Web Services (AWS) for Developers",
+      "instructor": "Bear Cahill",
+      "date_completed": "2021-08-04",
+      "date": [
+        {
+          "$date": "2021-08-04T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Amazon Web Services (AWS) is the leading cloud service provider today, ahead of competitors such as Microsoft Azure and Google Cloud Platform. It is seen by many as the standard for functional, reliable, interoperable, and affordable cloud services. Developers need to understand what it means to develop on and migrate to the cloud—and comprehend the overall landscape of AWS before diving into the platform. This course provides a high-level overview just for developers, focusing on the AWS features and services of the most interest to them. Instructor Bear Cahill introduces AWS Lambda, DynamoDB, ElastiCache, Elastic Beanstalk, S3, SQS, SNS, and many more key features and services.",
+      "objectives": [
+        "Evaluating AWS pricing and services",
+        "Setting up security: users, roles, groups, and policies",
+        "Developing with the AWS SDK",
+        "Adding storage with S3 and DynamoDB",
+        "Using AWS for messaging",
+        "Deploying to AWS",
+        "Monitoring AWS"
+      ],
+      "skills": [
+        "Cloud Administration",
+        "Amazon Web Services (AWS)",
+        "Cloud Development"
+      ],
+      "comments": "A good course that surveys many of the AWS services that a developer would use.<br />We covered Security - Users, Permissions, Roles, etc. using IAM. We also learned about Cognito (which I hadn't used before) for Identity and User Pools.<br />As in other courses I have taken here, we used Lambda - this time we created one using a blueprint. We also used the Simple Queue Service (SQS) and the Simple Notification Service (SNS), configuring them to communicate with each other and the Lambda. And we created a DynamoDB Trigger to our Lambda.<br />We used CloudWatch - for checking logs, and for setting alarms for such things as latency above a certain threshold, for costs, etc.<br />We also learned about Elastic Beanstalk, CloudFormation, ElastiCache, and CloudFront.<br />And we finished up with the instructor leading us through how to clean up by deleting all of the things we built in AWS for this course. ",
+      "url": "https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-2",
+      "certs": ["CertificateOfCompletion_LearningAmazonWebServicesAWSForDevelopers_LI.pdf"]
+    },
+    {
       "index": 85,
       "title": "Advanced Pandas",
       "instructor": "Madecraft and Brett Vanderblock",
