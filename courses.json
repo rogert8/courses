@@ -1,5 +1,31 @@
 [
   {
+    "index": 87,
+    "title": "ASP.NET Web Forms Essential Training",
+    "instructor": "Tiberiu Covaci",
+    "date_completed": "2021-08-08",
+    "date": [
+      {
+        "$date": "2021-08-08T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Web Forms are a simple way to build web pages. In this course, discover how to build simple Web Forms applications in ASP.NET. Instructor Tiberiu Covaci shows how to create your first Web Forms page, debug it, create reusable code, and work with data. After stepping through how to create your first Visual Studio project, he shows how to work with Web Forms controls, shares tips for writing maintainable code, and covers different options for debugging ASP.NET applications. To wrap up, he discusses how to work with data and Microsoft SQL Server.",
+    "objectives": [
+      "Working with ASP.NET Web Forms controls",
+      "Creating ASP.NET Web Forms pages",
+      "Designing maintainable code",
+      "Debugging ASP.NET Web Forms applications",
+      "Creating reusable code",
+      "Working with SQL Server",
+      "Presenting datasets",
+      "ASP.NET Web Forms apps"
+    ],
+    "skills": ["ASP.NET", "Back-End Web Development"],
+    "comments": "A good refresher course for me -<br />I hadn't taken an ASP.NET course in a decade, and haven't dug into the code (for the ASP.NET/SQL Server-based Support Knowledge Base that I managed) for more than a couple of years.<br />The instructor went over creating a Web Forms page, and the lifecycle of an ASP.NET page.<br />We covered debugging and tracing, and also exception handling. The instructor was too brief, in my opinion, on exception handling, and I'll give him a \"C\" on that part. (Fortunately, I've had prior good instruction and experience on/with this topic.)<br />We learned about creating Web Controls, exposing public properties of them, and registering and using them.<br />In the <i>Working with Data</i> chapter, the instructor used a <i>LocalDB</i> SQL Server database, but I wanted to use my own SQL Server instance. So I attached the provided database files to my SQL Server, and used Connection Strings to that. I had to fiddle with the Application Pool settings in IIS to use Integrated Security for the database access, so I decided to create a new Application Pool for the app and used that. But I also created a database user (using SQL Server Authentication), granting it the minimum rights necessary, and created a Connection String for that user. I then coded the app both ways (to be able to use either user).<br />We finished up with adding our User (Web) Control to the ListView (that we used to display the data), using it to insert and update data (instead of the built-in functionality).",
+    "url": "https://www.linkedin.com/learning/asp-dot-net-web-forms-essential-training",
+    "certs": ["CertificateOfCompletion_ASP.NETWebFormsEssentialTraining_LI.pdf"]
+  },
+  {
     "index": 86,
     "title": "Learning Amazon Web Services (AWS) for Developers",
     "instructor": "Bear Cahill",
@@ -26,7 +52,9 @@
     ],
     "comments": "A good course that surveys many of the AWS services that a developer would use.<br />We covered Security - Users, Permissions, Roles, etc. using IAM. We also learned about Cognito (which I hadn't used before) for Identity and User Pools.<br />As in other courses I have taken here, we used Lambda - this time we created one using a blueprint. We also used the Simple Queue Service (SQS) and the Simple Notification Service (SNS), configuring them to communicate with each other and the Lambda. And we created a DynamoDB Trigger to our Lambda.<br />We used CloudWatch - for checking logs, and for setting alarms for such things as latency above a certain threshold, for costs, etc.<br />We also learned about Elastic Beanstalk, CloudFormation, ElastiCache, and CloudFront.<br />And we finished up with the instructor leading us through how to clean up by deleting all of the things we built in AWS for this course. ",
     "url": "https://www.linkedin.com/learning/learning-amazon-web-services-aws-for-developers-2",
-    "certs": ["CertificateOfCompletion_LearningAmazonWebServicesAWSForDevelopers_LI.pdf"]
+    "certs": [
+      "CertificateOfCompletion_LearningAmazonWebServicesAWSForDevelopers_LI.pdf"
+    ]
   },
   {
     "index": 85,
