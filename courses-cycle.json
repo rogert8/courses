@@ -1,6 +1,30 @@
 {
   "courses": [
     {
+      "index": 88,
+      "title": "Customer Service: Problem Solving and Troubleshooting",
+      "instructor": "Noah Fleming",
+      "date_completed": "2021-08-13",
+      "date": [
+        {
+          "$date": "2021-08-13T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Customer service care costs organizations billions of dollars each year. As a result, it's critical that employees are equipped with the skills needed to handle a variety of different customer service problems. In this course, learn critical problem-solving and troubleshooting processes for common sense customer service in a wide variety of applications. Discover how to effectively deal with issues, while maintaining a positive relationship with your customers (and your own sanity). Plus, learn how to identify and resolve larger systemic issues within your company.",
+      "objectives": [
+        "Identify the first step to take with an invalid complaint.",
+        "Recognize the importance of always listening to the customer.",
+        "Explain how to deal with a customer who is rude and making you uncomfortable."
+      ],
+      "skills": ["Troubleshooting", "Problem Solving", "Customer Service"],
+      "comments": "This instructor puts a lot of emphasis on judging whether a customer's complaint is valid or invalid. (And then he DOES expand on how to deal with BOTH kinds.)<br />In my support roles, I'd have to say that the vast majority of complaints, or more likely, issues/problems, were in fact valid, and thus, mostly assumed to be.<br />However, many years ago, I did work at a hotel (in a public-facing role), where a greater percentage of the complaints were in fact invalid, so I do understand the need for such an initial judgement in some scenarios.",
+      "url": "https://www.linkedin.com/learning/customer-service-problem-solving-and-troubleshooting",
+      "certs": [
+        "CertificateOfCompletion_CustomerServiceProblemSolvingAndTroubleshooting_LI.pdf",
+        "CertificateOfCompletion_CustomerServiceProblemSolvingAndTroubleshooting_NASBA.pdf"
+      ]
+    },
+    {
       "index": 87,
       "title": "ASP.NET Web Forms Essential Training",
       "instructor": "Tiberiu Covaci",
