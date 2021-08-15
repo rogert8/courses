@@ -1,5 +1,31 @@
 [
   {
+    "index": 89,
+    "title": "XML Essential Training",
+    "instructor": "Joe Marini",
+    "date_completed": "2021-08-15",
+    "date": [
+      {
+        "$date": "2021-08-15T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Extensible Markup Language (XML) was designed to make information sharing and data interpretation easier. Having a solid grasp of what XML is and how to work with it is essential for any developer. In this course, Joe Marini takes you through the basic rules of XML, explains its syntax, and covers more advanced topics such as styling your XML with CSS and manipulating XML content using XPath and XSLT. From integrating XML into your site to using document type definitions and XML schema, this course covers what you need to know to not only get started with XML, but also master it.",
+    "objectives": [
+      "What is XML?",
+      "Advantages and drawbacks of XML",
+      "Proper XML syntax",
+      "Working with XML namespaces",
+      "Styling XML tags",
+      "Discovering and creating document content",
+      "Manipulating XML content using XPath and XSLT",
+      "Document type definitions and XML schema"
+    ],
+    "skills": ["XML"],
+    "comments": "Another refresher course, but it included some new things for me, such as styling XML code with XSLT and CSS - I had only used XML as straight data, either from/to Web APIs, or for software configuration, or in Custom Modules (for Ascent/Kofax Capture).<br />We manipulated XML with the DOM, using JavaScript.<br />We also learned about XPath, and about enforcing rules and constraints on XML data with Document Type Definitions (DTDs), and XML Schema. We used an online tool to validate our XML data against a DTD and against an XML Schema, at <a href=\"https://www.xmlvalidation.com/\" target=\"_blank\">Validate XML files</a>.",
+    "url": "https://www.linkedin.com/learning/xml-essential-training-2",
+    "certs": ["CertificateOfCompletion_XMLEssentialTraining_LI.pdf"]
+  },
+  {
     "index": 88,
     "title": "Customer Service: Problem Solving and Troubleshooting",
     "instructor": "Noah Fleming",
