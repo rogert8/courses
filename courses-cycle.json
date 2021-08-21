@@ -1,6 +1,32 @@
 {
   "courses": [
     {
+      "index": 90,
+      "title": "Software Design: Modeling with UML",
+      "instructor": "Neelam Dwivedi",
+      "date_completed": "2021-08-21",
+      "date": [
+        {
+          "$date": "2021-08-21T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Modeling with the Unified Modeling Language (UML)—a visual design language for object-oriented programming—is a critical skill for all team members in a software development project. These models are a cost-effective way for collaborators to analyze, communicate, and document their product's characteristics. In this course, learn how to use UML diagrams to create important artifacts at each stage of the software development life cycle. Instructor Neelam Dwivedi shares best practices and tools as she goes over 13 different types of UML models, explaining what you need to know to develop static and dynamic models of software systems.",
+      "objectives": [
+        "How UML differs from other modeling techniques",
+        "Types of UML models",
+        "UML modeling tools",
+        "Use case, activity, and class diagrams",
+        "Capturing real-time state of your system in action",
+        "Using component diagrams",
+        "Interaction overview diagrams",
+        "Modeling time-constrained interactions"
+      ],
+      "skills": ["Unified Modeling Language (UML)", "Object Oriented Design"],
+      "comments": "I saw a job posting that mentioned UML, so thought that I should learn about it...<br />The instructor covered 13 types of UML models, their key components and the notations.<br />I've used Visio, but since I don't have it now, I downloaded the PlantUML.jar file, and installed Graphviz, setting its Environment Variable, so that I could use PlantUML (a tool for creating diagrams from a plain text language) from the Command Line, as well as from MS Word.<br />I added a PlantUML Word Add-In Template file, placing it and PlantUML.jar in the Word STARTUP folder.<br />I also added a PlantUML Extension to VS Code.",
+      "url": "https://www.linkedin.com/learning/software-design-modeling-with-uml",
+      "certs": ["CertificateOfCompletion_SoftwareDesignModelingWithUML_LI.pdf"]
+    },
+    {
       "index": 89,
       "title": "XML Essential Training",
       "instructor": "Joe Marini",
