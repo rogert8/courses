@@ -1,5 +1,32 @@
 [
   {
+    "index": 91,
+    "title": "Vue.js for Web Designers",
+    "instructor": "Joe Chellman",
+    "date_completed": "2021-08-23",
+    "date": [
+      {
+        "$date": "2021-08-23T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Vue.js is a popular JavaScript framework that can be used to build interactive components or entire single-page apps. It's a powerful and flexible framework for the modern web designer—whether you use a little of it or a lot. In this course, Joe Chellman offers practical ways to incorporate Vue.js in real-world web designs. He introduces three small projects that benefit from Vue: a real-time updating product customizer that shows how to manage data and respond to events with Vue; an employee directory using Vue forms and animation; and a status board that makes external API calls and uses a third-party Vue component. Each project demonstrates what makes Vue most interesting and useful to web designers and provides solutions for dealing with the few unique challenges.",
+    "objectives": [
+      "Installing Vue.js and Vue devtools",
+      "Creating interactive components",
+      "Adding data to components",
+      "Listening for events",
+      "Scaffolding components",
+      "Building and wiring forms",
+      "Animating transitions",
+      "Incorporating live data via REST APIs",
+      "Adding third-party Vue components"
+    ],
+    "skills": ["Vue.js", "JavaScript"],
+    "comments": "We installed the Vue.js devtools extension in Chrome, Firefox and I also installed a beta extension for Edge.<br />We then worked on 3 projects:<br />- Customizer, for sneaker shopping - select a size and a color, and the sneaker image changes color and size.<br />- Directory Browser, for browsing and searching a personnel directory, with live search and filtering.<br />and<br />- Status Updater, for posting various types of update messages to a hotel's Web site.<br />This project used MySQL via a PHP Web site, and Axios, a promise-based HTTP Client.<br />We finished up by adding a third-party Vue component (vue-simple-spinner).<br /><br />Now that I've taken first courses on 3 popular JavaScript frameworks (React, Angular, and now Vue) and liked working with all of them, I can go forth and take follow-up courses. I'm hoping that another Angular course will help me with my modifications to the Media Watch List app that we did in the <i>Angular Essential Training</i> course here, that I'm adding to for my own use.<br />I've also started modifying the Directory Browser app from this course, for another presentation of my LinkedIn Courses data.",
+    "url": "https://www.linkedin.com/learning/vue-js-for-web-designers",
+    "certs": ["CertificateOfCompletion_Vue.jsForWebDesigners_LI.pdf"]
+  },
+  {
     "index": 90,
     "title": "Software Design: Modeling with UML",
     "instructor": "Neelam Dwivedi",
