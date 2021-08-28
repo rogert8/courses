@@ -1,5 +1,32 @@
 [
   {
+    "index": 92,
+    "title": "Customer Service: Serving Customers Through Chat and Text",
+    "instructor": "Leslie O'Flahavan",
+    "date_completed": "2021-08-27",
+    "date": [
+      {
+        "$date": "2021-08-27T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Customers are demanding more ways to connect with companies when they need help. Live chat and text are the fastest growing and most popular channels. While you may be a pro at writing emails, you need a whole new set of skills to handle live, rapid-fire chat and text conversations. You’ll need to be able to handle multiple conversations at one time, and may even be required to sell or recommend products. This course walks through each of these situations, and more, using real-world chats and texts. Instructor Leslie O’Flahavan also explains how to incorporate templates and empathy statements and add your own authentic spin—all while maintaining your company’s brand. Learn all the writing skills you’ll need to provide top-notch live chat and text customer service.",
+    "objectives": [
+      "Asking questions that solve problems",
+      "Switching channels with ease",
+      "Handling delays",
+      "Managing your response length",
+      "Blending templates and free text",
+      "Writing in your company’s brand voice",
+      "Pushing content that boosts sales"
+    ],
+    "skills": ["Customer Service Systems"],
+    "comments": "While composing hypothetical Support responses for an assessment that I was taking while looking for a new position, I may have tended too much towards an email style, instead of the chat/text style that was expected(?). (It was a bit hard to tell from the given scenarios, because the questions just used the word \"message.\"  And since I was also expected to base my replies on the company's documentation, it seemed that shorter replies (as expected in a chat/text channel), would not have demonstrated that. It was a bit confusing.  Suffice it to say - I did not advance to the next step...)<br />I hadn't used chat/text in a Support role (except with internal customers), so I thought that I should get up to speed. So now, if it's clear that I'm in a chat/text situation, I am better prepared.<br />This instructor provided good advice, and as a side-effect, also taught me how to better uphold my end of the chat/text when I'M the one seeking assistance.",
+    "url": "https://www.linkedin.com/learning/customer-service-serving-customers-through-chat-and-text",
+    "certs": [
+      "CertificateOfCompletion_CustomerServiceServingCustomersThroughChatAndText_LI.pdf"
+    ]
+  },
+  {
     "index": 91,
     "title": "Vue.js for Web Designers",
     "instructor": "Joe Chellman",
@@ -22,7 +49,7 @@
       "Adding third-party Vue components"
     ],
     "skills": ["Vue.js", "JavaScript"],
-    "comments": "We installed the Vue.js devtools extension in Chrome, Firefox and I also installed a beta extension for Edge.<br />We then worked on 3 projects:<br />- Customizer, for sneaker shopping - select a size and a color, and the sneaker image changes color and size.<br />- Directory Browser, for browsing and searching a personnel directory, with live search and filtering.<br />and<br />- Status Updater, for posting various types of update messages to a hotel's Web site.<br />This project used MySQL via a PHP Web site, and Axios, a promise-based HTTP Client.<br />We finished up by adding a third-party Vue component (vue-simple-spinner).<br /><br />Now that I've taken first courses on 3 popular JavaScript frameworks (React, Angular, and now Vue) and liked working with all of them, I can go forth and take follow-up courses. I'm hoping that another Angular course will help me with my modifications to the Media Watch List app that we did in the <i>Angular Essential Training</i> course here, that I'm adding to for my own use.<br />I've also started modifying the Directory Browser app from this course, for another presentation of my LinkedIn Courses data.",
+    "comments": "We installed the Vue.js devtools extension in Chrome, Firefox and I also installed a beta extension for Edge.<br />We then worked on 3 projects:<br />- Customizer, for sneaker shopping - select a size and a color, and the sneaker image changes color and size.<br />- Directory Browser, for browsing and searching a personnel directory, with live search and filtering.<br />and<br />- Status Updater, for posting various types of update messages to a hotel's Web site.<br />This project used MySQL via a PHP Web site, and Axios, a promise-based HTTP Client.<br />We finished up by adding a third-party Vue component (vue-simple-spinner).<br /><br />Now that I've taken first courses on 3 popular JavaScript frameworks (React, Angular, and now Vue) and liked working with all of them, I can go forth and take follow-up courses. I'm hoping that another Angular course will help me with my modifications to the Media Watch List app that we did in the <i>Angular Essential Training</i> course here, that I'm adding to for my own use.<br />I've also started modifying the Directory Browser app from this course, for another presentation of my LinkedIn Learning courses data.",
     "url": "https://www.linkedin.com/learning/vue-js-for-web-designers",
     "certs": ["CertificateOfCompletion_Vue.jsForWebDesigners_LI.pdf"]
   },
