@@ -1,6 +1,38 @@
 {
   "courses": [
     {
+      "index": 93,
+      "title": "Learning Amazon Web Services Lambda",
+      "instructor": "Marcia Villalba",
+      "date_completed": "2021-08-31",
+      "date": [
+        {
+          "$date": "2021-08-31T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Ready to go serverless? Learn the essentials of working with AWS Lambda, a compute service that handles administration for you, so you're only responsible for your code. In this course, Marcia Villalba helps beginners get up and running with Lambda. To begin, she explains the basics of securing an AWS account and creating IAM users. From there, she moves on to the main concepts of the Lambda programming model and shows how to create Lambda functions and add API Gateway as a trigger. She steps through how to do everything from the AWS console to solidify your baseline knowledge before showing how to create lambda functions with the AWS Serverless Application Framework (SAM), which uses the paradigm of infrastructure as code—the recommended way to develop serverless applications.",
+      "objectives": [
+        "Creating IAM users",
+        "The Lambda programming model",
+        "Creating AWS Lambda functions",
+        "Popular triggers for AWS Lambda",
+        "Add API Gateway as a trigger to Lambda",
+        "Testing functions with Postman",
+        "Creating Lambda functions with SAM",
+        "Deploying your application"
+      ],
+      "skills": [
+        "Amazon Web Services (AWS)",
+        "Cloud Development",
+        "AWS Lambda"
+      ],
+      "comments": "An excellent course!<br />I've used AWS Lambda in other courses here, but this is a course dedicated to that (although we did use API Gateway, and other AWS services as well).<br />We used IAM, creating a non-Root user with Admin privileges to use in this course.<br />We created a Lambda function (using Node.js) with an API Gateway Trigger, and used Postman for testing the API.<br />We learned about \"infrastructure as code,\" and then then we installed the AWS Serverless Application Model (SAM) Framework and the SAM CLI, using it to package another application (another Lambda function with an API Gateway) with CloudFormation, and then deploy it.<br />We then added another Lambda function with an API Gateway to that app, and redeployed it to the same S3 bucket where it resided, using the SAM CLI.<br />Repeating this process a few times helped to drill it in for me.",
+      "url": "https://www.linkedin.com/learning/learning-amazon-web-services-lambda-2",
+      "certs": [
+        "CertificateOfCompletion_LearningAmazonWebServicesLambda_LI.pdf"
+      ]
+    },
+    {
       "index": 92,
       "title": "Customer Service: Serving Customers Through Chat and Text",
       "instructor": "Leslie O'Flahavan",
