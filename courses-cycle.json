@@ -1,6 +1,25 @@
 {
   "courses": [
     {
+      "index": 94,
+      "title": "Statistics Foundations: The Basics",
+      "instructor": "Eddie Davila",
+      "date_completed": "2021-09-01",
+      "date": [
+        {
+          "$date": "2021-09-01T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Statistics is not just the realm of data scientists. All types of jobs use statistics. Statistics are important for making decisions, new discoveries, investments, and predictions. Whether the subject is political races, sports rankings, shopping trends, or healthcare advancements, statistics is an instrument for understanding your favorite topic at a deeper level. In this course, Professor Eddie Davila offers beginner-level lessons, so you too can master the terms, formulas, and techniques needed to perform the most common types of statistics.  Eddie covers several examples of data and charts. He explains how to find the middle of your data set, as well as the mean and median. He introduces range, then goes into standard deviation and what to do with outliers. These techniques help you understand your data, prove theories, and save time, money, and other valuable resources—all by understanding the numbers.",
+      "objectives": null,
+      "skills": ["Statistics"],
+      "comments": "It's been years since my Statistics course at CSU Fullerton, where I had an excellent professor (Dr. Hromodka).<br />So I thought that I could use some refresher Statistics courses from here at LinkedIn Learning, of which this is my first.<br />I remembered most of the things covered, such as the mean, median, mode, range and standard deviation.<br />I didn't quite remember the Z-Score (I remembered what it was, but had forgotten the name) and the Empirical Rule (I recalled the gist of it, but not the specifics).",
+      "url": "https://www.linkedin.com/learning/statistics-foundations-the-basics",
+      "certs": [
+        "CertificateOfCompletion_StatisticsFoundations-TheBasics_LI.pdf"
+      ]
+    },
+    {
       "index": 93,
       "title": "Learning Amazon Web Services Lambda",
       "instructor": "Marcia Villalba",
