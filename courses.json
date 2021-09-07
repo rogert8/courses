@@ -1,5 +1,33 @@
 [
   {
+    "index": 95,
+    "title": "Customer Service Foundations",
+    "instructor": "Jeff Toister",
+    "date_completed": "2021-09-07",
+    "date": [
+      {
+        "$date": "2021-09-07T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Do your customers feel valued? When they do, they keep coming back. When they don't, your business suffers. In this course, writer and customer service consultant Jeff Toister teaches you the three crucial skill sets needed to deliver outstanding customer service and increase customer loyalty. Learn how to build winning relationships, provide the right assistance at the right times, and effectively handle angry customers. He also shares ways to find out what your customers really think about your service, and use their feedback to improve.",
+    "objectives": [
+      "Explore how you can use customer surveys to build rapport.",
+      "Name three ways you can use active listening to serve your customers more effectively.",
+      "Identify the different types of needs that must be addressed in order to solve problems.",
+      "Explain the benefits of taking ownership of a problem.",
+      "Define “preemptive acknowledgment” and recognize its impact on customer service.",
+      "List three types of attitude anchors and explain their differences."
+    ],
+    "skills": ["Customer Loyalty", "Customer Service"],
+    "comments": "I saw that multiple former co-workers had taken this course. That made me think that maybe it was evaluation-time there. ;^) Or that their manager had directed them to take this course. (Or both/neither?)<BR />This course would be great for someone starting out in Customer Service, but is also good for those with plenty of experience. This excellent instructor, who has several great courses on Customer Service here on LinkedIn Learning, provides good tips and techniques, which can also serve as good reminders for even those experienced with Customer Service.",
+    "url": "https://www.linkedin.com/learning/customer-service-foundations-2018",
+    "certs": [
+      "CertificateOfCompletion_CustomerServiceFoundations_LI.pdf",
+      "CertificateOfCompletion_CustomerServiceFoundations_NASBA.pdf",
+      "CertificateOfCompletion_CustomerServiceFoundations_PMI.pdf"
+    ]
+  },
+  {
     "index": 94,
     "title": "Statistics Foundations: The Basics",
     "instructor": "Eddie Davila",
