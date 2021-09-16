@@ -1,5 +1,29 @@
 [
   {
+    "index": 97,
+    "title": "R Programming in Data Science: Setup and Start",
+    "instructor": "Mark Niemann-Ross",
+    "date_completed": "2021-09-15",
+    "date": [
+      {
+        "$date": "2021-09-15T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "R is powerful, but not intuitive. There is a strong and diverse R ecosystem, and data scientists are expected to mix and match from the different versions and packages. Before you can even begin programming, you have to choose, install, and set up R to work for you.<br /><br />In this course, Mark Niemann-Ross provides a direct and efficient introduction to the many flavors of the R programming language, including base R, tidyverse R, R Open from Microsoft, and Bioconductor R. He also provides a peek at programming with R interactively and via the command line, and introduces some helpful packages for working with SQL, 3D graphics, data, and clusters in R. At the end of this short course, you will have installed a version of R along with a few core libraries and an optimized IDE.",
+    "objectives": [
+      "Explain why Base R is a unique programming language.",
+      "Summarize how to install R for Macintosh, Windows, Linux, or Unix.",
+      "Name the IDE that does not have support for R.",
+      "Describe two ways to set up R Tools for Visual Studio.",
+      "Identify the three ways R programs can be executed.",
+      "List two functions that sqldf adds to Base R."
+    ],
+    "skills": ["Big Data", "R (Programming Language)", "RStudio"],
+    "comments": "This is a good starting course for R, as it covers different versions/flavors of R - what is unique about that version, installing/using it, and what IDE is recommended for that version.<br />We mainly used the RStudio IDE, with the main exception being using Visual Studio for Microsoft Open R. We also used R Tools for Visual Studio, but since Microsoft changed how R is implemented in VS 2019, I had problems opening the provided Solution/Project files, and ended up just opening the R source code files themselves.<br />We covered the same task in the different versions, to see how the coding differed between them, and also a task that was optimal for each particular version.<br />We covered using R interactively, and from the command line, with arguments, and finished up with common R packages:<br />* sqldf<br />* rgl &mdash; for 3D plots - interactive, and with animations!<br />* data.table &mdash; streamlined syntax<br />* cluster",
+    "url": "https://www.linkedin.com/learning/r-programming-in-data-science-setup-and-start",
+    "certs": ["CertificateOfCompletion_RProgrammingInDataScience-SetupAndStart_LI.pdf", "CertificateOfCompletion_RProgrammingInDataScience-SetupAndStart_NASBA.pdf"]
+  },
+  {
     "index": 96,
     "title": "Statistics Foundations: Probability",
     "instructor": "Eddie Davila",
