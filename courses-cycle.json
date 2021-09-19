@@ -1,6 +1,23 @@
 {
   "courses": [
     {
+      "index": 98,
+      "title": "Learning Network Troubleshooting",
+      "instructor": "Robert McMillen, MBA, MCT, MCSE",
+      "date_completed": "2021-09-19",
+      "date": [
+        {
+          "$date": "2021-09-19T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Troubleshooting network issues is a key skill for a wide range of IT professionals and network professionals. In this course, instructor Robert McMillen teaches you the skills and tools that you need to start network troubleshooting. Robert begins with an overview on how to triage network problems, including basic TCP/IP issues and causes, then steps you through some common home networking and wireless issues. He covers the most common issues with corporate wireless networks and how to troubleshoot Wi-Fi interference. Robert explains different types of VPN, common errors you may encounter, and how to fix them. After showing you some network tools that administrators need to know, he discusses how to fix problems you may run into with routing, switching, and firewalls.",
+      "objectives": null,
+      "skills": ["Network Troubleshooting", "Network Administration"],
+      "comments": "I wanted a refresher on using Wireshark and Fiddler, so I looked here for videos and/or courses on them.<br />I saw that there was a video on Wireshark in this course, and that the rest of this course would also be a good refresher for me, so I completed it.<br />I already knew a lot of it, but appreciated being reminded. And I hadn't much used the PowerShell cmdlets. It was nice that the instructor compared them to their command line counterparts, pointing out differences between them.<br />I also wasn't familiar with most of what we learned in the chapter on VPNs.<br />And the lesson/video on Wireshark was good - we used Nmap/Zenmap on the \"black hat\" computer to scan to the \"white hat\" computer, where we used Wireshark to peruse what was scanned. It was good to get refreshed on this, since it's been a while since I used it.<br />We used the Windows Defender Firewall in the <i>Troubleshooting open firewall ports</> lesson, which was also a good refresher for me, since I'd more recently used the McAfee Firewall to control ports.",
+      "url": "https://www.linkedin.com/learning/learning-network-troubleshooting-2021",
+      "certs": ["CertificateOfCompletion_LearningNetworkTroubleshooting_LI.pdf"]
+    },
+    {
       "index": 97,
       "title": "R Programming in Data Science: Setup and Start",
       "instructor": "Mark Niemann-Ross",
