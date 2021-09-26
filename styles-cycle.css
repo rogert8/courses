@@ -30,7 +30,9 @@ body {
 	margin: 0 auto;
 	/* margin: 0 auto auto auto; */
 	/* background: #93A1A1; */
-	background: #dce6f8;
+	/* background: #dce6f8; */
+	background: rgb(238, 239, 240);
+	/* background: rgb(238, 239, 240); */
 	/* background: white; */
 	padding: 1px 20px;
 	border-radius: 10px;
@@ -52,7 +54,8 @@ body {
 
 #coursebox h4 {
 	/* color: #973C26; */
-	color: #501313ce;
+	/* color: #501313ce; */
+	color: #BF5841;
 	font-weight: bold;
 	margin-bottom: 5px;
 	/* line-height: 1.2em; */

@@ -1,6 +1,37 @@
 {
   "courses": [
     {
+      "index": 99,
+      "title": "Learning R",
+      "instructor": "Barton Poulson",
+      "date_completed": "2021-09-25",
+      "date": [
+        {
+          "$date": "2021-09-25T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "If you want to participate in the data revolution, you need the right tools and skills. R is a free, open-source language for data science that is among the most popular platforms for professional analysts. Learn the basics of R and get started finding insights from your own data, in this course with professor and data scientist Barton Poulson. The lessons explain how to get started with R, including installing R, RStudio, and code packages that extend R’s power. You also see first-hand how to use R and RStudio for beginner-level data modeling, visualization, and statistical analysis. By the end of the course, you’ll have a thorough introduction to the power and flexibility of R, and understand how to leverage this tool to explore and analyze a wide variety of data.",
+      "objectives": [
+        "Installing R and RStudio",
+        "Navigating the RStudio environment",
+        "Importing data from a spreadsheet",
+        "Working with the tidyverse",
+        "Piping commands with %>%",
+        "Visualizing data with R base graphics and ggplot2",
+        "Visualizing hierarchical clusters",
+        "Selecting cases and subgroups",
+        "Recoding variables",
+        "Calculating frequencies",
+        "Calculating descriptives",
+        "Calculating correlations",
+        "Computing a linear regression"
+      ],
+      "skills": ["R (Programming Language)"],
+      "comments": "A good companion starting course to the <i>R Programming in Data Science: Setup and Start</i> course I took earlier here for R.<br />We got into the language a bit more than in that prior course, but we didn't get into loops, conditionals, etc., mainly just using statements for manipulating/processing dataframes.<br />The instructor gave us a tour of RStudio (which we used throughout the course), including some of the settings.<br />We used the <i>pacman</i> package manager package to load and unload packages, and as in the earlier course, we also used the <i>tidyverse</i> package, which among other things, provides the handy piping command.<br />We also covered data visualization, data wrangling, and data analysis.",
+      "url": "https://www.linkedin.com/learning/learning-r-2",
+      "certs": ["CertificateOfCompletion_LearningR_LI.pdf"]
+    },
+    {
       "index": 98,
       "title": "Learning Network Troubleshooting",
       "instructor": "Robert McMillen, MBA, MCT, MCSE",
@@ -39,7 +70,10 @@
       "skills": ["Big Data", "R (Programming Language)", "RStudio"],
       "comments": "This is a good starting course for R, as it covers different versions/flavors of R - what is unique about that version, installing/using it, and what IDE is recommended for that version.<br />We mainly used the RStudio IDE, with the main exception being using Visual Studio for Microsoft Open R. We also used R Tools for Visual Studio, but since Microsoft changed how R is implemented in VS 2019, I had problems opening the provided Solution/Project files, and ended up just opening the R source code files themselves.<br />We covered the same task in the different versions, to see how the coding differed between them, and also a task that was optimal for each particular version.<br />We covered using R interactively, and from the command line, with arguments, and finished up with common R packages:<br />* sqldf<br />* rgl &mdash; for 3D plots - interactive, and with animations!<br />* data.table &mdash; streamlined syntax<br />* cluster",
       "url": "https://www.linkedin.com/learning/r-programming-in-data-science-setup-and-start",
-      "certs": ["CertificateOfCompletion_RProgrammingInDataScience-SetupAndStart_LI.pdf", "CertificateOfCompletion_RProgrammingInDataScience-SetupAndStart_NASBA.pdf"]
+      "certs": [
+        "CertificateOfCompletion_RProgrammingInDataScience-SetupAndStart_LI.pdf",
+        "CertificateOfCompletion_RProgrammingInDataScience-SetupAndStart_NASBA.pdf"
+      ]
     },
     {
       "index": 96,
@@ -189,7 +223,7 @@
         "Adding third-party Vue components"
       ],
       "skills": ["Vue.js", "JavaScript"],
-      "comments": "We installed the Vue.js devtools extension in Chrome, Firefox and I also installed a beta extension for Edge.<br />We then worked on 3 projects:<br />- Customizer, for sneaker shopping - select a size and a color, and the sneaker image changes color and size.<br />- Directory Browser, for browsing and searching a personnel directory, with live search and filtering.<br />and<br />- Status Updater, for posting various types of update messages to a hotel's Web site.<br />This project used MySQL via a PHP Web site, and Axios, a promise-based HTTP Client.<br />We finished up by adding a third-party Vue component (vue-simple-spinner).<br /><br />Now that I've taken first courses on 3 popular JavaScript frameworks (React, Angular, and now Vue) and liked working with all of them, I can go forth and take follow-up courses. I'm hoping that another Angular course will help me with my modifications to the Media Watch List app that we did in the <i>Angular Essential Training</i> course here, that I'm adding to for my own use.<br />I've also started modifying the Directory Browser app from this course, for another presentation of my LinkedIn Learning courses data.",
+      "comments": "We installed the Vue.js devtools extension in Chrome and Firefox, and I also installed a beta extension for Edge.<br />We then worked on 3 projects:<br />- Customizer, for sneaker shopping - select a size and a color, and the sneaker image changes color and size.<br />- Directory Browser, for browsing and searching a personnel directory, with live search and filtering.<br />and<br />- Status Updater, for posting various types of update messages to a hotel's Web site.<br />This project used MySQL via a PHP Web site, and Axios, a promise-based HTTP Client.<br />We finished up by adding a third-party Vue component (vue-simple-spinner).<br /><br />Now that I've taken first courses on 3 popular JavaScript frameworks (React, Angular, and now Vue) and liked working with all of them, I can go forth and take follow-up courses. I'm hoping that another Angular course will help me with my modifications to the Media Watch List app that we did in the <i>Angular Essential Training</i> course here, that I'm adding to for my own use.<br />I've also started modifying the Directory Browser app from this course, for another presentation of my LinkedIn Learning courses data.",
       "url": "https://www.linkedin.com/learning/vue-js-for-web-designers",
       "certs": ["CertificateOfCompletion_Vue.jsForWebDesigners_LI.pdf"]
     },
