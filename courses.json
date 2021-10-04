@@ -1,5 +1,32 @@
 [
   {
+    "index": 100,
+    "title": "Statistics Foundations: 2",
+    "instructor": "Eddie Davila",
+    "date_completed": "2021-10-04",
+    "date": [
+      {
+        "$date": "2021-10-04T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Statistics are a core skill for many careers. Basic stats are critical for making decisions, new discoveries, investments, and even predictions. But sometimes you need to move beyond the basics. Statistics Fundamentals – Part 2 takes business users and data science mavens into practical, example-based learning of the intermediate skills associated with statistics: samples and sampling, confidence intervals, and hypothesis testing.<br /><br />Eddie Davila first provides a bridge from Part 1, reviewing introductory concepts such as data and probability, and then moves into the topics of sampling, random samples, sample sizes, sampling error and trustworthiness, the central unit theorem, t-distribution, confidence intervals (including explaining unexpected outcomes), and hypothesis testing. This course is a must for those working in data science, business, and business analytics—or anyone else who wants to go beyond means and medians and gain a deeper understanding of how statistics work in the real world.",
+    "objectives": [
+      "List the three primary issues addressed in Statistics Foundations: 2.",
+      "Recognize two key characteristics associated with simple random samples.",
+      "Apply the Central Limit Theorem to find the average of sample means.",
+      "Analyze random samples during hypothesis testing.",
+      "Assess individual situations to determine whether a one-tailed or two-tailed test is necessary.",
+      "Define acceptance sampling."
+    ],
+    "skills": ["Statistics"],
+    "comments": "Yet another one in my run of Statistics refresher courses here.<br />We covered sampling, sample size (and the effects it has), and confidence intervals.<br />And we finished up with a whole chapter on Hypothesis Testing, which was really good, since we did it repeatedly, which drilled the process in.",
+    "url": "https://www.linkedin.com/learning/statistics-foundations-2",
+    "certs": [
+      "CertificateOfCompletion_StatisticsFoundations-2_LI.pdf",
+      "CertificateOfCompletion_StatisticsFoundations-2_NASBA.pdf"
+    ]
+  },
+  {
     "index": 99,
     "title": "Learning R",
     "instructor": "Barton Poulson",
