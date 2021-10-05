@@ -1,5 +1,24 @@
 [
   {
+    "index": 101,
+    "title": "Improve Cognitive Flexibility at Work",
+    "instructor": "Andrea Bonior",
+    "date_completed": "2021-10-05",
+    "date": [
+      {
+        "$date": "2021-10-05T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "The ability to switch mental gears quickly and efficiently isn't just a boon for workers needing to pivot after a setback. This facility—also known as cognitive flexibility—is critical to everyone’s mental and physical health. Employees of all stripes need the ability to pivot, adapt, and challenge their automatic assumptions in order to increase their adaptability, resilience, and creativity. In this course, clinical psychologist and best-selling author Andrea Bonior teaches science-backed techniques for improving cognitive flexibility. Discover how to build daily mental habits to increase adaptability and clear-thinking, as well as practice incorporating innovation into your daily life. Tune in to nudge yourself beyond your comfort zone and learn how to build and maintain cognitive flexibility over the long term.",
+    "objectives": null,
+    "skills": ["Cognitive Flexibility"],
+    "comments": "I saw that a former coworker, who frequently finds interesting, informative courses here, had taken this one.",
+    "url": "https://www.linkedin.com/learning/improve-cognitive-flexibility-at-work",
+    "certs": [
+      "CertificateOfCompletion_ImproveCognitiveFlexibilityAtWork_LI.pdf"
+    ]
+  },
+  {
     "index": 100,
     "title": "Statistics Foundations: 2",
     "instructor": "Eddie Davila",
