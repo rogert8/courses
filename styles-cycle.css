@@ -30,8 +30,8 @@ body {
 	margin: 0 auto;
 	/* margin: 0 auto auto auto; */
 	/* background: #93A1A1; */
-	/* background: #dce6f8; */
-	background: rgb(238, 239, 240);
+	background: #dce6f8;
+	/* background: rgb(238, 239, 240); */
 	/* background: rgb(238, 239, 240); */
 	/* background: white; */
 	padding: 1px 20px;
@@ -54,8 +54,8 @@ body {
 
 #coursebox h4 {
 	/* color: #973C26; */
-	/* color: #501313ce; */
-	color: #BF5841;
+	color: #501313ce;
+	/* color: #BF5841; */
 	font-weight: bold;
 	margin-bottom: 5px;
 	/* line-height: 1.2em; */
@@ -83,6 +83,17 @@ body {
 #coursebox p {
 	color: #1E3A40;
 	font-size: .8em;
+}
+
+#coursebox:hover {
+	/* background: white; */
+	background: rgb(238, 239, 240);
+}
+#coursebox:hover h4 {
+	/* color: #5f2c21; */
+	/* color: #8d3622; */
+	/* color: #501313ce; */
+	color: #BF5841;
 }
 
 #coursebox #next_btn, #coursebox #prev_btn {
