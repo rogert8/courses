@@ -1,5 +1,28 @@
 [
   {
+    "index": 103,
+    "title": "Learning Selenium",
+    "instructor": "Meaghan Lewis",
+    "date_completed": "2021-10-09",
+    "date": [
+      {
+        "$date": "2021-10-09T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Selenium is one of the most popular tools for testing web-based applications. It allows QA engineers to write and automate tests across many different browsers and operating systems, without a special scripting language. This course introduces Selenium to new users, covering installation and basic use cases. Find out how to set up the test-writing framework, WebDriver, and Selenium Grid, which allows you to distribute the testing load and run tests against a remote server. Learn best practices to write effective tests using variables and functions, and to organize tests into suites that can scale over time. Instructor Meaghan Lewis—a QA engineer at GitHub—also explains the test pyramid paradigm, which details an ideal way to balance unit, integration, and UI testing.",
+    "objectives": [
+      "Setting up Selenium WebDriver",
+      "Distributing the testing load with Selenium grid",
+      "Setting up a hub and nodes",
+      "Writing clean test code",
+      "Organizing a test suite"
+    ],
+    "skills": ["Selenium"],
+    "comments": "A good starting course about using Selenium for automating testing on Web page apps &mdash;<br />We installed and used Ruby to code the tests, using the Sublime Text text editor. It was good for me to get some more Ruby practice.<br />We installed the Selenium WebDriver and the <i>RSpec</i> Ruby Gem.<br />We also installed and used Selenium Grid, setting up the hub and configuring nodes, to distribute and run tests against remote browser instances.<br />And we learned about the Page Object Pattern, creating classes for each page of a Web page app.",
+    "url": "https://www.linkedin.com/learning/learning-selenium",
+    "certs": ["CertificateOfCompletion_LearningSelenium_LI.pdf"]
+  },
+  {
     "index": 102,
     "title": "Programming Foundations: Software Testing/QA",
     "instructor": "Meaghan Lewis",
