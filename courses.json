@@ -1,5 +1,33 @@
 [
   {
+    "index": 104,
+    "title": "AWS Security Best Practices for Developers",
+    "instructor": "Carlos Rivas",
+    "date_completed": "2021-10-14",
+    "date": [
+      {
+        "$date": "2021-10-14T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Security matters to everyone, but solid security practices start with the developer of an application. In this developer-centered course, instructor and AWS Certified Solutions Architect Carlos Rivas shows how to build stronger, more secure applications for deployment on Amazon Web Services. Learn core AWS security development principles around Identity and Access Management (IAM), S3 storage, and Key Management Service (KMS), to ensure your users, systems, and data are secure on the cloud. Plus, learn how to use Cognito to establish user identity without maintaining unique login credentials for each application.",
+    "objectives": [
+      "Identity and Access Management security",
+      "S3 security policies, encryption, and version control",
+      "KMS encryption",
+      "User authentication with Cognito"
+    ],
+    "skills": [
+      "Cloud Security",
+      "Cloud Computing",
+      "Amazon Web Services (AWS)"
+    ],
+    "comments": null,
+    "url": "https://www.linkedin.com/learning/aws-security-best-practices-for-developers",
+    "certs": [
+      "CertificateOfCompletion_AWSSecurityBestPracticesForDevelopers_LI.pdf"
+    ]
+  },
+  {
     "index": 103,
     "title": "Learning Selenium",
     "instructor": "Meaghan Lewis",
