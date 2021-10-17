@@ -1,6 +1,23 @@
 {
   "courses": [
     {
+      "index": 105,
+      "title": "Learning NuGet",
+      "instructor": "Microsoft .NET and Christopher Gill",
+      "date_completed": "2021-10-16",
+      "date": [
+        {
+          "$date": "2021-10-16T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "This course is an introduction to NuGet, the official package manager for .NET. Packages are essentially compiled libraries packed together with descriptive metadata into an easily shareable unit, meaning NuGet lets developers leverage a massive ecosystem and utilize existing solutions as a foundation instead of building everything from scratch.  Instructor Christopher Gill covers NuGet essentials like package management, the tools and resources NuGet provides, and how to use those tools to leverage and contribute to the extensive .NET ecosystem. He also covers the ins and outs of NuGet.org, the central repository for .NET developers to find and publish .NET packages.",
+      "objectives": null,
+      "skills": ["NuGet", ".NET Framework"],
+      "comments": "I'd had to research and then use NuGet to get things working in Visual Studio for the <i>ASP.NET Web Forms Essential Training</i> course I took here. This course provided a good overall view on what NuGet is all about.<br /><br />We covered installing and using a NuGet package with Visual Studio, and with the .NET CLI, after using Visual Studio Code for the coding.<br />We also created and published a NuGet package to <a href=\"https://www.nuget.org/\" target=\"_blank\">nuget.org</a> with Visual Studio, and with the .NET CLI, after using Visual Studio Code for the coding. ",
+      "url": "https://www.linkedin.com/learning/learning-nuget",
+      "certs": ["CertificateOfCompletion_LearningNuGet_LI.pdf"]
+    },
+    {
       "index": 104,
       "title": "AWS Security Best Practices for Developers",
       "instructor": "Carlos Rivas",
