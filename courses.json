@@ -1,5 +1,37 @@
 [
   {
+    "index": 106,
+    "title": "Docker on AWS",
+    "instructor": "Robert Starmer",
+    "date_completed": "2021-10-21",
+    "date": [
+      {
+        "$date": "2021-10-21T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Docker is the next step beyond virtualization. When deployed with Amazon Elastic Container Service (AWS ECS), you have a solid foundation for monitoring and managing Docker containers, including starting containers and scheduling tasks. This frees up developers to concentrate on your container-based applications—instead of your hosting platform. In this course, Robert Starmer demonstrates how to use Docker and the powerful features in AWS to build and manage container-based applications. Learn how to create containerized applications, set up AWS ECS, mange container scale and network models, troubleshoot issues, and more.",
+    "objectives": [
+      "Creating an Elastic Container Registry (ECR)",
+      "Automatically building new containers",
+      "Fargate vs. EC2 for containers",
+      "Configuring ECS for EC2 and Fargate",
+      "Deploying an app into ECS",
+      "Managing container scale",
+      "Adding an ECS service and task",
+      "Networking and storage",
+      "ECS metrics"
+    ],
+    "skills": [
+      "Amazon Web Services (AWS)",
+      "Cloud Development",
+      "Software Deployment",
+      "Docker Products"
+    ],
+    "comments": null,
+    "url": "https://www.linkedin.com/learning/docker-on-aws",
+    "certs": ["CertificateOfCompletion_DockerOnAWS_LI.pdf"]
+  },
+  {
     "index": 105,
     "title": "Learning NuGet",
     "instructor": "Microsoft .NET and Christopher Gill",
