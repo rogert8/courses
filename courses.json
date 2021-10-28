@@ -1,5 +1,36 @@
 [
   {
+    "index": 107,
+    "title": "Selenium Essential Training",
+    "instructor": "Meaghan Lewis",
+    "date_completed": "2021-10-28",
+    "date": [
+      {
+        "$date": "2021-10-28T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Take your Selenium framework skills to the next level. In this course, Meaghan Lewis takes you past the basics covered in Learning Selenium, on to intermediate and advanced options. First, Meaghan reviews the fundamentals and shows you how to get the most out of WebDriver. Next, she takes you into the mechanics of advanced locators and interacting with components. Then she shares how to overcome common synchronization issues. She wraps up by covering workflows and integrations.",
+    "objectives": [
+      "Using browser drivers and WebDriver",
+      "Inspecting elements",
+      "Executing JavaScript commands",
+      "Selecting a locator",
+      "Combining multiple CSS attributes",
+      "Using common components",
+      "Implicit and explicit waits",
+      "Automating workflows",
+      "Testing behaviors",
+      "Using page objects",
+      "Connecting to GitHub",
+      "Running on the grid",
+      "Using cloud-based testing tools"
+    ],
+    "skills": ["Selenium WebDriver", "Selenium"],
+    "comments": "This is a longer companion/follow-up course expanding on this instructor's <i>Learning Selenium</i> course here.<br />We coded in Java (instead of in Ruby) this time, using the IntelliJ IDEA, and we installed and used ChromeDriver, instead of GeckoDriver, which we used for Firefox in the prior course.<br />We created tests against pages at <a href=\"https://formy-project.herokuapp.com/\" target=\"_blank\">FORMY</a>.<br />As in the prior course, we progressed from coding a series of statements for testing a Web page app, to cleaning up the code by extracting those statements into functions, then broke those functions out into Java Classes, to conform to the Page Object Pattern.<br />We then created a Git Repository locally, and remotely on GitHub, then pushed the our code to GitHub.<br />The instructor finished up by introducing us to various CI (Continuous Integration) servers, and the Sauce Labs cloud-based testing tool.",
+    "url": "https://www.linkedin.com/learning/selenium-essential-training",
+    "certs": ["CertificateOfCompletion_SeleniumEssentialTraining_LI.pdf"]
+  },
+  {
     "index": 106,
     "title": "Docker on AWS",
     "instructor": "Robert Starmer",
@@ -358,7 +389,7 @@
       "Pushing content that boosts sales"
     ],
     "skills": ["Customer Service Systems"],
-    "comments": "While composing hypothetical Support responses for an assessment that I was taking while looking for a new position, I may have tended too much towards an email style, instead of the chat/text style that was expected(?). (It was a bit hard to tell from the given scenarios, because the questions just used the word \"message.\"  And since I was also expected to base my replies on the company's documentation, it seemed that shorter replies (as expected in a chat/text channel), would not have demonstrated that. It was a bit confusing.  Suffice it to say - I did not advance to the next step...)<br />I hadn't used chat/text in a Support role (except with internal customers), so I thought that I should get up to speed.<br />So now, if it's clear that I'm in a chat/text situation, I am better prepared.<br /><br />This instructor provided good advice, and as a side-effect, also taught me how to better uphold my end of the chat/text when I'M the one seeking assistance.",
+    "comments": "While composing hypothetical Support responses for an assessment that I was taking while looking for a new position, I may have tended too much towards an email style, instead of the chat/text style that was expected(?). (It was a bit hard to tell from the given scenarios, because the questions just used the word \"message.\"  And since I was also expected to base my replies on the company's documentation, it seemed that shorter replies (as expected in a chat/text channel), would not have demonstrated that. It was a bit confusing. (Suffice it to say - I did not advance to the next step...)<br />I hadn't used chat/text in a Support role (except with internal customers), so I thought that I should get up to speed.<br />So now, if it's clear that I'm in a chat/text situation, I am better prepared.<br /><br />This instructor provided good advice, and as a side-effect, also taught me how to better uphold my end of the chat/text when I'M the one seeking assistance.",
     "url": "https://www.linkedin.com/learning/customer-service-serving-customers-through-chat-and-text",
     "certs": [
       "CertificateOfCompletion_CustomerServiceServingCustomersThroughChatAndText_LI.pdf"
