@@ -1,5 +1,32 @@
 [
   {
+    "index": 109,
+    "title": "Test Automation Foundations",
+    "instructor": "Meaghan Lewis",
+    "date_completed": "2021-11-05",
+    "date": [
+      {
+        "$date": "2021-11-05T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Automated testing relies on scripting and frameworks like Selenium to prove that products work as expected. Test automation is an enormous time-saver, and it's crucial to continuous integration, continuous delivery, and agile software development. If you're employed in QA, DevOps, and IT, you need to know the basics. This course covers the foundations of test automation, as well as different strategies for implementation. QA engineer Meaghan Lewis explains what kinds of tests to use, how to choose the right test tools, and how to plan and execute test automation projects. She also describes strategies to maintain automation over time: adding new tests, updating old tests, and resolving failures.",
+    "objectives": [
+      "The test pyramid",
+      "Unit, integration, and UI tests",
+      "Creating an automation strategy",
+      "Choosing test tools",
+      "Deciding what to automate",
+      "Identifying the risks and cost of automation",
+      "Implementing test automation",
+      "Using continuous integration",
+      "Measuring code coverage"
+    ],
+    "skills": ["Test Automation"],
+    "comments": "A foundations course that covers some of the same things covered in other courses here by this instructor, such as testing quadrants, the test pyramid, test types (unit, integration, and UI).<br />There wasn't much coding in this course, but for what there was, we coded in Node.js using the Atom text editor, and stored product data in MongoDB.<br />We ran the unit and integration tests from the terminal, and the UI tests using Selenium. <br />We learned about some Frameworks and Assertion libraries. We also learned how to configure and use <i>Travis CI,</i> tied into GitHub repositories.<br />And we learned how to decide what to automate, and used the <i>Istanbul</i> code coverage tool.",
+    "url": "https://www.linkedin.com/learning/test-automation-foundations",
+    "certs": ["CertificateOfCompletion_TestAutomationFoundations_LI.pdf"]
+  },
+  {
     "index": 108,
     "title": "Software Testing Foundations: Continuous Testing and DevOps",
     "instructor": "Jain Waldrip",
