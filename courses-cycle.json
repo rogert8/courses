@@ -1,6 +1,25 @@
 {
   "courses": [
     {
+      "index": 110,
+      "title": "Customer Service: Managing Customer Expectations",
+      "instructor": "Jeff Toister",
+      "date_completed": "2021-11-08",
+      "date": [
+        {
+          "$date": "2021-11-08T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Today's customers expect a lot. Customer service expert Jeff Toister helps frontline employees identify where they can manage the expectations of customers to avoid upsetting them down the line. Specifically, how to avoid situations where unreasonable expectations might develop, and how to choose the right language to educate customers and explain potential areas of confusion. Despite your best efforts, customers may still develop inappropriate expectations, so Jeff also suggests tactics to counteract this problem. Finally, he provides tips for implementing the lessons learned in this course into your everyday customer service routine.",
+      "objectives": null,
+      "skills": ["Expectations Management", "Customer Service"],
+      "comments": null,
+      "url": "https://www.linkedin.com/learning/customer-service-managing-customer-expectations",
+      "certs": [
+        "CertificateOfCompletion_CustomerService-ManagingCustomerExpectations_LI.pdf"
+      ]
+    },
+    {
       "index": 109,
       "title": "Test Automation Foundations",
       "instructor": "Meaghan Lewis",
