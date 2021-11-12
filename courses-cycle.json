@@ -1,6 +1,32 @@
 {
   "courses": [
     {
+      "index": 111,
+      "title": "Making Sense of the CSS Box Model",
+      "instructor": "Morten Rand-Hendriksen",
+      "date_completed": "2021-11-11",
+      "date": [
+        {
+          "$date": "2021-11-11T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Based on old-school typography blocks, the CSS box model is the key to modern web design. Once you master it, you can build any layout you want—and troubleshoot most of the common CSS alignment and positioning woes. In this course, Morten Rand-Hendriksen offers a \"four course meal\" approach to the CSS box model, breaking it down into easily digestible chunks. He covers techniques such as styling text and images, floating content, using display properties, and positioning elements. He also explores the brave new world of modern layout modules, discussing Float, Flex, and Grid and how they can work together. Each lesson is supported by real-world demonstrations of the concepts in action, and Morten closes with a \"nightcap\" that will get you thinking about going further with CSS.",
+      "objectives": [
+        "Designing with boxes",
+        "The origin of the box in typography",
+        "What is the CSS box model?",
+        "Changing the contents within the box",
+        "Floating and clearing content",
+        "Using the clearfix",
+        "Working with Float, Flex, and Grid",
+        "CSS shapes"
+      ],
+      "skills": ["Cascading Style Sheets (CSS)", "Web Design"],
+      "comments": "More CSS training...",
+      "url": "https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2",
+      "certs": ["CertificateOfCompletion_MakingSenseOfTheCSSBoxModel_LI.pdf"]
+    },
+    {
       "index": 110,
       "title": "Customer Service: Managing Customer Expectations",
       "instructor": "Jeff Toister",
