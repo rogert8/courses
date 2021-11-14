@@ -21,28 +21,22 @@
 	}
 	
 	#btns {
-		/* display: flex; */
+		/* display: block; */
 		width: 80%;
 		margin: 0 auto;
 	}
 
-	#btn-ctr {
-		width: 80%;
+	/* #btn-ctr {
+		width: 100%;
 		margin: 0 auto;
 		padding: 0px 30px;
-	}
+	} */
 	
 	btn {
 		display: inline-block;
+		/* width: 38%; */
 		padding: 10px 30px;
-		/* margin: 0 auto; */
-		/* margin-top:0;
-margin-bottom:0;
-margin-left:auto;
-margin-right:auto; */
-		width: 42%;
-		/* margin: 10 0 auto; */
-		/* width: 60px; */
+		margin: 0 auto 0.5rem;
 		background: #5ea9f0;
 		color: #05549e;
 		font: bold 1.3em Arial;
