@@ -25,18 +25,11 @@
 		width: 80%;
 		margin: 0 auto;
 	}
-
-	/* #btn-ctr {
-		width: 100%;
-		margin: 0 auto;
-		padding: 0px 30px;
-	} */
 	
 	btn {
 		display: inline-block;
-		/* width: 38%; */
 		padding: 10px 30px;
-		margin: 0 auto 0.5rem;
+		margin: 0 0.2rem 0.5rem 0;
 		background: #5ea9f0;
 		color: #05549e;
 		font: bold 1.3em Arial;
