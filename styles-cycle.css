@@ -57,12 +57,13 @@ body {
 	color: #501313ce;
 	/* color: #BF5841; */
 	font-weight: bold;
-	margin-bottom: 5px;
 	/* line-height: 1.2em; */
 }
 
 #coursebox h5 {
 	color: #05549e;
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
 
 }
 
@@ -83,6 +84,7 @@ body {
 #coursebox p {
 	color: #1E3A40;
 	font-size: .8em;
+	/* margin-top: 0.5rem; */
 }
 
 #coursebox:hover {
