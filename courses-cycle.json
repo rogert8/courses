@@ -1,6 +1,27 @@
 {
   "courses": [
     {
+      "index": 112,
+      "title": "CSS: Display",
+      "instructor": "Jen Kramer",
+      "date_completed": "2021-11-13",
+      "date": [
+        {
+          "$date": "2021-11-13T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Every CSS layout relies on the display property to tell it basic rules for how to present content. In this course, instructor Jen Kramer explains why the display property is so important and walks you through basic display values and newer display values that you need to understand to make effective use of this property. Jen discusses inline-level elements and the inline display value. She covers block-level elements, the block display value, and how to nest inline and block elements in HTML. Jen describes how to use “display: none” and “visibility: hidden” to hide content. Then she goes into newer display values, such as inline flex and grid values, the flow-root property, inline-block, tables, and list items. Jen concludes with recommendations on further HTM and CSS learning.",
+      "objectives": null,
+      "skills": [
+        "Markup Languages",
+        "Cascading Style Sheets (CSS)",
+        "Web Design"
+      ],
+      "comments": "Even more CSS training...<br />This turned out to be a good companion course to the <i>Making Sense of the CSS Box Model</i> course here that I completed before this one.<br />In this course, we used the <a href=\"https://codepen.io\" target=\"_blank\">CodePen</a> site, where you can supply/modify HTML and CSS (and JavaScript, which we didn't use) and quickly see the results.",
+      "url": "https://www.linkedin.com/learning/css-display",
+      "certs": ["CertificateOfCompletion_CSS-Display_LI.pdf"]
+    },
+    {
       "index": 111,
       "title": "Making Sense of the CSS Box Model",
       "instructor": "Morten Rand-Hendriksen",
