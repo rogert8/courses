@@ -1,5 +1,24 @@
 [
   {
+    "index": 113,
+    "title": "Customer Success Management Fundamentals",
+    "instructor": "PracticalCSM - Rick Adams",
+    "date_completed": "2021-11-21",
+    "date": [
+      {
+        "$date": "2021-11-21T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "New to customer success management (CSM)? This course can help you get up to speed with the fundamentals. This course address what CSM is and why it's important; what types of situations CSM applies to; and how CSM can help increase a company’s sales revenues and profitability. The course then reviews the 14 tenets (or guiding principles) of customer success. Collectively, these tenets outline the role of the CSM in ensuring that customer success occurs and that its benefits are realized by both the CSM's own company and its customers. This course can be taken on its own as an introduction to the topic, or as one in a series of courses from PracticalCSM.com that build upon each other to cover the entirety of CSM best practices in greater detail.",
+    "objectives": null,
+    "skills": ["Customer Service Management", "Customer Success"],
+    "comments": null,
+    "url": "https://www.linkedin.com/learning/customer-success-management-fundamentals",
+    "certs": [
+      "CertificateOfCompletion_CustomerSuccessManagementFundamentals_LI.pdf"
+    ]
+  },
+  {
     "index": 112,
     "title": "CSS: Display",
     "instructor": "Jen Kramer",
