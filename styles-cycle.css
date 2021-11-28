@@ -19,6 +19,11 @@ body {
 	border-radius: 5px;
 }
 
+#desc:hover {
+	/* background: white; */
+	background: rgb(238, 239, 240);
+}
+
 #desc div {
 	text-align: center;
 }
@@ -91,6 +96,7 @@ body {
 	/* background: white; */
 	background: rgb(238, 239, 240);
 }
+
 #coursebox:hover h4 {
 	/* color: #5f2c21; */
 	/* color: #8d3622; */

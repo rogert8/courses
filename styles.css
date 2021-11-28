@@ -16,6 +16,11 @@
 		border-radius: 5px;
 	}
 	
+	#desc:hover {
+		/* background: white; */
+		background: rgb(238, 239, 240);
+	}
+
 	#desc div {
 		text-align: center;
 	}
