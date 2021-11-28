@@ -1,5 +1,22 @@
 [
   {
+    "index": 115,
+    "title": "Java Object-Oriented Programming",
+    "instructor": "Kathryn Hodge",
+    "date_completed": "2021-11-27",
+    "date": [
+      {
+        "$date": "2021-11-27T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Are you familiar with Java but want to get the most out of your Java programs? In this course, Kathryn Hodge teaches the basics of object-oriented programming in Java, so you can write code that’s secure, scalable, and easier to troubleshoot. Kathryn begins by showing how object-oriented principles are embedded into the Java language from the first code file you create. She looks at how classes, instances, and constructors embody the idea of representing real-life objects in code. Kathryn not only shows how to apply object-oriented principles in your own programs, but also explains how Java leverages these principles behind the scenes. While many resources about object-oriented programming focus on abstract examples, the goal of this course is to get away from the abstract and focus more on practical examples of these principles in Java. Along with deep dives into the source code, this course also provides several challenges and solutions to help you apply what you’ve learned.",
+    "objectives": null,
+    "skills": ["Object-Oriented Programming (OOP)", "Java"],
+    "comments": "I wanted a refresher on OOP with Java. I have more experience with OOP in C++, which unlike Java, allows for multiple inheritance.<br />We used the IntelliJ IDEA, and studied classes/objects, encapsulation and inheritance.<br />This course has a very good chapter on polymorphism, where we coded several examples, including both run-time and compile-time polymorphism.<br />There is also a very good chapter on abstraction, using interfaces, and abstract classes.<br />We also explored Java's own source code, to see how Java uses object-oriented programming behind the scenes. <br />Each chapter ends with a challenge/solution, demonstrating/implementing the concepts above.",
+    "url": "https://www.linkedin.com/learning/java-object-oriented-programming-2",
+    "certs": ["CertificateOfCompletion_JavaObject-OrientedProgramming_LI.pdf"]
+  },
+  {
     "index": 114,
     "title": "Introducing Maven",
     "instructor": "Frank P Moley III",
