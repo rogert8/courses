@@ -1,6 +1,23 @@
 {
   "courses": [
     {
+      "index": 121,
+      "title": "UX Design: 4 Ideation",
+      "instructor": "Chris Nodder",
+      "date_completed": "2021-12-16",
+      "date": [
+        {
+          "$date": "2021-12-16T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Ideation helps your team generate a lot of different design ideas in a short amount of time. In UX design, your first idea is seldom your best. A broad set of ideas is more likely to lead to a more creative, more satisfactory solution for your users. The ideation phase of UX design is where you consider all the different ways you could possibly fix your users' pain points, and then narrow down to some practical, viable alternatives.  In this installment of UX Design Techniques, Chris Nodder explores a variety of ideation techniques. Chris explains how to brainstorm in a way that lets all members of a team, not just the designers, contribute to a product's overall direction.",
+      "objectives": null,
+      "skills": ["Creative Ideation", "User Experience Design (UED)"],
+      "comments": null,
+      "url": "https://www.linkedin.com/learning/ux-design-4-ideation",
+      "certs": ["CertificateOfCompletion_UXDesign-4_Ideation_LI.pdf"]
+    },
+    {
       "index": 120,
       "title": "Service Metrics for Customer Service",
       "instructor": "Brad Cleveland",
