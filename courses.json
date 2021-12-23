@@ -1,5 +1,28 @@
 [
   {
+    "index": 123,
+    "title": "UX Design: 6 Paper Prototyping",
+    "instructor": "Chris Nodder",
+    "date_completed": "2021-12-22",
+    "date": [
+      {
+        "$date": "2021-12-22T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "In this installment of <i>UX Design Techniques,</i> learn how to make paper prototypes so you can validate your ideas before you write any code. This method of prototyping is fast and inexpensive, allowing you to test design ideas early using simple materials: paper, Post-it notes, index cards, and Sharpies. Chris Nodder takes you through the process, including making separate sketches of each interface element, highlighting areas where there would be interaction between a system and a user, and then running through user testing so you can observe the user's experience, reposition elements, and make adjustments.",
+    "objectives": [
+      "Paper prototyping in user-centered design (UCD)",
+      "Making paper prototypes",
+      "Observing user interactions",
+      "Adjusting designs based on feedback",
+      "Testing using paper prototypes of interfaces"
+    ],
+    "skills": ["Paper Prototyping", "User Experience Design (UED)"],
+    "comments": null,
+    "url": "https://www.linkedin.com/learning/ux-design-6-paper-prototyping",
+    "certs": ["CertificateOfCompletion_UXDesign-6_PaperPrototyping_LI.pdf"]
+  },
+  {
     "index": 122,
     "title": "UX Design: 5 Creating Scenarios and Storyboards",
     "instructor": "Chris Nodder",
@@ -81,7 +104,7 @@
     ],
     "comments": null,
     "url": "https://www.linkedin.com/learning/ux-design-3-creating-personas",
-    "certs": ["CertificateOfCompletion_UX Design-3_CreatingPersonas_LI.pdf"]
+    "certs": ["CertificateOfCompletion_UXDesign-3_CreatingPersonas_LI.pdf"]
   },
   {
     "index": 118,
