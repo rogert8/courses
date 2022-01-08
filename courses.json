@@ -1,5 +1,57 @@
 [
   {
+    "index": 128,
+    "title": "Blockchain: Learning Solidity",
+    "instructor": "Emmanuel Henri",
+    "date_completed": "2022-01-07",
+    "date": [
+      {
+        "$date": "2022-01-07T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Blockchain is a buzzword, but it's also a very powerful technology that allows everyday users to exchange sensitive data without a middleman. Programmers can leverage the blockchain in their applications using Solidity, a programming language for the Ethereum platform. This course teaches you how to build a simple contract-based application with Solidity. Emmanuel Henri starts with the basics of blockchain and smart contracts: self-executing transactions written directly in code. You can then learn all about the Solidity ecosystem, including syntax and advanced concepts such as source mappings, then apply them to build your very first contract.",
+    "objectives": [
+      "Installing Solidity",
+      "Solidity programming basics: types, variables, functions, and conditionals",
+      "Creating a smart contract in Solidity",
+      "Setting variables",
+      "Adding modifiers",
+      "Finalizing functions",
+      "Testing your contract"
+    ],
+    "skills": ["Solidity", "Blockchain"],
+    "comments": "Solidity is a programming language for the Ethereum platform.<br />We used the <a href=\"https://remix.ethereum.org/\" target=\"_blank\"><i>Remix</i> online IDE/compiler</a>, where we coded and tested a Smart Contract (having to do with payouts from an inheritance).",
+    "url": "https://www.linkedin.com/learning/blockchain-learning-solidity",
+    "certs": ["CertificateOfCompletion_Blockchain-LearningSolidity_LI.pdf"]
+  },
+  {
+    "index": 127,
+    "title": "Blockchain: Beyond the Basics",
+    "instructor": "Jonathan Reichental, Ph.D.",
+    "date_completed": "2022-01-07",
+    "date": [
+      {
+        "$date": "2022-01-07T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Blockchain is an exciting new technology that is redefining how we store, update, and move data. Learn about the blockchain and the implications of decentralized, encrypted data storage for business and society, in this course with Dr. Jonathan Reichental. He begins by explaining exactly how the blockchain works, including the concepts of cryptography, mining, distribution, and smart contracts. Next, he describes how the blockchain enables the most popular cryptocurrency, bitcoin. Learn how new bitcoin is generated, how it is transacted, and the requirements for participating as either an exchange, a trader, or a miner. The course also covers other popular technology manifestations of blockchain, such as Hyperledger and Ripple. Dr. Reichental then puts blockchain technology in context in several different industries, including energy and security, and helps learners understand how to think about the blockchain in ways that can be applied in any field.",
+    "objectives": [
+      "Explain how the relationship between blockchain and Bitcoin is similar to the relationship of the internet and FTP.",
+      "List specific qualities of a blockchain database.",
+      "Describe how transactions are updated in a distributed ledger.",
+      "Explain how the price of Bitcoin is derived.",
+      "Assess the core benefits of altcoins.",
+      "Recall how blockchain relates to the energy sector."
+    ],
+    "skills": ["Blockchain"],
+    "comments": "A followup to this instructor's <i>Blockchain Basics</i> course.<br />Like that course, this one is a bit dated. He has a recent update to the prior course, but not yet for this one. But this course is still relevant, and most of the Blockchain-related Web sites he references still exist (although they may have evolved).",
+    "url": "https://www.linkedin.com/learning/blockchain-beyond-the-basics",
+    "certs": [
+      "CertificateOfCompletion_Blockchain-BeyondTheBasics_LI.pdf",
+      "CertificateOfCompletion_Blockchain-BeyondTheBasics_NASBA.pdf"
+    ]
+  },
+  {
     "index": 126,
     "title": "Using Docker and .NET Core",
     "instructor": "Shayne Boyer, Microsoft .NET , and Lisa Guthrie",
