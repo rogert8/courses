@@ -1,5 +1,52 @@
 [
   {
+    "index": 130,
+    "title": "How Blockchains Will Change Business",
+    "instructor": "Alison McCauley",
+    "date_completed": "2022-01-12",
+    "date": [
+      {
+        "$date": "2022-01-12T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Blockchains are poised to disrupt entrenched industries and shatter conventional business models. Train your brain to see the opportunities and challenges of this next wave of digital change, before the way we do business is again reshaped by new technology. This jargon-free course can help you get up to speed. Join Alison McCauley, the best-selling author of Unblocked: How Blockchains Will Change Your Business (and What to Do about It), as she goes over what blockchains offer companies, as well as how this technology will impact everything from finance to HR.<br /><br />Alison begins by explaining what blockchains accomplish, how they make it safer for everyone to work together, and where they do—and do not—deliver value. Then, she details the new tools that blockchains offer business, including how they can help you discern what's real from what's false in your digital world. Plus, learn how blockchains can impact different departments within your business, from finance to HR.",
+    "objectives": null,
+    "skills": ["Business Innovation", "Blockchain"],
+    "comments": "This course was more recent than the other blockchain-related courses I have taken here, and provided some examples of how businesses are already using blockchains, and a lot of good ideas and examples of how blockchains could be used in the future.",
+    "url": "https://www.linkedin.com/learning/how-blockchains-will-change-business",
+    "certs": [
+      "CertificateOfCompletion_HowBlockchainsWillChangeBusiness_LI.pdf",
+      "CertificateOfCompletion_HowBlockchainsWillChangeBusiness_PMI.pdf"
+    ]
+  },
+  {
+    "index": 129,
+    "title": "Tips for Better Business Writing",
+    "instructor": "Natasha Terk",
+    "date_completed": "2022-01-12",
+    "date": [
+      {
+        "$date": "2022-01-12T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Want to advance your communication skills? Improve your writing. Clear and concise writing is the key to helping your audience understand your message—whether it’s delivered in an email, report, memo, or white paper. This course, designed by Adcom Designs and Write It Well managing director, Natasha Terk, provides relevant, actionable tips to improve the quality and impact of your writing. Learn how to plan a message, format it for easy reading, and use the right words to communicate clearly. Plus, learn how to reduce or eliminate errors to maintain your professional image and credibility.",
+    "objectives": [
+      "Describe the two fundamental purposes of business writing.",
+      "Define a key message, and explain how and where to use it.",
+      "Explain how to generate a list of points for discussion and logically organize that list.",
+      "Quantify appropriate sentence lengths for ease of understanding.",
+      "Identify redundant words and jargon.",
+      "Describe the importance of proofreading and list strategies for identifying errors."
+    ],
+    "skills": ["Business Writing"],
+    "comments": "I saw that some former coworkers had taken this course, and although I think that I'm already pretty good at this, I figure that I can always improve.<br />As in another writing course that I'm taking here, this one emphasizes the fact that readers of such communication tend to scan more than engage in close reading, and offers ways to facilitate that for them.<br />It also offers advice on how to be more concise, and since I can sometimes suffer from what Mark Twain was referring to in a letter to a friend, I appreciated his line:<br />\"I didn't have time to write a short letter, so I wrote a long one instead.\"",
+    "url": "https://www.linkedin.com/learning/tips-for-better-business-writing",
+    "certs": [
+      "CertificateOfCompletion_TipsForBetterBusinessWriting_LI.pdf",
+      "CertificateOfCompletion_TipsForBetterBusinessWriting_NASBA.pdf"
+    ]
+  },
+  {
     "index": 128,
     "title": "Blockchain: Learning Solidity",
     "instructor": "Emmanuel Henri",
