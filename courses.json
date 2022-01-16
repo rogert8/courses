@@ -1,5 +1,31 @@
 [
   {
+    "index": 131,
+    "title": "Agile Testing",
+    "instructor": "Ash Coleman",
+    "date_completed": "2022-01-15",
+    "date": [
+      {
+        "$date": "2022-01-15T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Learn how to create higher-quality software at a faster clip by implementing agile testing in your organization. Throughout this course, instructor Ash Coleman helps you boost your understanding of the role and methods of software testers, as well as how testing can enhance your agile workflow. To kick things off, Ash goes over the role of the tester in agile teams, detailing how testers govern, monitor, and encourage quality practices. Next, she steps through the agile testing approach and pinpoints where testers can add value. She also helps to acquaint you with key testing processes and responsibilities, including bug tracking; explores both manual testing and test automation; and discusses how continuous integration can be incorporated into the mix.",
+    "objectives": [
+      "Testing in the agile context",
+      "The role of the agile tester",
+      "Backlog grooming",
+      "Sprint planning",
+      "Tracking bugs",
+      "Manual testing",
+      "Test automation",
+      "Continuous integration"
+    ],
+    "skills": ["Agile Testing"],
+    "comments": "A good overview of the Agile process(es), focusing on a Tester role.",
+    "url": "https://www.linkedin.com/learning/agile-testing-2",
+    "certs": ["CertificateOfCompletion_AgileTesting_LI.pdf"]
+  },
+  {
     "index": 130,
     "title": "How Blockchains Will Change Business",
     "instructor": "Alison McCauley",
