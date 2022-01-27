@@ -1,5 +1,30 @@
 [
   {
+    "index": 133,
+    "title": "Postman Essential Training",
+    "instructor": "Kristin Jackvony",
+    "date_completed": "2022-01-27",
+    "date": [
+      {
+        "$date": "2022-01-27T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Automated API testing is one of the most efficient ways to ensure that an API is behaving as expected—faster and far superior to automated UI testing. For testers and developers responsible for API testing, Postman is a popular and free solution. It offers a rich interface for writing test cases and features for automation, such as the ability to reuse tests and integrate collections into a CI build system like Jenkins. This course introduces the process of writing, running, and automating API tests with Postman. Instructor Kristin Jackvony shows how to create a complete test collection; create easy and advanced assertions, including nested JSON assertions; run collections with the built-in collection runner and the command-line runner, Newman; and configure automatic runs in Jenkins projects.",
+    "objectives": [
+      "Creating collections",
+      "Creating GET, POST, PUT, and DELETE requests",
+      "Using environment variables",
+      "Easy Postman assertions",
+      "Advanced Postman assertions",
+      "Running collections with the collection runner and Newman",
+      "Automating test collections as Jenkins projects"
+    ],
+    "skills": ["Postman API", "API Testing"],
+    "comments": "An excellent course! And a good follow-up course that expands on the <i>Introducing Postman</i> course I completed here.<br />Here, we used a different way to organize our Requests - in the <i>Introducing Postman</i> course, we created valid and invalid Examples under a Request. Here, we used a separate Folder for Negative Requests, which helped for our automated testing runs.<br />We learned about saving Response data as a Variable, using JavaScript and the Postman API.<br />We also added Tests, via assertions, checking response Status, and values in the returned Body.<br />We used the Collection Runner, to run through all (or just selected) tests from within Postman.<br />Then we exported our Collection and our Environment to run with Newman, from the command line.<br />We also installed and configured Jenkins, for scheduling our Newman tests.<br />I had problems starting the service when running the Jenkins MSI, so after some online research on the problem, I ran the Java .war file after copying out the Jenkins folder mid-installation, then cancelled the installation.<br />Then I opened the generated local Web site, and installed the Windows service from there, as well as adding the NodeJS plugin.<br />I also went ahead and generated and published the <a href=\"https://documenter.getpostman.com/view/15092439/UVe9TAMw\" target=\"_blank\"><i>Contact List</i> API Documentation</a>, as I learned to do in the prior course.",
+    "url": "https://www.linkedin.com/learning/postman-essential-training",
+    "certs": ["CertificateOfCompletion_PostmanEssentialTraining_LI.pdf"]
+  },
+  {
     "index": 132,
     "title": "Introducing Postman",
     "instructor": "David Fancher",
@@ -604,7 +629,7 @@
       "Using cloud-based testing tools"
     ],
     "skills": ["Selenium WebDriver", "Selenium"],
-    "comments": "This is a longer companion/follow-up course expanding on this instructor's <i>Learning Selenium</i> course here.<br />We coded in Java (instead of in Ruby) this time, using the IntelliJ IDEA, and we installed and used ChromeDriver, instead of GeckoDriver, which we used for Firefox in the prior course.<br />We created tests against pages at <a href=\"https://formy-project.herokuapp.com/\" target=\"_blank\">FORMY</a>.<br />As in the prior course, we progressed from coding a series of statements for testing a Web page app, to cleaning up the code by extracting those statements into functions, then broke those functions out into Java Classes, to conform to the Page Object Pattern.<br />We then created a Git Repository locally, and remotely on GitHub, then pushed the our code to GitHub.<br />The instructor finished up by introducing us to various CI (Continuous Integration) servers, and the Sauce Labs cloud-based testing tool.",
+    "comments": "This is a longer companion/follow-up course expanding on this instructor's <i>Learning Selenium</i> course here.<br />We coded in Java (instead of in Ruby) this time, using the IntelliJ IDEA, and we installed and used ChromeDriver, instead of GeckoDriver, which we used for Firefox in the prior course.<br />We created tests against pages at <a href=\"https://formy-project.herokuapp.com/\" target=\"_blank\">FORMY</a>.<br />As in the prior course, we progressed from coding a series of statements for testing a Web page app, to cleaning up the code by extracting those statements into functions, then broke those functions out into Java Classes, to conform to the Page Object Pattern.<br />We then created a Git Repository locally, and remotely on GitHub, then pushed our code to GitHub.<br />The instructor finished up by introducing us to various CI (Continuous Integration) servers, and the Sauce Labs cloud-based testing tool.",
     "url": "https://www.linkedin.com/learning/selenium-essential-training",
     "certs": ["CertificateOfCompletion_SeleniumEssentialTraining_LI.pdf"]
   },
