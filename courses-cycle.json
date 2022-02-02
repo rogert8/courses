@@ -1,6 +1,23 @@
 {
   "courses": [
     {
+      "index": 135,
+      "title": "Python 3.10 First Look",
+      "instructor": "Claire Burn",
+      "date_completed": "2022-02-01",
+      "date": [
+        {
+          "$date": "2022-02-01T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "If you’re a regular user of Python, you’ve probably noticed that Python is frequently updated with new features, improvements, and applications. It can be hard to keep up with all the changes, but it’s important to stay current with the Python language. In this short course, Claire Burn walks you through the newest Python enhancement proposals in Python 3.10, as well as the module improvements and the deprecations introduced in this new version. She also demonstrates how to port to Python 3.10 from an older version, no matter what operating system you're using. If you’re looking for a quick look at Python 3.10 and don’t want to spend time wading through all the documentation, join Claire in this course.",
+      "objectives": null,
+      "skills": ["Python (Programming Language)"],
+      "comments": null,
+      "url": "https://www.linkedin.com/learning/python-3-10-first-look",
+      "certs": ["CertificateOfCompletion_Python3.10FirstLook_LI.pdf"]
+    },
+    {
       "index": 134,
       "title": "Python Tools: Jupyter vs. PyCharm",
       "instructor": "Madecraft and Sam Pettus",
