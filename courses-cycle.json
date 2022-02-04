@@ -1,6 +1,31 @@
 {
   "courses": [
     {
+      "index": 136,
+      "title": "Learning Redis",
+      "instructor": "Emmanuel Henri",
+      "date_completed": "2022-02-04",
+      "date": [
+        {
+          "$date": "2022-02-04T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Redis—an in-memory data structure store—differs from relational databases like MySQL, and NoSQL databases like MongoDB. In this course, learn what Redis is and how it works as you discover how to build a client implementation using an ioredis client and a Node.js server. Emmanuel Henri explains how to install and set up Redis, and covers basic Redis tools and concepts, including persistence and replication. Plus, he reviews the different data types available, and demonstrates what you can do with strings, hashes, and lists. To wrap up, he goes over security options and best practices for securing a Redis instance.",
+      "objectives": [
+        "Installing and setting up Redis",
+        "Reviewing the basics of data types",
+        "Setting up persistence and replication",
+        "Exploring strings and lists",
+        "The hash data structure",
+        "Securing a Redis instance",
+        "Publishing and subscribing with Redis"
+      ],
+      "skills": ["Redis"],
+      "comments": "Along with the learning objectives listed above, we also covered sets and sorted sets, and had a brief intro to Redis Sentinel and Redis Cluster.<br />We used the command line Redis client, and coded in Node.js, importing the <i>ioredis</i> Redis client package.<br />I wrote Windows batch files to start the main and replication servers, and the client, passing authorization. <br />And I found a GUI client for Windows, <a href=\"https://www.redinav.com/\" target=\"_blank\"><i>RediNav</i></a>.<br />I also installed and configured Redis on an Ubuntu instance of WSL (Windows Subsystem for Linux). And I installed it on one of my Hyper-V VMs of Ubuntu (Kubuntu), set up persistence, replication and security, and installed a GUI (<i>Another Redis Desktop Manager</i>) for it there.  <br />And I downloaded Docker images/containers of Redis and of the <i>Redis-Commander</i> GUI client.<br />I also created a Redis Cloud account.",
+      "url": "https://www.linkedin.com/learning/learning-redis",
+      "certs": ["CertificateOfCompletion_LearningRedis_LI.pdf"]
+    },
+    {
       "index": 135,
       "title": "Python 3.10 First Look",
       "instructor": "Claire Burn",
