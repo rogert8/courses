@@ -1,6 +1,72 @@
 {
   "courses": [
     {
+      "index": 139,
+      "title": "Virtual Reality Foundations",
+      "instructor": "Craig Barr",
+      "date_completed": "2022-02-09",
+      "date": [
+        {
+          "$date": "2022-02-09T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Virtual reality has been in existence for a while, but has many new uses in architecture, engineering, and construction (AEC), manufacturing, and dozens of other industries, allowing for innovative ways to visualize and collaborate. New tools including 3D scanning, drones, and photogrammetry, along with access to CAD data, have opened the door to VR in the enterprise space. Tools for real-time visualization have also become easier to use and less expensive. With these advances, it's possible for almost anyone to leverage VR technology to create innovative narratives for seeing, selling, and communicating information. Join 3D artist Craig Barr for an overview of virtual reality: what it is, where it's used, and what's in store for the future of VR. Plus, learn how the VR content creation process works and what you need to know to get started in this exciting (and expanding) field.",
+      "objectives": [
+        "What is virtual reality?",
+        "Types of virtual reality",
+        "Using virtual reality in business, filmmaking, AEC, and more",
+        "Developing VR content",
+        "The future of VR"
+      ],
+      "skills": [
+        "Previsualization",
+        "AEC",
+        "Visualization",
+        "Virtual Reality (VR)"
+      ],
+      "comments": null,
+      "url": "https://www.linkedin.com/learning/virtual-reality-foundations",
+      "certs": ["CertificateOfCompletion_VirtualRealityFoundations_LI.pdf"]
+    },
+    {
+      "index": 138,
+      "title": "Job Interview Nano Tips with Madeline Mann",
+      "instructor": "Madeline Mann",
+      "date_completed": "2022-02-09",
+      "date": [
+        {
+          "$date": "2022-02-09T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "What do you say when a job interviewer asks what kind of salary you’re looking for? Does it matter what you wear for a job interview? How should you follow up after an interview? These are all questions that have been plaguing job interviewees for decades. And in this age of business-casual attire, working from home, and job interviews over video call, the answers are trickier than ever to nail down. In this series of microlearning videos, Madeline Mann covers the important questions many job interviewees ask themselves, providing quick, to-the-point answers. While you may obsess over how you would answer these questions, Madeline provides straightforward answers that will let you go to your next job interview confidently … and looking good!",
+      "objectives": null,
+      "skills": ["Interviewing", "Job Search Strategies"],
+      "comments": null,
+      "url": "https://www.linkedin.com/learning/job-interview-nano-tips-with-madeline-mann",
+      "certs": [
+        "CertificateOfCompletion_JobInterviewNanoTipsWithMadelineMann_LI.pdf"
+      ]
+    },
+    {
+      "index": 137,
+      "title": "Understanding Augmented and Virtual Reality: An Introduction",
+      "instructor": "Catherine Henry and Madecraft",
+      "date_completed": "2022-02-09",
+      "date": [
+        {
+          "$date": "2022-02-09T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "How the business world operates has dramatically changed in recent years as a result of the new metaverse. You’ve likely recognized the need to evolve your business in order to maintain/increase your ROI using new technologies like augmented and virtual reality (AR, VR). In this course, Catherine Henry, a leading voice in extended reality and expert in AR and VR, details the different applications that these technologies can have in your organization. She explains the link between digital and virtual medias, and how to use them to drive sales, measure success, and drive engagement between employees. She shows that VR is the next step in social media due to its various capabilities and explains how AR creates engagement, grows sales, and increases customer retention. After this course, you’ll have a better idea on how to differentiate and use AR and VR to positively impact your businesses’ efficacy and ROI.  This course was created by Madecraft. We are pleased to host this training in our library.",
+      "objectives": null,
+      "skills": ["Augmented Reality (AR)", "Virtual Reality (VR)"],
+      "comments": null,
+      "url": "https://www.linkedin.com/learning/understanding-augmented-and-virtual-reality-an-introduction",
+      "certs": [
+        "CertificateOfCompletion_UnderstandingAugmentedAndVirtualReality-AnIntroduction_LI.pdf"
+      ]
+    },
+    {
       "index": 136,
       "title": "Learning Redis",
       "instructor": "Emmanuel Henri",
