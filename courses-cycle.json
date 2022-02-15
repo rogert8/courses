@@ -1,6 +1,29 @@
 {
   "courses": [
     {
+      "index": 140,
+      "title": "API Test Automation with SoapUI",
+      "instructor": "Dave Westerveld",
+      "date_completed": "2022-02-15",
+      "date": [
+        {
+          "$date": "2022-02-15T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "With industry trends like cloud computing and the Internet of Things, there is a growing need for testers that know and understand API testing tools. One powerful and mature tool used by companies around the world is SoapUI. This course is designed to help you get started with SoapUI and covers the basics of how to use it. Instructor Dave Westerveld explains how to set up your first project, create new tests, perform load and security testing, and make your tests more automated and efficient with scripting. Plus, learn how to integrate SoapUI with Docker-based build pipelines. The training is filled with examples featuring real-world, public APIs so you can see how SoapUI functions in real testing scenarios.",
+      "objectives": [
+        "Creating your first project in SoapUI",
+        "Adding request and query parameters",
+        "Creating test suites",
+        "Scripting with dynamic properties",
+        "Running SoapUI from the command line or Docker"
+      ],
+      "skills": ["API Testing", "SoapUI", "Test Automation"],
+      "comments": null,
+      "url": "https://www.linkedin.com/learning/api-test-automation-with-soapui",
+      "certs": ["CertificateOfCompletion_APITestAutomationWithSoapUI_LI.pdf"]
+    },
+    {
       "index": 139,
       "title": "Virtual Reality Foundations",
       "instructor": "Craig Barr",
