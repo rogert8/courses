@@ -1,6 +1,23 @@
 {
   "courses": [
     {
+      "index": 141,
+      "title": "Linux: Overview and Installation",
+      "instructor": "Grant McWilliams",
+      "date_completed": "2022-02-20",
+      "date": [
+        {
+          "$date": "2022-02-20T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Linux is a term that we are hearing more often lately, but what is it? In this course, instructor Grant McWilliams explains what Linux is and how it differs from other operating systems, then walks through how to install it to a virtual machine and use it. Grant tells you about Linux and its history and gives you an overview of the versions—called distributions—of Linux that are available. He goes over virtualization, including how to install VirtualBox and create a virtual machine in VirtualBox. Once you’ve created and optimized your virtual machine, Grant steps through installing and configuring Enterprise Linux, including the GNOME 3 desktop. He concludes with useful advice on how you can install popular software from third-party repositories in Linux and how you can customize your GNOME 3 desktop.",
+      "objectives": null,
+      "skills": ["System Installations", "Linux System Administration"],
+      "comments": "It's been several years since I took Linux System Administration and Networking courses, and I wanted a refresher or two.<br />I started taking this instructor's <i>Linux System Engineer: Networking and SSH</i> course here, and he said that if we already had the VirtalBox VM of CentOS 7 from this course of his, we could use it there as well.<br />So I pivoted and took this course. But it seems that he has updated this course, and we now create a VirtalBox VM of CentOS 8 for it. And CentOS has changed from CentOS Linux to CentOS Stream (mid-version 8's lifetime?), with which I had problems creating a VirtalBox VM in Windows 10. Fortunately, I had also installed VirtualBox on my Mac, and it had no problems with CentOS Stream 8 or 9, so I created VMs of both of those versions. I was able to install a VM of CentOS 7 on Windows 10, so I can use that one when I go back to to take the original course that I started. Or...I may just do it on my Mac, where I also created it.<br />It looks like this course focuses on VisualBox VM Snapshots more than we will in the next course, so I got a lot of good practice saving/using Snapshots.<br />We updated system software, which I already knew how to do, and then we installed Guest Additions, which allowed for using the VM full-screen, as well as smoothing mouse motion, etc.<br />We continued with installing software, enabling and installing repositories, and installing software from those repos.<br />We then customized the GNOME 3 Desktop and added Extensions to our liking, and learned about using its Dynamic Workspaces.",
+      "url": "https://www.linkedin.com/learning/linux-overview-and-installation-13912059",
+      "certs": ["CertificateOfCompletion_Linux-OverviewAndInstallation_LI.pdf"]
+    },
+    {
       "index": 140,
       "title": "API Test Automation with SoapUI",
       "instructor": "Dave Westerveld",
