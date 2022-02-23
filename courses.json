@@ -30,7 +30,8 @@
     "comments": "A great refresher, since I haven't needed to use most of this info for a while.<br />We created a master CentOS 7 VM in VirtualBox, and then cloned two VMs from that, which we used to communicate back and forth to each other throughout the course.<br />We covered legacy commands such as <i>ifconfig</i> and <i>netstat,</i> and their newer counterparts such as <i>ip</i> and <i>ss.</i><br />About half of the course was an excellent discussion of SSH - running commands on remote hosts, copying files to/from remote hosts, etc. This included configuring security, and optimizing SSH for speed.<br />We also learned about connecting to SSH from Windows, using <i>PuTTY,</i> and using <i>WinSCP</i> for accessing the files on a Linux host.",
     "url": "https://www.linkedin.com/learning/linux-system-engineer-networking-and-ssh",
     "certs": [
-      "CertificateOfCompletion_LinuxSystemEngineer-NetworkingAndSSH_LI.pdf"
+      "CertificateOfCompletion_LinuxSystemEngineer-NetworkingAndSSH_LI.pdf",
+      "CertificateOfCompletion_LinuxSystemEngineer-NetworkingAndSSH_CompTIA.pdf"
     ]
   },
   {
