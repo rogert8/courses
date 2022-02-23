@@ -1,5 +1,39 @@
 [
   {
+    "index": 142,
+    "title": "Linux System Engineer: Networking and SSH",
+    "instructor": "Grant McWilliams",
+    "date_completed": "2022-02-23",
+    "date": [
+      {
+        "$date": "2022-02-23T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Study to pass the RHCE—the benchmark certification for Red Hat Enterprise Linux. Watch this course to prepare for the networking and Secure Shell (SSH) topics covered by the exam. Instructor Grant McWilliams provides an overview of Linux networking and key commands and tools for gathering information about your network, including Network Manager's command-line tools nmcli and nmtui. Grant also teaches the iproute2 commands such as ip and nstat, and cross-references them with legacy tools. Learn how to use ip, nmcli, nmtui, netstat, nstat, ss, arp, and dig to get statistics and analyze data, and change live and saved network configuration settings. Grant shows how to create a custom ifcfg-ethx file for manual network configuration and uses systemd to configure the hostname. He then shows how to connect to and configure Secure Shell (SSH), wrapping with a look at SSH security and SSH tips and tricks that will help you optimize SSH and execute commands remotely.",
+    "objectives": [
+      "Gathering network information",
+      "Ensuring connectivity with ping",
+      "Querying DNS servers with dig",
+      "Changing hostname, IP address, and more",
+      "Configuring networking",
+      "Connecting to SSH",
+      "Configuring SSH clients",
+      "Authenticating and restricting access with SSH",
+      "Optimizing SSH for speed"
+    ],
+    "skills": [
+      "Red Hat Enterprise Linux (RHEL)",
+      "Red Hat Linux",
+      "Secure Shell (SSH)",
+      "Network Administration"
+    ],
+    "comments": "A great refresher, since I haven't needed to use most of this info for a while.<br />We created a master CentOS 7 VM in VirtualBox, and then cloned two VMs from that, which we used to communicate back and forth to each other throughout the course.<br />We covered legacy commands such as <i>ifconfig</i> and <i>netstat,</i> and their newer counterparts such as <i>ip</i> and <i>ss.</i><br />About half of the course was an excellent discussion of SSH - running commands on remote hosts, copying files to/from remote hosts, etc. This included configuring security, and optimizing SSH for speed.<br />We also learned about connecting to SSH from Windows, using <i>PuTTY,</i> and using <i>WinSCP</i> for accessing the files on a Linux host.",
+    "url": "https://www.linkedin.com/learning/linux-system-engineer-networking-and-ssh",
+    "certs": [
+      "CertificateOfCompletion_LinuxSystemEngineer-NetworkingAndSSH_LI.pdf"
+    ]
+  },
+  {
     "index": 141,
     "title": "Linux: Overview and Installation",
     "instructor": "Grant McWilliams",
