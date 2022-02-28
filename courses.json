@@ -1,5 +1,22 @@
 [
   {
+    "index": 143,
+    "title": "Learning Python with PyCharm",
+    "instructor": "Mehdi Oulmakki",
+    "date_completed": "2022-02-27",
+    "date": [
+      {
+        "$date": "2022-02-27T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "PyCharm is a leading tool for Python development. In this course, instructor Mehdi Oulmakki introduces several key best practices for Python development and shows you how to use PyCharm as a one stop shop solution for managing the intricacies of development. First, Mehdi walks you through installing Python and PyCharm and gives you some useful tips and tricks for writing and developing code with PyCharm. He shows you how to create and navigate your projects in the PyCharm UI. Next, Mehdi discusses ways to use PyCharm with Git and GitHub to organize, save, and collaborate on your work. He covers managing dependencies, then goes into facets of code quality, how debugging improves your code quality, and ways to use breakpoints and unit tests for debugging. Plus, Mehdi goes over the principles and purpose of code style and the quality-of-life features within PyCharm that help reformat and refactor your code safely.",
+    "objectives": null,
+    "skills": ["Python (Programming Language)", "Pycharm"],
+    "comments": "I took the <i>Python Tools: Jupyter vs. PyCharm</i> course here, and having used Jupyter Notebooks and Visual Studio Code for Python, I wanted to learn about the PyCharm IDE.<br />I really like it, and will be using it instead of VS Code for my personal projects.<br />Managing dependencies is nice in PyCharm, as it already takes care of setting up virtual environments, keeping the dependencies local (to a project). And one can easily create a <i>requirements.txt</i> file.<br />We used Git and GitHub. We did a LOT with Git, so I got some real good practice there, even using Git in debugging to find where an unwanted change occurred.<br />And we did a lot of other debugging.<br />PyCharm easily creates Unit Test code for a function. We got good practice with debugging from results of our tests, and our testing itself led to some good thinking about the tests that we were setting up.<br />And I already had the <i>Unit Testing in Python</i> course here queued up, so I should get some more good practice with that there...",
+    "url": "https://www.linkedin.com/learning/learning-python-with-pycharm-14509667",
+    "certs": ["CertificateOfCompletion_LearningPythonWithPyCharm_LI.pdf"]
+  },
+  {
     "index": 142,
     "title": "Linux System Engineer: Networking and SSH",
     "instructor": "Grant McWilliams",
