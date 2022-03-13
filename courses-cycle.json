@@ -1,6 +1,23 @@
 {
   "courses": [
     {
+      "index": 144,
+      "title": "Learning GraphQL",
+      "instructor": "Eve Porcello",
+      "date_completed": "2022-03-13",
+      "date": [
+        {
+          "$date": "2022-03-13T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Data-driven applications depend on remote queries that run through APIs. GraphQL—a query language for APIs that was originally built by Facebook—allows developers to choose the kinds of requests they want to make and to receive information on multiple facets of that query in one request. The GraphQL approach to querying across networks can address a wide variety of large-scale development problems.  In this course, learn how to get started with GraphQL. Eve Porcello introduces the basics of this query language, then walks through queries, variables, and operation names. Eve explains how to work with mutations and subscriptions, as well as how to create and enhance schema. She covers topics like creating a custom object, adding an enumeration type, writing schema documentation, and much more.  Note: This course was created by Moon Highway. We are pleased to host this training in our library.",
+      "objectives": null,
+      "skills": ["GraphQL"],
+      "comments": "There are pros and cons to using GraphQL APIs as compared to REST APIs.<br />An article discussing the cons: <a href=\"https://blog.logrocket.com/why-you-shouldnt-use-graphql/\" target=\"_blank\"><i>Why you shouldn’t use GraphQL</i></a>.<br />Given those, GraphQL is a wonderful, powerful tool, in its place, and this is a good introductory course.<br /><br />We used a GraphQL Playground to query various APIs, and we used Node.js to code our own.<br />We learned about querying, mutations, fragments, and creating a schema.<br />We did not code, nor learn about coding our own resolvers, instead using <i>mocks.</i><br />And we learned about documenting our schemas, following the instructor's mantra, \"A schema is all about communication.\"",
+      "url": "https://www.linkedin.com/learning/learning-graphql-11292553",
+      "certs": ["CertificateOfCompletion_LearningGraphQL_LI.pdf"]
+    },
+    {
       "index": 143,
       "title": "Learning Python with PyCharm",
       "instructor": "Mehdi Oulmakki",
@@ -13,7 +30,7 @@
       "synopsis": "PyCharm is a leading tool for Python development. In this course, instructor Mehdi Oulmakki introduces several key best practices for Python development and shows you how to use PyCharm as a one stop shop solution for managing the intricacies of development. First, Mehdi walks you through installing Python and PyCharm and gives you some useful tips and tricks for writing and developing code with PyCharm. He shows you how to create and navigate your projects in the PyCharm UI. Next, Mehdi discusses ways to use PyCharm with Git and GitHub to organize, save, and collaborate on your work. He covers managing dependencies, then goes into facets of code quality, how debugging improves your code quality, and ways to use breakpoints and unit tests for debugging. Plus, Mehdi goes over the principles and purpose of code style and the quality-of-life features within PyCharm that help reformat and refactor your code safely.",
       "objectives": null,
       "skills": ["Python (Programming Language)", "Pycharm"],
-      "comments": "I took the <i>Python Tools: Jupyter vs. PyCharm</i> course here, and having used Jupyter Notebooks and Visual Studio Code for Python, I wanted to learn about the PyCharm IDE.<br />I really like it, and will be using it instead of VS Code for my personal projects.<br />Managing dependencies is nice in PyCharm, as it already takes care of setting up virtual environments, keeping the dependencies local (to a project). And one can easily create a <i>requirements.txt</i> file.<br />We used Git and GitHub. We did a LOT with Git, so I got some real good practice there, even using Git in debugging to find where an unwanted change occurred.<br />And we did a lot of other debugging.<br />PyCharm easily creates Unit Test code for a function. We got good practice with debugging from results of our tests, and our testing itself led to some good thinking about the tests that we were setting up.<br />And I already had the <i>Unit Testing in Python</i> course here queued up, so I should get some more good practice with that there...",
+      "comments": "I took the <i>Python Tools: Jupyter vs. PyCharm</i> course here, and having used Jupyter Notebooks and Visual Studio Code for Python, I wanted to learn about the PyCharm IDE.<br />I really like it, and will be using it instead of VS Code for my personal projects.<br />Managing dependencies is nice in PyCharm, as it already takes care of setting up virtual environments, keeping the dependencies local (to a project). And one can easily generate a <i>requirements.txt</i> file.<br />We used Git and GitHub. We did a LOT with Git, so I got some real good practice there, even using Git in debugging to find where an unwanted change occurred.<br />And we did a lot of other debugging.<br />PyCharm easily creates Unit Test code for a function. We got good practice with debugging from results of our tests, and our testing itself led to some good thinking about the tests that we were setting up.<br />And I already had the <i>Unit Testing in Python</i> course here queued up, so I should get some more good practice with that there...",
       "url": "https://www.linkedin.com/learning/learning-python-with-pycharm-14509667",
       "certs": ["CertificateOfCompletion_LearningPythonWithPyCharm_LI.pdf"]
     },
@@ -3312,7 +3329,7 @@
       "title": "Visual Studio Code for Web Developers",
       "instructor": "Joe Marini",
       "date_completed": "2020-09-30",
-      "synopsis": "A great code editor is a crucial addition to any web developer's arsenal of tools. In this course, learn how to make the most of Visual Studio (VS) Code—the powerful code editor from Microsoft—when working with web-based projects.<br /><br />Joe Marini kicks off the course by taking you through the app's user interface, and showing how to work with its basic editing features. Next, Joe demonstrates how to customize VS Code by configuring preferences, setting your own keyboard shortcuts, and working with snippets. He also explains how to maximize your productivity by installing and managing extensions from the Visual Studio Marketplace. Plus, he discusses how VS Code works with folders and collections of files, helps you understand the IntelliSense feature, and dives into the app's advanced code editing features, such as automatic formatting.",
+      "synopsis": "A great code editor is a crucial addition to any web developer's arsenal of tools. In this course, learn how to make the most of Visual Studio (VS) Code—the powerful code editor from Microsoft—when working with web-based projects.  Joe Marini kicks off the course by taking you through the app's user interface, and showing how to work with its basic editing features. Next, Joe demonstrates how to customize VS Code by configuring preferences, setting your own keyboard shortcuts, and working with snippets. He also explains how to maximize your productivity by installing and managing extensions from the Visual Studio Marketplace. Plus, he discusses how VS Code works with folders and collections of files, helps you understand the IntelliSense feature, and dives into the app's advanced code editing features, such as automatic formatting.",
       "objectives": [
         "Installing Visual Studio Code",
         "The VS Code UI",
