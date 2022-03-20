@@ -1,5 +1,30 @@
 [
   {
+    "index": 145,
+    "title": "JMeter: Performance and Load Testing",
+    "instructor": "Michael Smith",
+    "date_completed": "2022-03-20",
+    "date": [
+      {
+        "$date": "2022-03-20T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Interested in adding load testing to your professional tool kit? In this course, learn how to use Apache JMeter, a popular open-source performance testing tool, to create and execute load tests that help you highlight performance issues in your software. Instructor Mike Smith takes you through the installation and setup of JMeter and JRE on Windows, and then shows how to create and run your first load test. Mike also goes over how to improve your load test by adding timers and assertions, how to run your load test through the CLI, and how to view your results in different ways by creating an HTML dashboard at CLI runtime.",
+    "objectives": [
+      "What is load testing and why do we do it?",
+      "Creating and running load tests",
+      "Improving a test by adding timers and assertions",
+      "Running your load test through the CLI",
+      "Saving CLI results to a .jtl file",
+      "Importing a .jtl file to JMeter graphs",
+      "Creating an HTML dashboard at CLI runtime"
+    ],
+    "skills": ["Load Testing", "JMeter"],
+    "comments": "We \"installed\" JMeter, and added some graphing plugins.<br />We created tests, and added listeners, timers, and assertions. We ran the tests inside of the JMeter GUI, and using the CLI.<br />We saved the results to a file, then used the file to see graphs inside the JMeter GUI. We also created HTML Dashboards of the results with our CLI commands.",
+    "url": "https://www.linkedin.com/learning/jmeter-performance-and-load-testing",
+    "certs": ["CertificateOfCompletion_JMeterPerformanceAndLoadTesting_LI.pdf"]
+  },
+  {
     "index": 144,
     "title": "Learning GraphQL",
     "instructor": "Eve Porcello",
@@ -278,7 +303,7 @@
       "Authorization with variables"
     ],
     "skills": ["API Development", "Postman API"],
-    "comments": "I'd used Postman before, but mainly just running/testing ad-hoc Requests. This course covers the Postman UI, with a focus on using the features to organize and document APIs.<br />We covered the following:<br /><br />* Collections and Folders &mdash; to organize and save Requests<br /><br />* Setting up Authorization &mdash; at a Collection level, so that it applies to every Request in that Collection<br /><br />* History &mdash; to save and name Requests already used<br /><br />* Saving examples &mdash; e.g., of valid and invalid Requests, and their Responses<br /><br />* Adding Documentation<br /><br />* Publishing Documentation &mdash; so that it displays as a Web page<br /><br />&nbsp;&nbsp;&nbsp;I made a slight change to the styling (for the code background color):<br />&nbsp;&nbsp;&nbsp;<a href=\"https://documenter.getpostman.com/view/15092439/UVXqEYaU\" target=\"_blank\"><i>LinkedIn - Introducing Postman</i> Course API Documentation</a><br /><br />* Variables &mdash; can be used in Requests, as well as elsewhere throughout Postman<br /><br />NOTE: The Postman UI has changed since this course was published, so you get to some things a bit differently now than as shown.",
+    "comments": "I'd used Postman before, but mainly just running/testing ad-hoc Requests. This course covers the Postman UI, with a focus on using the features to organize and document APIs.<br />We covered the following:<br /><br />&#149; Collections and Folders &mdash; to organize and save Requests<br />&#149; Setting up Authorization &mdash; at a Collection level, so that it applies to every Request in that Collection<br />&#149; History &mdash; to save and name Requests already used<br />&#149; Saving examples &mdash; e.g., of valid and invalid Requests, and their Responses<br />&#149; Adding Documentation<br />&#149; Publishing Documentation &mdash; so that it displays as a Web page<br />&nbsp;&nbsp;&nbsp;I made a slight change to the styling (for the code background color):<br />&nbsp;&nbsp;&nbsp;<a href=\"https://documenter.getpostman.com/view/15092439/UVXqEYaU\" target=\"_blank\"><i>LinkedIn - Introducing Postman</i> Course API Documentation</a><br />&#149; Variables &mdash; can be used in Requests, as well as elsewhere throughout Postman<br /><br />NOTE: The Postman UI has changed since this course was published, so you get to some things a bit differently now than as shown.",
     "url": "https://www.linkedin.com/learning/introducing-postman",
     "certs": ["CertificateOfCompletion_IntroducingPostman_LI.pdf"]
   },
