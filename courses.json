@@ -1,5 +1,24 @@
 [
   {
+    "index": 146,
+    "title": "Build and Deploy Containerized Apps with GitHub Actions",
+    "instructor": "Michael Levan and CloudSkills.io",
+    "date_completed": "2022-03-28",
+    "date": [
+      {
+        "$date": "2022-03-28T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "GitHub Actions are the future. In this course, learn how to deploy containerized applications with a Python Flask API using GitHub Actions. Find out how to start the project with the Python Flask API and discover the function of the API in this deployment. Discover how to build the functioning Docker container that you will need to deploy a containerized application. Learn how to install the Azure CLI so that you can push your changes to Azure easily, then explore the Azure API GitHub repository. Finally, run your GitHub Action workflow and go over the workflow you have created.<br /><br />Note: This course was created by CloudSkills. We are pleased to host this training in our library.",
+    "objectives": null,
+    "skills": ["Containerization", "GitHub"],
+    "comments": "If you take this course, save yourself some time when trying to follow along, by first going down to the <i>Creating a GitHub Actions workflow</i> lesson, when the instructor finally shows us the URL to his <a href=\"https://github.com/AdminTurnedDevOps/AzureAPI.git\" target=\"_blank\"><i><i>AdminTurnedDevOps/AzureAPI</i> GitHub repository</i></a>. There, you can clone his repository...<br />We used Visual Studio Code, and I got some more practice with Git/GitHub from VS Code.<br />And we targeted Azure, so I had to refresh my (lapsed) Azure account.",
+    "url": "https://www.linkedin.com/learning/build-and-deploy-containerized-apps-with-github-actions",
+    "certs": [
+      "CertificateOfCompletion_BuildAndDeployContainerizedAppsWithGitHubActions_LI.pdf"
+    ]
+  },
+  {
     "index": 145,
     "title": "JMeter: Performance and Load Testing",
     "instructor": "Michael Smith",
