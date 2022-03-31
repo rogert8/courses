@@ -1,5 +1,30 @@
 [
   {
+    "index": 147,
+    "title": "Go Essential Training",
+    "instructor": "Miki Tebeka",
+    "date_completed": "2022-03-31",
+    "date": [
+      {
+        "$date": "2022-03-31T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Go is a next-generation, open-source programming language created by Google, prized for its concurrency and connectivity. Using Go, developers can build modern applications that can actually save companies money on backend resources. This course is designed to help developers be productive with Go, starting with the essentials of the syntax. Learn the basics of Go basic types such as numbers and strings; working with conditionals and loops; creating object-oriented code with structs and methods; and handling errors. Instructor Miki Tebeka also emphasizes the concurrency features such as goroutines and channels, and connectivity features for networking with APIs and databases. For the final project, Mika shows you how to build a highly concurrent server that combines everything you've learned into one elegant solution powered by Go.",
+    "objectives": [
+      "Go basic types, conditionals, and loops",
+      "Go functions",
+      "Object-oriented programming with Go",
+      "Error handling",
+      "Concurrent programming with channels",
+      "Testing and project management",
+      "Networking with JSON and HTTP"
+    ],
+    "skills": ["Go (Programming Language)"],
+    "comments": "I wanted to get a taste of the Go language, and it is unusual, in the following ways (among others):<br />&#149; A different way of declaring/assigning variable values<br />&#149;  Package functions and variables that start with capital letters are public, otherwise private<br />&#149;  Functions can return more than one value, normally used for (also/alternatively) returning an error)<br /><br />Go handles concurrency and channels nicely.<br />We covered benchmarking and profiling, error handling, and testing.<br />And we covered handling JSON, making HTTP calls, and quickly coded an HTTP server.<br />It's also easy to compile/build an executable, so I've already started on a Go program to populate my new courses here, from the JSON file I use to track them, to my MongoDB databases (local and cloud). ",
+    "url": "https://www.linkedin.com/learning/go-essential-training",
+    "certs": ["CertificateOfCompletion_GoEssentialTraining_LI.pdf"]
+  },
+  {
     "index": 146,
     "title": "Build and Deploy Containerized Apps with GitHub Actions",
     "instructor": "Michael Levan and CloudSkills.io",
