@@ -1,5 +1,24 @@
 [
   {
+    "index": 149,
+    "title": "AWS for Developers: Amazon Corretto and Java",
+    "instructor": "Carlos Rivas",
+    "date_completed": "2022-04-13",
+    "date": [
+      {
+        "$date": "2022-04-13T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Do you want to explore the features of Amazon Corretto, the production-grade, open-source Java environment from Amazon? In this course, instructor Carlos Rivas walks you through everything from setup to integration. Carlos shows you how to install Amazon Corretto on both Windows and Linux and goes over how to change runtime settings when needed. He explains how to measure the performance of Amazon Corretto with some sample code, then covers how to run the same performance-measuring code with OpenJDK for comparison. After demonstrating how to include Oracle Java in your performance test, Carlos describes how to compare test results to determine which Java implementation is best for your use cases. Next, he dives into how to set up containers, such as Docker Hub and Corretto Dockerfile, and how to run a deployment from your Dockerfile. Carlos finishes up by showing you how to integrate Corretto with Visual Studio code, IntelliJ IDEA, and Eclipse.",
+    "objectives": null,
+    "skills": ["Amazon Web Services (AWS)", "Cloud Development"],
+    "comments": null,
+    "url": "https://www.linkedin.com/learning/aws-for-developers-amazon-corretto-and-java",
+    "certs": [
+      "CertificateOfCompletion_AWSForDevelopers-AmazonCorrettoAndJava_LI.pdf"
+    ]
+  },
+  {
     "index": 148,
     "title": "Code Clinic: Java",
     "instructor": "Carlos Rivas",
