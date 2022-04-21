@@ -1,6 +1,31 @@
 {
   "courses": [
     {
+      "index": 150,
+      "title": "Learning Angular",
+      "instructor": "Ray Villalobos",
+      "date_completed": "2022-04-20",
+      "date": [
+        {
+          "$date": "2022-04-20T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Frameworks can help you get things done quickly by providing a model for development that yields special functionality. This course helps to acquaint you with a \"superheroic\" JavaScript framework for building single-page web applications—Angular. Ray Villalobos introduces the main features of the Angular framework, which was designed by Google to help you quickly develop web applications with advanced features like declarative templates and data-binding. Ray begins by explaining how to work with the Angular CLI, and demonstrating how to install additional frameworks—including jQuery and Bootstrap—to an Angular project. He then explains how to work with templates in Angular, bind data to templates, use lifecycle methods, and more.",
+      "objectives": [
+        "What is Angular?",
+        "Working with templates and events",
+        "Using CLI generated components",
+        "Binding data to templates",
+        "Working with two-way data binding",
+        "Using lifecycle methods",
+        "Creating subcomponents"
+      ],
+      "skills": ["Angular"],
+      "comments": "As I mentioned in the <i>My Comments</i> section for the <a href=\"https://www.linkedin.com/learning/angular-essential-training-2\" target=\"_blank\"><i>Angular Essential Training</i></a> course here, Angular is a very complex client-side framework for JavaScript. So it was good to drill in some more on the workings of the framework.<br />Additionally, in this course, we covered and used more of the Angular CLI, and learned about the structure of the projects and the use of the files it creates.<br />I've also got another course here queued up, dedicated to just the Angular CLI, <a href=\"https://www.linkedin.com/learning/learning-the-angular-cli\" target=\"_blank\"><i>Learning the Angular CLI</i></a>.<br />Some things have changed since Angular 5, which this course is based on, so I had to figure out how to accommodate those changes (using Angular 13). Fortunately, the Internet was of tremendous help here, as were other students in the Q&A section of the course page.",
+      "url": "https://www.linkedin.com/learning/learning-angular",
+      "certs": ["CertificateOfCompletion_LearningAngular_LI.pdf"]
+    },
+    {
       "index": 149,
       "title": "AWS for Developers: Amazon Corretto and Java",
       "instructor": "Carlos Rivas",
@@ -74,7 +99,7 @@
       "synopsis": "GitHub Actions are the future. In this course, learn how to deploy containerized applications with a Python Flask API using GitHub Actions. Find out how to start the project with the Python Flask API and discover the function of the API in this deployment. Discover how to build the functioning Docker container that you will need to deploy a containerized application. Learn how to install the Azure CLI so that you can push your changes to Azure easily, then explore the Azure API GitHub repository. Finally, run your GitHub Action workflow and go over the workflow you have created.  Note: This course was created by CloudSkills. We are pleased to host this training in our library.",
       "objectives": null,
       "skills": ["Containerization", "GitHub"],
-      "comments": "If you take this course, save yourself some time when trying to follow along, by first going down to the <i>Creating a GitHub Actions workflow</i> lesson, when the instructor finally shows us the URL to his <a href=\"https://github.com/AdminTurnedDevOps/AzureAPI.git\" target=\"_blank\"><i><i>AdminTurnedDevOps/AzureAPI</i> GitHub repository</i></a>. There, you can clone his repository...<br />We used Visual Studio Code, and I got some more practice with Git/GitHub from VS Code.<br />And we targeted Azure, so I had to refresh my (lapsed) Azure account.",
+      "comments": "If you take this course, save yourself some time when trying to follow along, by first going down to the <i>Creating a GitHub Actions workflow</i> lesson, when the instructor finally shows us the URL to his <a href=\"https://github.com/AdminTurnedDevOps/AzureAPI.git\" target=\"_blank\"><i>AdminTurnedDevOps/AzureAPI</i> GitHub repository</a>. There, you can clone his repository...<br />We used Visual Studio Code, and I got some more practice with Git/GitHub from VS Code.<br />And we targeted Azure, so I had to refresh my (lapsed) Azure account.",
       "url": "https://www.linkedin.com/learning/build-and-deploy-containerized-apps-with-github-actions",
       "certs": [
         "CertificateOfCompletion_BuildAndDeployContainerizedAppsWithGitHubActions_LI.pdf"
