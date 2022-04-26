@@ -1,5 +1,22 @@
 [
   {
+    "index": 151,
+    "title": "Learning the Angular CLI",
+    "instructor": "Victor Mejia",
+    "date_completed": "2022-04-25",
+    "date": [
+      {
+        "$date": "2022-04-25T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "The Angular command-line interface (CLI) is the recommended utility for building and maintaining Angular applications. Understanding what it provides—and how to make the most of its features—can set you up for maximum development productivity with Angular. In this course, learn how the Angular CLI is designed to not only help with creating new Angular projects, but also how it takes care of the application-build workflow and testing. Instructor Victor Mejia covers creating new projects, customizing the development server, generating Angular application code, running tests, and more. Plus, he shares real-world scenarios that can help you develop a more practical understanding of how to use the CLI. By the end of this course, you'll have the knowledge you need to use the Angular CLI as a core tool in your Angular application development workflow.",
+    "objectives": null,
+    "skills": ["Angular Command Line Interface (CLI)"],
+    "comments": "We learned how to upgrade an app to newer versions of Angular, which is quite a chore, and which I hope to be able to avoid.<br />And we learned the commands for creating new components, directives, pipes, etc., and understanding and modifying the <i>angular.json</i> and <i>package.json</i> files.<br />We also learned how to easily deploy an app, to <i>Firebase</i> -<br />I tried to deploy one of my own apps there, but it used an older, and apparently not secure enough for them, version of Angular, so it was disallowed. So I tried to deploy my recent <a href=\"http://coursesearch-angular.s3-website-us-west-1.amazonaws.com/\" target=\"_blank\"><i>Course Search - Angular</i></a> app there - it was allowed, but even though I received no errors building it with Fire support, it did not function.<br />But at least I then learned how to remove the <i>@angular/fire</i> package, and references to it from my project...<br />And we covered running tests via the CLI -<br />New versions of the Angular CLI no longer generate what used to be the built-in testing solution for end-to-end (e2e) tests. Apparently, it is now expected that we use a third-party solution.<br />Fortunately, we were able to clone the instructor's repository on GitHub, and use that project, which included it.",
+    "url": "https://www.linkedin.com/learning/learning-the-angular-cli",
+    "certs": ["CertificateOfCompletion_LearningTheAngularCLI_LI.pdf"]
+  },
+  {
     "index": 150,
     "title": "Learning Angular",
     "instructor": "Ray Villalobos",
