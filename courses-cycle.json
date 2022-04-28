@@ -1,6 +1,23 @@
 {
   "courses": [
     {
+      "index": 152,
+      "title": "Angular: Ecosystems",
+      "instructor": "Derek Peruo",
+      "date_completed": "2022-04-27",
+      "date": [
+        {
+          "$date": "2022-04-27T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Making full use of Angular requires mastering a complicated—and occasionally confusing—cluster of tools. Some of these tools supplement Angular itself, while others establish and maintain workflows for efficient development, or help Angular mesh with another set of web-centric tools. In this course, Derek Peruo explores techniques and tools outside of Angular that can enhance your app development workflow. Derek goes over common tools you could use with most software projects, as well as some options that are specific to Angular. He discusses code editors, tools you can use to build and deploy Angular apps into production, frameworks and libraries to help speed up development, and more.",
+      "objectives": null,
+      "skills": ["Angular"],
+      "comments": "This is a very elementary, introductory (and short) course, but it is part of the Angular Learning Path on LinkedIn Learning, so I completed it.<br />It was probably meant to be taken first, before any of the other Angular courses. Although it was nice that it did serve to remind me of some things, taking it now.",
+      "url": "https://www.linkedin.com/learning/angular-ecosystems",
+      "certs": ["CertificateOfCompletion_Angular-Ecosystems_LI.pdf"]
+    },
+    {
       "index": 151,
       "title": "Learning the Angular CLI",
       "instructor": "Victor Mejia",
