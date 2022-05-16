@@ -1,5 +1,22 @@
 [
   {
+    "index": 155,
+    "title": "Linux: Network Configuration",
+    "instructor": "Scott Simpson",
+    "date_completed": "2022-05-15",
+    "date": [
+      {
+        "$date": "2022-05-15T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Networking is a fundamental service on a Linux system. Though Linux is widespread, there are many methods of configuring network settings. In this course, instructor Scott Simpson demonstrates how to configure network settings on systems running a variety of Linux distributions. He goes over networking configuration basics like configuration management tools and network interfaces. Scott covers manual network configuration tools, such as ifconfig, the ip command, DHCP, and more. He explains how to configure networks using ifupdown, NetworkManager, Netplan, and systemd-networkd. Plus, Scott dives into hostnames, firewall configuration, and monitoring network port activity.",
+    "objectives": null,
+    "skills": ["Linux Network Administration"],
+    "comments": "This course really gets down into the nitty-gritty, using various tools, both graphical and command-line, from current as well as older distros.<br />I ended up installing a new VirtualBox VM (along with CentOS and Kubuntu VMs), this time for Alpine. It ran in memory only, and (thus) was screaming fast.<br />We did some wireless configuration, but most of the course focused on Ethernet connections.<br />And we spent a lot of time on firewalls, setting rules, for using <i>ssh</i> (to/from another VirtualBox VM).",
+    "url": "https://www.linkedin.com/learning/linux-network-configuration-14257682",
+    "certs": ["CertificateOfCompletion_Linux-NetworkConfiguration_LI.pdf"]
+  },
+  {
     "index": 154,
     "title": "TypeScript: Object-Oriented Programming",
     "instructor": "Dylan Israel",
