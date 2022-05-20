@@ -1,5 +1,30 @@
 [
   {
+    "index": 156,
+    "title": "React: Ecosystems",
+    "instructor": "Emmanuel Henri",
+    "date_completed": "2022-05-20",
+    "date": [
+      {
+        "$date": "2022-05-20T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "React is rarely used by itself. As a result, working effectively with React—especially when developing in a group—means mastering a set of tools. Some of these tools supplement React, while others establish and maintain workflows for efficient development or help React mesh with another set of web-centric tools. In this course, learn how to make full use of React by exploring its ecosystems, and investigating what React offers as the nucleus of this system. Emmanuel explains what React offers, and dives into topics such as routing and navigation, server-side rendering, animation, and debugging.",
+    "objectives": [
+      "Routing",
+      "Navigation",
+      "Server-side rendering",
+      "State management",
+      "Reviewing an animation library",
+      "Testing and debugging",
+      "Type checking in React"
+    ],
+    "skills": ["React.js"],
+    "comments": "Like the <a href=\"https://www.linkedin.com/learning/angular-ecosystems\" target=\"_blank\"><i>Angular: Ecosystems</i></a> course I completed here, this is a short introductory course. It covers several aspects of React programming, and introduces resources and libraries to use for them.<br />I've completed only one React course here so far, <a href=\"https://www.linkedin.com/learning/learning-react-js-5\" target=\"_blank\"><i>Learning React.js</i></a>, and I wanted to take this overview course before I went too far along the React road...",
+    "url": "https://www.linkedin.com/learning/react-ecosystems",
+    "certs": ["CertificateOfCompletion_React-Ecosystems_LI.pdf"]
+  },
+  {
     "index": 155,
     "title": "Linux: Network Configuration",
     "instructor": "Scott Simpson",
