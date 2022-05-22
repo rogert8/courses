@@ -1,5 +1,22 @@
 [
   {
+    "index": 157,
+    "title": "React Native Ecosystem and Workflow",
+    "instructor": "Emmanuel Henri",
+    "date_completed": "2022-05-21",
+    "date": [
+      {
+        "$date": "2022-05-21T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "React Native makes it easy to develop applications and deploy them natively to multiple mobile platforms. That said, building a complete app means looking beyond React Native to the different options that can help you customize your workflow. In this course, Emmanuel Henri takes you on a tour of some of the most commonly used React Native features. He highlights several different types of React Native UI libraries. Next, Emmanuel reviews development resources such as full-stack frameworks and IDEs. He also shows you some backend options for your project. To wrap up, he provides an overview of the testing and deployment options available to you.",
+    "objectives": null,
+    "skills": ["React Native", "Cross-platform Development"],
+    "comments": "Like the other <i>ecosystem</i> courses I've taken here, this one is also a short introductory course. It covers several aspects of React Native programming, and introduces resources, frameworks, and libraries to use for them.",
+    "url": "https://www.linkedin.com/learning/react-native-ecosystem-and-workflow-14359050",
+    "certs": ["CertificateOfCompletion_ReactNativeEcosystemAndWorkflow_LI.pdf"]
+  },
+  {
     "index": 156,
     "title": "React: Ecosystems",
     "instructor": "Emmanuel Henri",
