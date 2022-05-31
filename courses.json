@@ -1,5 +1,22 @@
 [
   {
+    "index": 158,
+    "title": "NoSQL Essential Training",
+    "instructor": "Melanie McGee",
+    "date_completed": "2022-05-30",
+    "date": [
+      {
+        "$date": "2022-05-30T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "As the shiny new object in the data world, you might have heard a lot of people talk excitedly about NoSQL and all the things it can do. It’s great in terms of flexibility, speed, and is easy to work with. It’s super scalable, so it can accommodate increased numbers of users as websites and applications grow. But will it replace SQL? Will it make relational databases obsolete? In this course, Mel McGee explains just exactly what NoSQL is, the pros and cons, and tradeoffs you’ll make when using NoSQL. Mel takes a high-level approach without delving into the details of any one NoSQL query language or solution, so if you’re a developer looking for a bigger picture of NoSQL, or an entrepreneur wanting to explore options for your product, or just plain curious about non-relational databases, this course is for you.",
+    "objectives": null,
+    "skills": ["NoSQL"],
+    "comments": "A good overview course, covering appropriate choices for use between Relational and NoSQL databases, and appropriate choices for use between four types of NoSQL databases.<br />I've used MongoDB and Redis, but not the other NoSQL databases mentioned in this course.",
+    "url": "https://www.linkedin.com/learning/nosql-essential-training",
+    "certs": ["CertificateOfCompletion_NoSQLEssentialTraining_LI.pdf"]
+  },
+  {
     "index": 157,
     "title": "React Native Ecosystem and Workflow",
     "instructor": "Emmanuel Henri",
