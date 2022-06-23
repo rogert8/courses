@@ -1,5 +1,31 @@
 [
   {
+    "index": 160,
+    "title": "Python Automation and Testing",
+    "instructor": "Bhoomika Agarwal",
+    "date_completed": "2022-06-23",
+    "date": [
+      {
+        "$date": "2022-06-23T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Do you spend too much time manually testing your user interfaces? Automation is the answer. Python and Selenium offer a simple but powerful framework to script any testing. Here, instructor Bhoomika Agarwal shows how to use the combination of Selenium WebDriver and Python code to automate web UI tests. Follow along and learn how to locate elements, navigate pages, test user interactions with forms and drag-and-drop elements, and use waits to control test timing and execution. The lessons are practical and can be immediately applied to your development workflow. Take the challenges included along the way to practice your new skills.",
+    "objectives": [
+      "Identify the steps for installing Python.",
+      "Recognize the browsers supported by Selenium.",
+      "Explain how to find an element when a unique ‘id’ is not available.",
+      "Understand the purpose of the “send_keys.”",
+      "Recall which exception is raised when a function tries to locate an element not yet loaded into the DOM."
+    ],
+    "skills": ["Python (Programming Language)", "Test Automation"],
+    "comments": "We covered many of the same things covered in the other Selenium courses I've completed here, but in this one we coded in Python.<br />We mainly used Firefox in this course, although it briefly covered Chrome and Edge. I did have to update the various Web drivers for Selenium that I had, to match up with the updated Browsers I'm using now, along with my System Path Environment Variables.<br />The instructor used IDLE to code in, but I used VS Code, and I changed the code for deprecated functions to comply with the current/upcoming version(s) of Selenium.<br />We covered parsing the HTML DOM structure, which was a good refresher for me. We located elements by <i>id</i>, <i>name</i>, and <i>class</i> attributes. We also used <i>XPath</i>, which was a good refresher as well.<br />One thing I hadn't done in Selenium before was using/testing drag-and-drop functionality.",
+    "url": "https://www.linkedin.com/learning/python-automation-and-testing",
+    "certs": [
+      "CertificateOfCompletion_PythonAutomationAndTesting_LI.pdf",
+      "CertificateOfCompletion_PythonAutomationAndTesting_NASBA.pdf"
+    ]
+  },
+  {
     "index": 159,
     "title": "Unit Testing in Python",
     "instructor": "Jasmine Omeke",
