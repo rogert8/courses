@@ -1,6 +1,37 @@
 {
   "courses": [
     {
+      "index": 161,
+      "title": "Linux System Engineer: Database Servers Using MariaDB",
+      "instructor": "Grant McWilliams",
+      "date_completed": "2022-06-27",
+      "date": [
+        {
+          "$date": "2022-06-27T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Study to pass the Red Hat Certified Engineer (RHCE) exam—the benchmark certification for Red Hat Enterprise Linux. This installment of the RHCE Cert Prep series covers database configuration and management with MariaDB. Instructor Grant McWilliams begins by reviewing database basics, walking through a MariaDB server install, and noting differences between MySQL and MariaDB. Then he demonstrates some SQL commands for creating databases and tables, and how to query the data held within them. Next, he explains how to set and recover the database root user's password and secure your database server installation. Finally, he shows how to create and restore logical MariaDB backups of databases and tables.",
+      "objectives": [
+        "Installing MariaDB server",
+        "MariaDB commands, configuration files, and logs",
+        "Addressing SELinux concerns",
+        "Using the MySQL shell",
+        "Managing databases and tables with subcommands",
+        "Creating a database with tables",
+        "Querying a database",
+        "Renaming tables and updating records",
+        "Setting and recovering the root database password",
+        "Securing your MariaDB server installation",
+        "Performing and restoring logical database backups"
+      ],
+      "skills": ["MariaDB"],
+      "comments": "We used a CentOS Linux 7 VirtualBox VM created in this instructor's other Linux courses, and while this course focused on administering and managing MariaDB databases and tables, we did perform some simple querying.<br />Indexes, and creating/managing users were not covered (aside from changing the <i>root</i> user's password).",
+      "url": "https://www.linkedin.com/learning/linux-system-engineer-database-servers-using-mariadb",
+      "certs": [
+        "CertificateOfCompletion_LinuxSystemEngineerDatabaseServersUsingMariaDB_LI.pdf"
+      ]
+    },
+    {
       "index": 160,
       "title": "Python Automation and Testing",
       "instructor": "Bhoomika Agarwal",
