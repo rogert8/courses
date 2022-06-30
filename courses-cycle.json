@@ -1,6 +1,25 @@
 {
   "courses": [
     {
+      "index": 162,
+      "title": "Cassandra Data Modeling Essential Training",
+      "instructor": "Dan Sullivan",
+      "date_completed": "2022-06-29",
+      "date": [
+        {
+          "$date": "2022-06-29T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Cassandra is a NoSQL database capable of handling large amounts of data that change rapidly. In this course, instructor Dan Sullivan teaches you about the architecture of this popular database and how to design Cassandra data models that support scalable applications in the latest release.  Explore the core differences between Cassandra and relational databases, as well as the basics of the Cassandra Query Language (CQL) and modeling best practices based on application query requirements. Dan dives into Cassandra implementation details that impact data modeling choices, helping you sift through other design decisions, while staying mindful of the database's architecture and limitations. Along the way, test out your new skills with the design and modeling challenges at the end of each section.",
+      "objectives": null,
+      "skills": ["Data Modeling", "Cassandra"],
+      "comments": null,
+      "url": "https://www.linkedin.com/learning/cassandra-data-modeling-essential-training-17423744",
+      "certs": [
+        "CertificateOfCompletion_CassandraDataModelingEssentialTraining_LI.pdf"
+      ]
+    },
+    {
       "index": 161,
       "title": "Linux System Engineer: Database Servers Using MariaDB",
       "instructor": "Grant McWilliams",
