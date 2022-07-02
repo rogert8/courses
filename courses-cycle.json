@@ -1,6 +1,25 @@
 {
   "courses": [
     {
+      "index": 163,
+      "title": "ASP.NET Core in .NET 6: Dependency Injection",
+      "instructor": "David Grace",
+      "date_completed": "2022-07-01",
+      "date": [
+        {
+          "$date": "2022-07-01T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "If you’re a .NET developer or looking to enter the field, it’s essential to have a working understanding of dependency injection, a software development design pattern that allows for having objects that are not dependent on each other. In this course, .NET C# programmer David Grace provides an introduction to dependency injection, from configuration to implementation. He also talks through the advantages of DI and why you should use it. David shows how to implement dependency injection into a real-life example using an ASP.NET Core app, and details the use methods within it. He also looks at the common errors when using dependency injection and how to resolve them. ",
+      "objectives": null,
+      "skills": ["ASP.NET Core", "Dependency Injection"],
+      "comments": "I've used Dependency Injection in Angular apps, and now I've had a taste of how to do it in ASP.NET Core.<br />We used C# in Visual Studio 2022 (Community) and .NET 6. The instructor did point out where and how to add our Services to the DI Container if using .NET 5. We accessed the Exercise Files code from GitHub.<br />The chapter on <i>Common Errors</i> (and how to resolve them) reinforced for me how DI worked in ASP.NET Core.",
+      "url": "https://www.linkedin.com/learning/asp-dot-net-core-in-dot-net-6-dependency-injection",
+      "certs": [
+        "CertificateOfCompletion_ASP.NETCoreIn.NET6DependencyInjection_LI.pdf"
+      ]
+    },
+    {
       "index": 162,
       "title": "Cassandra Data Modeling Essential Training",
       "instructor": "Dan Sullivan",
