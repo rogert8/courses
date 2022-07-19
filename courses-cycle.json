@@ -1,6 +1,32 @@
 {
   "courses": [
     {
+      "index": 164,
+      "title": "Learning Go",
+      "instructor": "David Gassner",
+      "date_completed": "2022-07-18",
+      "date": [
+        {
+          "$date": "2022-07-18T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "What is Go? Go is a next-generation, open-source programming language created by Google for building systems, web, and other applications. This course is designed to help developers get started with Go, covering its core language elements and syntax. David Gassner introduces tools and skills used in a Go workflow—including Go Playground, an online tool that takes Go development off the desktop. He also covers basic programming tasks: managing values, using math operators, storing values as complex types, and managing program flow. Plus, learn how to create reusable Go code, read and write files, and make simple web requests.",
+      "objectives": [
+        "Installing Go development tools and Visual Studio Code",
+        "Exploring variables, constants, and types",
+        "Storing ordered and unordered values",
+        "Grouping related values in structs",
+        "Programming conditional logic and loops",
+        "Defining and calling functions",
+        "Handling errors",
+        "Working with files"
+      ],
+      "skills": ["Go (Programming Language)"],
+      "comments": "We didn't cover testing, channels/concurrency, nor profiling, as we did in the <a href=\"https://www.linkedin.com/learning/go-essential-training\" target=\"_blank\"><i>Go Essential Training</i></a> course here. But we did cover the other areas from that course, with different emphasis here and there, such as on syntax variations.<br />So together, these two complementary courses provide a good start with Go programming.<br />We learned about and used the (online) <i>Go Playground</i>, and configured and used Visual Studio Code for Go coding.<br />We got the Exercise Files from GitHub, cloning the instructor's repository, and we really worked straight from that, changing to the various branches, then committing our changes to our local repository. So I got some more good Git practice there.",
+      "url": "https://www.linkedin.com/learning/learning-go-8399317",
+      "certs": ["CertificateOfCompletion_LearningGo_LI.pdf"]
+    },
+    {
       "index": 163,
       "title": "ASP.NET Core in .NET 6: Dependency Injection",
       "instructor": "David Grace",
