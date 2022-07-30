@@ -1,6 +1,23 @@
 {
   "courses": [
     {
+      "index": 166,
+      "title": "Learning React Native",
+      "instructor": "Alex Banks",
+      "date_completed": "2022-07-29",
+      "date": [
+        {
+          "$date": "2022-07-29T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Get up and running with React Native, the popular framework for building native applications that run on both iOS and Android using React. Instructor Alex Banks introduces you to the framework and steps through how to use it to build applications in JavaScript. Using practical examples, Alex helps you get started with components, views, and platform APIs. He takes you through setting up your first app, creating style sheets, working with flexbox, adding data points to a list, collecting data from users, implementing navigation, adding touch responses, and more.",
+      "objectives": null,
+      "skills": ["React Native"],
+      "comments": null,
+      "url": "https://www.linkedin.com/learning/learning-react-native",
+      "certs": ["CertificateOfCompletion_LearningReactNative_LI.pdf"]
+    },
+    {
       "index": 165,
       "title": "SEO Foundations",
       "instructor": "David Booth",
