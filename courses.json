@@ -1,5 +1,29 @@
 [
   {
+    "index": 167,
+    "title": "Python: Decorators",
+    "instructor": "Jonathan Fernandes",
+    "date_completed": "2022-07-31",
+    "date": [
+      {
+        "$date": "2022-07-31T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Decorators are an increasingly important feature in Python. They add functionality to an existing object without permanently modifying it. Being able to use decorators effectively is critical to working with larger Python projects and frameworks. In this course, Jonathan Fernandes explains what decorators are and why they are used so extensively in production projects. He explains how to solve common challenges associated with decorators, such as debugging; how to chain decorators; how to use decorators with classes; and how to access the arguments passed into decorated functions. Plus, find out how to use and debug decorators in the real world by examining decorators' role in the source code for the Flask microplatform.",
+    "objectives": [
+      "Working with functions in Python",
+      "Beautifying output",
+      "HTML styling",
+      "Using decorators with arguments",
+      "Using decorators with classes",
+      "Identifying decorators in Flask source code"
+    ],
+    "skills": ["Python (Programming Language)"],
+    "comments": "I'd used built-in Decorators in other Python coding, but in this course we wrote our own - mostly functions, although we did create one Decorator class.<br />Our coding was based on the Fibonacci Sequence, as the instructor was into that, and because it was expected that we students would be familiar.<br />We created Decorators to enhance output, and to add performance timing.<br />We also used the <i>lru_cache</i> Decorator from the <i>functools</i> | <i>lru_cache</i> module to easily add the Dynamic Programming optimization technique of <i>memoization</i> to vastly improve the performance, without having to code all the caching ourselves.<br />We finished up by using <i>Flask,</i> a web microframework that uses Decorators, to easily set up routes to Web pages.",
+    "url": "https://www.linkedin.com/learning/python-decorators",
+    "certs": ["CertificateOfCompletion_Python-Decorators_LI.pdf"]
+  },
+  {
     "index": 166,
     "title": "Learning React Native",
     "instructor": "Alex Banks",
