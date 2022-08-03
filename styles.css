@@ -28,14 +28,19 @@
 	
 	#btns {
 		/* display: block; */
+		display: flex;
+        flex-wrap: wrap;
+        box-sizing: border-box;
+        justify-content: center;
 		width: 80%;
 		margin: 0 auto;
 	}
 	
 	btn {
-		display: inline-block;
+		/* display: inline-block; */
 		padding: 10px 30px;
-		margin: 0 0.5rem 1rem 0;
+		/* margin: 0 0.5rem 1rem 0; */
+		margin: 0 1rem 1rem 0;
 		background: #5ea9f0;
 		color: #05549e;
 		font: bold 1.3em Arial;
