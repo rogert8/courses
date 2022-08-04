@@ -1,5 +1,24 @@
 [
   {
+    "index": 168,
+    "title": "Building Responsive Forms with Flexbox",
+    "instructor": "James Williamson",
+    "date_completed": "2022-08-04",
+    "date": [
+      {
+        "$date": "2022-08-04T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "The CSS3 Flexible Box Model, or Flexbox, is a different way to design responsive websites and HTML forms. Flexbox doesn't rely on floats or collapsible margins. Instead, flex containers shrink and expand items to fit the available space. With flexbox, complex layouts can be achieved with cleaner, more semantic code.<br /><br />In this course, senior staff author James Williamson shows how to use flex containers, flex child items, and responsive design techniques to create responsive layouts for two forms: a short search form and a longer registration form with sections. He demonstrates how to style the form structures, fields, labels, and buttons; control the alignment of different elements; and enhance the responsiveness of both forms with media queries.",
+    "objectives": null,
+    "skills": ["Responsive Web Design", "CSS Flexbox"],
+    "comments": "A good course on using CSS Flexbox (the CSS3 Flexible Box Model), focusing on forms, and form sections and elements.<br />Flexbox is not really intended for the layout of a whole Web page, but for smaller sections of a page, or for components.<br />We used Flexbox in the <a href=\"https://www.linkedin.com/learning/learning-react-native\" target=\"_blank\"><i>Learning React Native</i></a> course that I completed, for laying out our components, which led me to wanting to learn more about it, and to taking this course.<br />I learned some things that I've now already applied to my Web site (even though it doesn't use forms). And this course made me think of some other things to figure out how to do. <br />We used the <i>Brackets</i> editor, which is nice in that it has a built-in <i>Live Preview</i> feature. And we added an extension to Brackets that facilitates easily wrapping a tag around a text selection.",
+    "url": "https://www.linkedin.com/learning/building-responsive-forms-with-flexbox",
+    "certs": [
+      "CertificateOfCompletion_BuildingResponsiveFormsWithFlexbox_LI.pdf"
+    ]
+  },
+  {
     "index": 167,
     "title": "Python: Decorators",
     "instructor": "Jonathan Fernandes",
@@ -19,7 +38,7 @@
       "Identifying decorators in Flask source code"
     ],
     "skills": ["Python (Programming Language)"],
-    "comments": "I'd used built-in Decorators in other Python coding, but in this course we wrote our own - mostly functions, although we did create one Decorator class.<br />Our coding was based on the Fibonacci Sequence, as the instructor was into that, and because it was expected that we students would be familiar.<br />We created Decorators to enhance output, and to add performance timing.<br />We also used the <i>lru_cache</i> Decorator from the <i>functools</i> | <i>lru_cache</i> module to easily add the Dynamic Programming optimization technique of <i>memoization</i> to vastly improve the performance, without having to code all the caching ourselves.<br />We finished up by using <i>Flask,</i> a web microframework that uses Decorators, to easily set up routes to Web pages.",
+    "comments": "I'd used built-in Decorators in other Python coding, but in this course we wrote our own - mostly functions, although we did create one Decorator class.<br />Our coding was based on the Fibonacci Sequence, as the instructor was into that, and because it was expected that we students would be familiar.<br />We created Decorators to enhance output, and to add performance timing.<br />We also used the <i>lru_cache</i> Decorator from the <i>functools</i> | <i>lru_cache</i> module to easily add the Dynamic Programming optimization technique of <i>memoization</i> to vastly improve the performance, without having to code all the caching ourselves.<br />We finished up by using <i>Flask,</i> a Web microframework that uses Decorators, to easily set up routes to Web pages.",
     "url": "https://www.linkedin.com/learning/python-decorators",
     "certs": ["CertificateOfCompletion_Python-Decorators_LI.pdf"]
   },
