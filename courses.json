@@ -1,5 +1,30 @@
 [
   {
+    "index": 169,
+    "title": "Learning PowerShell Core",
+    "instructor": "Adam Bertram",
+    "date_completed": "2022-08-07",
+    "date": [
+      {
+        "$date": "2022-08-07T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "PowerShell Core—the latest iteration of the powerful scripting language—is open-source, cross-platform, and full of helpful features. In this course, instructor Adam Bertram helps you get up and running with PowerShell Core, explaining what you need to know to use PowerShell to automate a variety of day-to-day IT tasks. Adam covers the basics of working with PowerShell Core, including how to run commands, install and update modules, and work with basic functions. Plus, he highlights the differences between Windows PowerShell and PowerShell Core.",
+    "objectives": [
+      "The PowerShell pipeline",
+      "Finding and using modules",
+      "Downloading modules from the PowerShell Gallery",
+      "PowerShell remoting on Windows and Linux",
+      "Windows PowerShell vs. PowerShell Core",
+      "Going from console to script",
+      "Building a simple script"
+    ],
+    "skills": ["PowerShell"],
+    "comments": "PowerShell Core is (somewhat) the successor to Windows PowerShell. It is now cross-platform, has better performance, and although all of the commands from Windows PowerShell are not intrinsically available in PowerShell Core, there is a way to bring them in.<br />We installed PowerShell Core on Windows and Linux (Ubuntu) - for Linux, I used my WSL Ubuntu 20.04 and my Hyper-V Ubuntu 20.04 VM.<br />We configured Windows and Ubuntu machines for PowerShell Remoting, between Windows machines and between Windows and Linux machines, running commands from one on another.<br />We configured Visual Studio Code for use with PowerShell Core, adding the PowerShell Extension, and we built up a script to pull information from/about other machines (and, of course, about the local host).",
+    "url": "https://www.linkedin.com/learning/learning-powershell-core",
+    "certs": ["CertificateOfCompletion_LearningPowerShellCore_LI.pdf"]
+  },
+  {
     "index": 168,
     "title": "Building Responsive Forms with Flexbox",
     "instructor": "James Williamson",
