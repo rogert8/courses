@@ -1,5 +1,31 @@
 [
   {
+    "index": 170,
+    "title": "Advanced Responsive Layouts with CSS Flexbox",
+    "instructor": "Morten Rand-Hendriksen",
+    "date_completed": "2022-08-13",
+    "date": [
+      {
+        "$date": "2022-08-13T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "The CSS Flexible Box Layout module (aka Flexbox) provides a simple solution to many of the design and layout problems web designers and developers have faced since the advent of CSS. Now that the module is becoming ready for the main stage, it's time to look at what we can do with it.<br /><br />This course shows how to use flexible boxes to create advanced responsive layouts. Morten Rand-Hendriksen takes the viewer on a tour of Flexbox and provides actionable code snippets that can be implemented safely in almost any website. He puts it all together in a holy grail site complete with card-based layout, mixed content menus, and interactive components that provide visitors with choices about what they see.",
+    "objectives": [
+      "Creating Flexbox-powered menus",
+      "Building a responsive card layout",
+      "Marking up and styling the holy grail layout",
+      "Changing displays",
+      "Showing and hiding the sidebar",
+      "Animating content"
+    ],
+    "skills": ["Responsive Web Design", "CSS Flexbox"],
+    "comments": "A wonderful course! And a great follow-up to the <a href=\"https://www.linkedin.com/learning/building-responsive-forms-with-flexbox\" target=\"_blank\"><i>Building Responsive Forms with Flexbox</i></a> course at <a href=\"https://www.linkedin.com/learning\" target=\"_blank\"><i>LinkedIn Learning</i></a>.<br />And as in that course, we used the <i>Brackets</i> editor.",
+    "url": "https://www.linkedin.com/learning/advanced-responsive-layouts-with-css-flexbox",
+    "certs": [
+      "CertificateOfCompletion_AdvancedResponsiveLayoutsWithCSSFlexbox_LI.pdf"
+    ]
+  },
+  {
     "index": 169,
     "title": "Learning PowerShell Core",
     "instructor": "Adam Bertram",
