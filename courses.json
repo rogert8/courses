@@ -1,5 +1,22 @@
 [
   {
+    "index": 171,
+    "title": "Program Databases with Transact-SQL",
+    "instructor": "Adam Wilbert",
+    "date_completed": "2022-08-16",
+    "date": [
+      {
+        "$date": "2022-08-16T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "This course focuses on a single category of objects within a SQL Server database: Programmability objects. With these objects, database developers can automate systems with triggers, ensure consistent user experiences with stored procedures, protect database integrity with transactions, and implement error-handling routines that enhance the database’s functionality. Join instructor Adam Wilbert as he takes a deep dive into the Programmability folder in a SQL Server database. Using real-world examples, he explores the types of objects that can be deployed to automate systems and maintain database integrity. To follow along, you just need some familiarity with the functionality of a relational database, as well as how to write Transact-SQL (T-SQL) queries. Discover how to write stored procedures that include input and output parameters; create scalar- and table-valued user defined functions; execute batches of commands as transactions; and more.",
+    "objectives": null,
+    "skills": ["Transact-SQL (T-SQL)"],
+    "comments": "An excellent course.<br />We used Microsoft's WideWorldImporters sample database, from GitHub, which I already had installed on a SQL Server instance, from a prior course.<br />We created Views, User-Defined Functions, and Stored Procedures (including Triggers). We also created Transactions, implemented error handling, and we finished up with data type conversions, and handling NULL values.<br />I had studied and done all of this before, but it's been a while since my SQL Server Programming course, so this was good for getting me back up to speed.",
+    "url": "https://www.linkedin.com/learning/program-databases-with-transact-sql",
+    "certs": ["CertificateOfCompletion_ProgramDatabasesWithTransactSQL_LI.pdf"]
+  },
+  {
     "index": 170,
     "title": "Advanced Responsive Layouts with CSS Flexbox",
     "instructor": "Morten Rand-Hendriksen",
