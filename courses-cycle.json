@@ -1,6 +1,23 @@
 {
   "courses": [
     {
+      "index": 173,
+      "title": "Ruby on Rails 7 Essential Training",
+      "instructor": "Kevin Skoglund",
+      "date_completed": "2022-08-21",
+      "date": [
+        {
+          "$date": "2022-08-21T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "In Ruby on Rails 7 Essential Training, instructor Kevin Skoglund shows you how to create full-featured, object-oriented web applications with the latest version of the popular, open-source Ruby on Rails framework. Kevin steps through the complete process--from the fundamental concepts and best practices behind the Rails framework, to how to build a complete application with dynamic, database-driven content. Using a content management system as an example project, he shows you how to structure databases; build database-driven, object-oriented models; route incoming requests; render pages with dynamic content; and process and validate form data. Kevin finishes with a detailed discussion of controllers and related HTML code.",
+      "objectives": null,
+      "skills": ["Ruby on Rails"],
+      "comments": "Ruby on Rails is an open-source Web app development framework for the Ruby language. It is used to create database-backed Web applications according to the Model-View-Controller (MVC) pattern.<br />We used MySQL for our database. We also used the Atom editor for coding, and changed a few settings there.<br />We created an app for task management, i.e., managing a to-do list. This included listing and examining tasks, as well as creating new tasks, editing/updating (including marking/setting tasks as completed) and deleting them (CRUD).<br />It is a very nice framework that I'll have to delve into deeper...",
+      "url": "https://www.linkedin.com/learning/ruby-on-rails-7-essential-training",
+      "certs": ["CertificateOfCompletion_RubyOnRails7EssentialTraining_LI.pdf"]
+    },
+    {
       "index": 172,
       "title": "SQL Server Database Triggers",
       "instructor": "Adam Wilbert",
