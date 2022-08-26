@@ -45,6 +45,12 @@ body {
 	overflow: hidden;
 }
 
+@media screen and (max-width: 40em) {
+    #coursebox {
+        height: 660px;
+    }
+}
+
 #coursebox h3, #coursebox h4 {
 	font-weight: normal;
 	margin: 0;
