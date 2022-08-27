@@ -45,7 +45,7 @@ body {
 	overflow: hidden;
 }
 
-@media screen and (max-width: 30em) {
+@media screen and (max-width: 40em) {
     #coursebox {
         height: 720px;
 		-webkit-height: 720px;
