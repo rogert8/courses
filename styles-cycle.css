@@ -48,6 +48,11 @@ body {
 @media screen and (max-width: 30em) {
     #coursebox {
         height: 720px;
+		-webkit-height: 720px;
+        -khtml-height: 720px;
+        -moz-height: 720px;
+        -ms-height: 720px;
+
     }
 }
 
