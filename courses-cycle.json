@@ -1,6 +1,23 @@
 {
   "courses": [
     {
+      "index": 174,
+      "title": "Ruby on Rails Controllers and Views",
+      "instructor": "Kevin Skoglund",
+      "date_completed": "2022-08-28",
+      "date": [
+        {
+          "$date": "2022-08-28T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Want to build smarter controllers and better-looking web pages with Ruby on Rails? In this foundational course, instructor Kevin Skoglund teaches developers how to better implement controllers and views in Ruby on Rails, and covers the fundamentals and best practices around these common programming concepts. Learn how to leverage the most useful features of controllers, including maintaining state with cookie and session data, displaying messages, organizing code, and using filters for routine tasks. Next, discover how to render different types of data, how to use view layouts, and how to incorporate assets such as images, style sheets, and JavaScript. Finally, find out how to work more efficiently with Ruby helper methods, which make common tasks like formatting text and numbers, date and time calculations, and outputting form fields easier. ",
+      "objectives": null,
+      "skills": ["Ruby on Rails"],
+      "comments": "A VERY good course, focused on learning more about Controllers, Views, Helpers, and Assets such as CSS Style Sheets and Images.<br />We expanded on the Task Manager Web app from this same instructor's <a href=\"https://www.linkedin.com/learning/ruby-on-rails-7-essential-training\" target=\"_blank\"><i>Ruby on Rails 7 Essential Training</i></a> course at <a href=\"https://www.linkedin.com/learning\" target=\"_blank\"><i>LinkedIn Learning</i></a>, and we used the Atom editor again.<br />Unlike in that course, we obtained the beginning source code from a GitHub repository.<br />The Git tab in Atom only shows branches you've already been in, unlike VS Code, which shows all available branches. So I had to use the terminal (also available inside Atom) to switch branches.<br />I also had to update Ruby from the version that we used in that prior course, and had to \"fight\" getting the right versions of various packages, including the <i>mysql2</i> package. I only had to figure that out once, however, and then update the <i>Gemfile</i> for each (Git) branch to reflect those versions (and then run <code>bundle install</code> each time).",
+      "url": "https://www.linkedin.com/learning/ruby-on-rails-controllers-and-views",
+      "certs": ["CertificateOfCompletion_RubyOnRailsControllersAndViews_LI.pdf"]
+    },
+    {
       "index": 173,
       "title": "Ruby on Rails 7 Essential Training",
       "instructor": "Kevin Skoglund",
