@@ -1,6 +1,25 @@
 {
   "courses": [
     {
+      "index": 175,
+      "title": "Ruby on Rails Models and Associations",
+      "instructor": "Kevin Skoglund",
+      "date_completed": "2022-09-04",
+      "date": [
+        {
+          "$date": "2022-09-04T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Ruby on Rails can speed up and improve the development of full-featured web applications through powerful tools that provide an object-oriented interface to relational databases and automate common data tasks. In this course, extend your knowledge of Ruby on Rails as instructor Kevin Skoglund covers the built-in features of models and associations in Rails. Learn to apply named scopes, validations, callbacks, and associations to a sample project. Find out how to design smarter models with attributes not in the database and by leveraging efficient queries. Walk through the most useful built-in validation methods and learn to write custom validations. Discover how to trigger automated behaviors as data is saved to the database by using callbacks. Explore effective use of Active Record associations, investigate one-to-many and many-to-many relationships, and learn to construct queries that span several tables.",
+      "objectives": null,
+      "skills": ["Ruby on Rails"],
+      "comments": "Another great followup to this instructor's <a href=\"https://www.linkedin.com/learning/ruby-on-rails-7-essential-training\" target=\"_blank\"><i>Ruby on Rails 7 Essential Training</i></a> course, and which builds on where we left off in the subsequent <a href=\"https://www.linkedin.com/learning/ruby-on-rails-controllers-and-views\" target=\"_blank\"><i>Ruby on Rails Controllers and Views</i></a> course.<br />I think that I have learned enough now to get started on a Ruby on Rails Web app to work with my LinkedIn Learning Courses data.",
+      "url": "https://www.linkedin.com/learning/ruby-on-rails-models-and-associations",
+      "certs": [
+        "CertificateOfCompletion_RubyOnRailsModelsAndAssociations_LI.pdf"
+      ]
+    },
+    {
       "index": 174,
       "title": "Ruby on Rails Controllers and Views",
       "instructor": "Kevin Skoglund",
