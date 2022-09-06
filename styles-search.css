@@ -60,8 +60,8 @@ body {
 }
 
 #update {
-	/* font-family: Georgia, "Times New Roman", Times, serif */
-	font-family: 'Libre Baskerville';
+	font-family: Georgia, "Times New Roman", Times, serif;
+	/* font-family: 'Libre Baskerville'; */
 	width: 84%;
 	margin: 0 auto;
 	/* margin: 0 7%; */
@@ -153,7 +153,7 @@ body {
 	padding-bottom: 5px;
 	padding-top: 20px;
 	/* font-family: Arial, Helvetica, sans-serif; */
-	/* font-family: 'Libre Baskerville'; */
+	font-family: 'Libre Baskerville';
 	/* color: #BF5841; */
 	border-bottom: 1px dotted #CCC;
 	margin-bottom: 10px;
