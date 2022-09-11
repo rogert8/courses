@@ -44,7 +44,7 @@ function displayCourses(myExp) {
 						}	// isntructor exists
 		
 						if (val.skills && val.skills.length > 0 && val.skills[0] !== "") {
-							output += '<h4>' + 'Skill(s) Covered' + '</h4>';
+							output += '<h4 style="font-family: Libre Baskerville;">' + 'Skill(s) Covered' + '</h4>';
 							var skillsStr = val.skills.join(", ");
 							// output += '<p style="font-size: 0.85em;">' + val.skills.join(", ") + '<style="font-size: 1em;" /p>';
 							if (skillsStr.length <= 90) {
@@ -82,17 +82,17 @@ function displayCourses(myExp) {
 						}	// certs exist
 		
 						if (val.synopsis && val.synopsis !== "") {
-							output += '<h4>' + 'Synopsis' + '</h4>';
+							output += '<h4 style="font-family: Libre Baskerville;">' + 'Synopsis' + '</h4>';
 							output += '<p>' + val.synopsis + '</p>';
 						}	// synsopsis exists 
 		
 						if (val.objectives && val.objectives.length > 0 && val.objectives[0] !== "") {
-							output += '<h4>' + 'Learning Objectives' + '</h4>';
+							output += '<h4 style="font-family: Libre Baskerville;">' + 'Learning Objectives' + '</h4>';
 							output += '<p>' + '&#8226; '+ val.objectives.join("<br />&#8226; ") + '</p>';
 						}	// objectives exist
 		
 						if (val.comments && val.comments !== "") {
-							output += '<h4>' + 'My Comments' + '</h4>';
+							output += '<h4 style="font-family: Libre Baskerville;">' + 'My Comments' + '</h4>';
 							output += '<p>' + val.comments + '</p>';
 						}	// comments exist
 		
