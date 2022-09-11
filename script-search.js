@@ -40,7 +40,7 @@ function displayCourses(myExp) {
 						}	// no url exists
 		
 						if (val.instructor && val.instructor[0] !== "") {
-							output += '<p style="color: #05549e; font-weight: bold;">' + 'Instructor(s): ' + val.instructor + '<p>';
+							output += '<p style="color: #05549e; font-weight: bold; font-family: Libre Baskerville;">' + 'Instructor(s): ' + val.instructor + '<p>';
 						}	// isntructor exists
 		
 						if (val.skills && val.skills.length > 0 && val.skills[0] !== "") {
