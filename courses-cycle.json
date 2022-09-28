@@ -1,6 +1,23 @@
 {
   "courses": [
     {
+      "index": 176,
+      "title": "Ruby on Rails: Debugging",
+      "instructor": "David Morales",
+      "date_completed": "2022-09-28",
+      "date": [
+        {
+          "$date": "2022-09-28T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Fixing bugs is one of the most in-demand (and frustrating) skills for developers. Just when your application seems to be running smoothly—a bug appears. Where did it come from? Is it your code? A bug in the framework? Where do you even start looking for the solution? In this course, David Morales takes a hands-on approach to guide you through techniques and tools you can use to fix bugs with ease. Bugs may be unavoidable, but learning David’s bug detection and troubleshooting techniques can give you confidence and skills that are in demand today for any Ruby on Rails developer.",
+      "objectives": null,
+      "skills": ["Ruby on Rails"],
+      "comments": null,
+      "url": "https://www.linkedin.com/learning/ruby-on-rails-debugging",
+      "certs": ["CertificateOfCompletion_RubyOnRailsDebugging_LI.pdf"]
+    },
+    {
       "index": 175,
       "title": "Ruby on Rails Models and Associations",
       "instructor": "Kevin Skoglund",
