@@ -1,5 +1,31 @@
 [
   {
+    "index": 177,
+    "title": "Advanced SQL: Logical Query Processing, Part 1",
+    "instructor": "Ami Levin",
+    "date_completed": "2022-09-29",
+    "date": [
+      {
+        "$date": "2022-09-29T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "SQL has been the dominant data processing language for the past five decades. This course takes you beyond the syntax fundamentals, and into a new world of understanding how relational database management systems process SQL queries, and how that impacts your coding practices. Learn about logical query processing, and avoid most common pitfalls and processing limitations. Discover advanced JOIN techniques and how to deal with missing data. Understand the subtleties of ternary logic, SELECT expression evaluation, grouping logic, and how to implement efficient paging and ordering. By the end of the course, you’ll be able to take advantage of the nuances of logical query processing to easily troubleshoot and solve daunting SQL challenges elegantly and efficiently.<br /><br />This course was created by Ami Levin. We are pleased to offer this training in our library.",
+    "objectives": [
+      "Query logical processing order",
+      "Advanced join processing",
+      "Filtering rows with ternary logic predicates",
+      "Grouping and aggregating data efficiently",
+      "Advanced group filtering",
+      "Ordering and paging result cursors"
+    ],
+    "skills": ["Database Queries", "SQL"],
+    "comments": "This may be the BEST course on SQL that I've ever taken. The instructor provides the best explanations of joins, and the differences between the different types and how they work, that I've ever received.<br />This course is worth taking just for those explanations, and even though this course is billed as being <i>Advanced,</i> I really wish that I had this info much earlier in my SQL career.<br />And throughout the course, he emphasized how processing order is key.",
+    "url": "https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-1",
+    "certs": [
+      "CertificateOfCompletion_AdvancedSQL-LogicalQueryProcessing_Part1_LI.pdf"
+    ]
+  },
+  {
     "index": 176,
     "title": "Ruby on Rails: Debugging",
     "instructor": "David Morales",
