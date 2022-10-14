@@ -1,5 +1,22 @@
 [
   {
+    "index": 178,
+    "title": "Introducing Desktop and .NET Core",
+    "instructor": "Microsoft .NET and Olia Gavrysh",
+    "date_completed": "2022-10-13",
+    "date": [
+      {
+        "$date": "2022-10-13T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "In this introductory course, learn how to create your very first WinForms or WPF application on .NET Core. First, instructor Olia Gavrysh discusses the difference between .NET Framework and .NET Core for desktop applications. Olia goes over how to create your first WinForms application targeting .NET Core 3 and explores the base components of the WinForms application. Olia also walks you through how to create your first WPF application targeting .NET Core 3 and explains the base components of the WPF application.<br /><br />This course was created by Microsoft.NET. We are pleased to host this training in our library.",
+    "objectives": null,
+    "skills": [".NET Core", "WPF Development"],
+    "comments": "A short little course where we created 2 types of very simple Windows Desktop apps.<br />I was interested in the WPF (Windows Presentation Foundation) portion of this course, because the product that I will be supporting in my new job uses WPF.<br />I will be receiving training there on WPF, but wanted to get at least a slight bit of a head start.<br />I have both Visual Studio 2019 and Visual Studio 2022 installed on my machine &mdash; the instructor used 2019 in this course, so I followed along using that.",
+    "url": "https://www.linkedin.com/learning/introducing-desktop-and-dot-net-core",
+    "certs": ["CertificateOfCompletion_IntroducingDesktopAnd.NETCore_LI.pdf"]
+  },
+  {
     "index": 177,
     "title": "Advanced SQL: Logical Query Processing, Part 1",
     "instructor": "Ami Levin",
