@@ -1,5 +1,24 @@
 [
   {
+    "index": 179,
+    "title": "Customer Service: Call Control Strategies",
+    "instructor": "Myra Golden",
+    "date_completed": "2022-10-18",
+    "date": [
+      {
+        "$date": "2022-10-18T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Customer service calls can sometimes get out of control. Upset and overtalkative callers take time and energy away from other customers and tasks. This is where practical call-control strategies come into play. Join customer service trainer Myra Golden as she explains the reasons customer calls get out of hand, and introduces simple strategies to get you back in control. Learn how use a limited response, take control with close-ended questions, assert your way out of a bad conversation, and practice proactive call management so customers feel heard. You’ll leave the course with a variety of actionable tips to turn long, problematic phone calls into polite and efficient interactions.",
+    "objectives": null,
+    "skills": ["Call Control"],
+    "comments": "I saw that some former coworkers had taken this course. Although I had taken some other customer service courses that I had seen them take, I wasn't going to take this one, as I thought that, by now, I didn't need it.<br />But the LinkedIn Learning Path that it is in was assigned to me as part of onboarding at my new job.<br />It did turn out to be a good refresher, and I was also introduced to some good techniques. Or it at least more formalized some techniques that I had taken to using along the way.",
+    "url": "https://www.linkedin.com/learning/customer-service-call-control-strategies",
+    "certs": [
+      "CertificateOfCompletion_CustomerServiceCallControlStrategies_LI.pdf"
+    ]
+  },
+  {
     "index": 178,
     "title": "Introducing Desktop and .NET Core",
     "instructor": "Microsoft .NET and Olia Gavrysh",
