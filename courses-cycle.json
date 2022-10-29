@@ -1,6 +1,53 @@
 {
   "courses": [
     {
+      "index": 181,
+      "title": "Using Microsoft Teams and Outlook Together: Maximizing Productivity",
+      "instructor": "Gini von Courter",
+      "date_completed": "2022-10-29",
+      "date": [
+        {
+          "$date": "2022-10-29T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Over 75 million people now use Microsoft Teams every day. The increasing number of people using Teams has changed the way users work with Outlook—one of the world's most popular desktop email clients—for communication, scheduling, and general collaboration. In this course, discover how to use these two programs together in the right balance to increase collaboration and maximize productivity. Learn about managing calendars, creating meetings and appointments, and the features of private and group chats. Explore the overlapping tools provided in both programs and which type of communication is best accomplished with each application.",
+      "objectives": null,
+      "skills": ["Microsoft Teams", "Productivity Improvement"],
+      "comments": "Another course from one of my assigned LinkedIn Learning Paths for Onboarding.<br />I've used Outlook and Teams for a while now, but did pick up some things from this course.",
+      "url": "https://www.linkedin.com/learning/using-microsoft-teams-and-outlook-together-maximizing-productivity",
+      "certs": [
+        "CertificateOfCompletion_UsingMicrosoftTeamsAndOutlookTogether-MaximizingProductivity_LI.pdf"
+      ]
+    },
+    {
+      "index": 180,
+      "title": "Time Management: Working from Home",
+      "instructor": "Dave Crenshaw",
+      "date_completed": "2022-10-28",
+      "date": [
+        {
+          "$date": "2022-10-28T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Working from home is a wonderful opportunity, but time management can be a challenge. With so many demands on your time and attention, it's a tricky balancing act to stay productive. In this course, author and productivity expert Dave Crenshaw offers best practices for anyone who works full time or occasionally from home. Dave begins by showing how to set up a dedicated workspace for maximum productivity, including tips on setting up your computer to ensure you stay focused. Then Dave walks through how to craft your daily schedule for peak productivity and plan meaningful breaks to avoid burnout. He explains how to collaborate with remote coworkers, including how to use virtual meetings productively. Get advice for working parents and other caregivers who might be balancing professional and personal responsibilities in the home.  Note: This course was featured in Market Watch, Inc., Fortune, Forbes, and Entrepreneur.",
+      "objectives": [
+        "Create a productive environment by limiting distractions.",
+        "Evaluate and choose the best technology to increase your productivity.",
+        "Differentiate between constant effort and a healthy working rhythm.",
+        "Define expectations around communication while remaining responsive.",
+        "Identify the benefits of relationship building.",
+        "Learn how to manage interruptions and emergencies at home."
+      ],
+      "skills": ["Time Management"],
+      "comments": "Another course from one of my assigned LinkedIn Learning Paths for Onboarding.",
+      "url": "https://www.linkedin.com/learning/time-management-working-from-home",
+      "certs": [
+        "CertificateOfCompletion_TimeManagement-WorkingFromHome_LI.pdf",
+        "CertificateOfCompletion_TimeManagement-WorkingFromHome_NASBA.pdf",
+        "CertificateOfCompletion_TimeManagement-WorkingFromHome_PMI.pdf"
+      ]
+    },
+    {
       "index": 179,
       "title": "Customer Service: Call Control Strategies",
       "instructor": "Myra Golden",
