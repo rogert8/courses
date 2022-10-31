@@ -1,6 +1,35 @@
 {
   "courses": [
     {
+      "index": 182,
+      "title": "Improving Your Listening Skills",
+      "instructor": "Dorie Clark",
+      "date_completed": "2022-10-30",
+      "date": [
+        {
+          "$date": "2022-10-30T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Just as public speaking is a skill that you can hone through practice, good listeners aren't in possession of a special, unattainable gift—careful listening is a skill that you can learn. In this course, join career expert Dorie Clark as she helps uncover why it's hard to listen well, and how to develop the mindset of a good listener. She also provides multiple listening strategies to help you manage when you're the one not being listened to, how to keep yourself from interrupting, and how to listen to what's not being said. In addition, she explains how to let others know that they've been heard, and how to listen when someone is annoying. ",
+      "objectives": [
+        "Describe common challenges to listening.",
+        "Identify signs of poor listening.",
+        "List effective strategies to recapture attention.",
+        "Adopt the mindset of listening.",
+        "Outline the structure of meaningful listening.",
+        "Describe how to keep yourself from interrupting.",
+        "Explain how to let someone know you've heard them."
+      ],
+      "skills": ["Active Listening"],
+      "comments": "Another course from one of my assigned LinkedIn Learning Paths for Onboarding.",
+      "url": "https://www.linkedin.com/learning/improving-your-listening-skills",
+      "certs": [
+        "CertificateOfCompletion_ImprovingYourListeningSkills_LI.pdf",
+        "CertificateOfCompletion_ImprovingYourListeningSkills_NASBA.pdf",
+        "CertificateOfCompletion_ImprovingYourListeningSkills_PMI.pdf"
+      ]
+    },
+    {
       "index": 181,
       "title": "Using Microsoft Teams and Outlook Together: Maximizing Productivity",
       "instructor": "Gini von Courter",
