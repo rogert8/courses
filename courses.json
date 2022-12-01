@@ -1,5 +1,22 @@
 [
   {
+    "index": 184,
+    "title": "Creating API Documentation",
+    "instructor": "Deepa Maddala",
+    "date_completed": "2022-11-30",
+    "date": [
+      {
+        "$date": "2022-11-30T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "With so many APIs on the market, it’s hard to keep track of what’s what. For programmers, analysts, architects, and technical writers who work with APIs every day, you can’t overstate the importance of documentation that’s clear, concise, and easy to use. In this course, instructor and developer Deepa Maddala shows you how to create effective and approachable API documentation based on current best practices and integrated tools.<br /><br />Learn the fundamentals of APIs and the importance of writing standardized API documentation. Explore the components of effective documentation including name, description, endpoints, authorization, parameters, headers, and request and response payloads. Along the way, Deepa gives you tips on how to integrate your documentation with tools like Swagger, Postman, and Confluence.",
+    "objectives": null,
+    "skills": ["API Documentation"],
+    "comments": "I had barely started taking this course when I was assigned several other courses here for Onboarding. So this one got moved to the wayside a bit. I noticed it still sitting in my <i>In Progress</i> list, and since it was a pretty short course, thought that I'd knock it out.<br />Along with the <a href=\"https://www.linkedin.com/learning/learn-api-documentation-with-json-and-xml\" target=\"_blank\"><i>Learn API Documentation with JSON and XML</i></a> course here that I completed a while back, these two courses serve as a good intro to API Documentation.",
+    "url": "https://www.linkedin.com/learning/creating-api-documentation",
+    "certs": ["CertificateOfCompletion_CreatingAPIDocumentation_LI.pdf"]
+  },
+  {
     "index": 183,
     "title": "Advanced SQL for Query Tuning and Performance Optimization",
     "instructor": "Dan Sullivan",
