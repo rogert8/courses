@@ -1,6 +1,34 @@
 {
   "courses": [
     {
+      "index": 186,
+      "title": "Outlook: Time Management with Calendar and Tasks",
+      "instructor": "Gini von Courter",
+      "date_completed": "2022-12-27",
+      "date": [
+        {
+          "$date": "2022-12-27T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Learn how to use Outlook's robust calendar and task management features to better organize your work. Outlook expert Gini von Courter explains how to break down your to-do list and prioritize work—valuable time-management techniques that can serve you in any application—and then use different Outlook features to handle each type of task. She shows how to use the Outlook calendar to handle both business and personal schedules, from making appointments for yourself to creating meetings with others. She discusses the difference between Outlook tasks and to-do lists and explains how to create, delegate, and track tasks, as well as send status updates to task owners. She also explains how to use flags to provide visual reminders and add due dates to high-priority emails and tasks.  Note: This course was recorded in Office 365, but anyone using a recent version of Outlook—including 2019, 2016, and some earlier versions—will be able to follow along.",
+      "objectives": [
+        "Prioritizing work with Outlook",
+        "Estimating the time for tasks and email",
+        "Creating an appointment, event, or meeting",
+        "Creating recurring meetings",
+        "Flagging items",
+        "Applying categories to tasks and to-do items",
+        "Creating tasks from email or from scratch",
+        "Completing a task and sending an update"
+      ],
+      "skills": ["Microsoft Outlook", "Time Management"],
+      "comments": "Another Onboarding course.",
+      "url": "https://www.linkedin.com/learning/outlook-time-management-with-calendar-and-tasks",
+      "certs": [
+        "CertificateOfCompletion_OutlookTimeManagementWithCalendarAndTasks_LI.pdf"
+      ]
+    },
+    {
       "index": 185,
       "title": "Programming Foundations: Databases",
       "instructor": "Scott Simpson",
