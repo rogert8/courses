@@ -1,6 +1,53 @@
 {
   "courses": [
     {
+      "index": 188,
+      "title": "Accounting Foundations: Bookkeeping",
+      "instructor": "Earl Stice and Jim Stice",
+      "date_completed": "2023-01-31",
+      "date": [
+        {
+          "$date": "2022-01-31T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Bookkeeping is about collecting information, recording events, and organizing those records to make better decisions. Accountants use the financial transactions recorded in ledgers or \"books\" to create a company's income statement and balance sheet. In this course, accounting professors Jim and Kay Stice walk you through the four key steps in the bookkeeping process: analyzing transactions, recording the effects, summarizing the effects, and preparing financial reports. They explain the components of a journal entry—debits and credits—and the essential questions a bookkeeper/accountant asks in reviewing those transactions. They also explain how accountants translate ledger information into financial statements and the role of computer programs in helping businesses manage their accounts.",
+      "objectives": [
+        "Identify how a balance sheet reflects the accounting equation.",
+        "Name the account where debits are increases and credits are decreases.",
+        "Define a journal.",
+        "List the three things, in order, that you must address when making journal entries.",
+        "Explain the function of financial statements that is most important for entrepreneurs.",
+        "Assess the purpose of a trial balance."
+      ],
+      "skills": ["Bookkeeping"],
+      "comments": "An optionally-assigned course from my Onboarding -<br />My accounting knowledge was pretty much what I had absorbed while supporting accounting applications in the past. <br />And as I support a financial module in our software product, I wanted to learn some more - to help understand how the module fits in with the other financial modules, and why it does what it does.<br />I completed an internal Accounting 101 course and thought that it would be helpful to get down into the nitty-gritty a bit more as this course does.",
+      "url": "https://www.linkedin.com/learning/accounting-foundations-bookkeeping-2",
+      "certs": [
+        "CertificateOfCompletion_AccountingFoundations-Bookkeeping_LI.pdf",
+        "CertificateOfCompletion_AccountingFoundations-Bookkeeping_NASBA.pdf"
+      ]
+    },
+    {
+      "index": 187,
+      "title": "Root Cause Analysis: Getting to the Root of Business Problems",
+      "instructor": "Sam Yankelevitch",
+      "date_completed": "2023-01-31",
+      "date": [
+        {
+          "$date": "2023-01-31T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Problems are nothing new, but how do we get to the root causes of the problems and fix them? In this course, Sam Yankelevitch addresses root cause analysis and how you can make it work for your business. Sam defines root cause analysis (RCA) and explains how to work with others to find root causes. He describes how to build a Pareto chart to separate vital causes from trivial ones, then goes into the Is/Is Not method, process mapping, fishbone diagrams, five whys analysis, and more. Sam discusses how you can combine different root cause analysis methods and offers tips and suggestions to make your root cause analysis process more effective and efficient. He finishes up with an exploration of the importance of RCA for your business.",
+      "objectives": null,
+      "skills": ["Business Analysis", "Root Cause Analysis"],
+      "comments": null,
+      "url": "https://www.linkedin.com/learning/root-cause-analysis-getting-to-the-root-of-business-problems",
+      "certs": [
+        "CertificateOfCompletion_RootCauseAnalysisGettingToTheRootOfBusinessProblems_LI.pdf",
+        "CertificateOfCompletion_RootCauseAnalysisGettingToTheRootOfBusinessProblems_PMI.pdf"
+      ]
+    },
+    {
       "index": 186,
       "title": "Outlook: Time Management with Calendar and Tasks",
       "instructor": "Gini von Courter",
