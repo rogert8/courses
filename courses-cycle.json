@@ -1,6 +1,23 @@
 {
   "courses": [
     {
+      "index": 190,
+      "title": "AI Trends",
+      "instructor": "Vilas Dhar, Xavier Amatriain, and Ray Villalobos",
+      "date_completed": "2023-05-08",
+      "date": [
+        {
+          "$date": "2023-05-08T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "AI has shifted swiftly from the realm of science fiction to everyday use, but of the multitude of tools and technologies now available, which ones are best suited to your workflows and organization? In this course, industry experts guide you through the AI products and concepts that are out there and how to identify what is most likely to benefit your organization.  Learn about generative artificial intelligence, prompt engineering, GPT-4, and ChatGPT. Plus, explore AI tools and capabilities like GitHub Copilot and facial recognition. Get started identifying the best ways to bring AI into your organization!",
+      "objectives": null,
+      "skills": ["Generative AI", "Artificial Intelligence (AI)"],
+      "comments": "I saw that a former coworker had taken some AI courses here, including this one. Wanting an intro, I queued up a couple of those courses.<br />This is a good intro/survey course, covering current tools and technologies.",
+      "url": "https://www.linkedin.com/learning/ai-trends/welcome-to-ai-trends",
+      "certs": ["CertificateOfCompletion_AITrends_LI.pdf"]
+    },
+    {
       "index": 189,
       "title": "Goal Setting: Objectives and Key Results (OKRs)",
       "instructor": "Jessie Withers",
