@@ -1,5 +1,22 @@
 [
   {
+    "index": 191,
+    "title": "Introduction to Conversational AI",
+    "instructor": "Ian Barkin",
+    "date_completed": "2023-06-12",
+    "date": [
+      {
+        "$date": "2023-06-12T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "The use of AI in consumer and enterprise environments is exploding—and conversational AI is leading the way. Conversational AI is part of the intelligent automation spectrum of technologies used to digitize and transform operations, customer support, sales, and interactions with enterprise technologies. In this course, instructor Ian Barkin puts it all into context, situating conversational AI with its historical predecessor technologies and introducing the new technology stack: natural language processing, automatic speech recognition, and natural language understanding.<br /><br />Explore the different types and benefits of conversational AI tools, with real-world examples drawn from enterprise experiences to highlight the ways in which this powerful technology has been deployed. From modern conversational AI channels and platforms to using AI chatbots in practice, by the end of this course, you’ll be equipped with highly sought-after skills to create better AI strategies for your teams.",
+    "objectives": null,
+    "skills": ["Generative AI", "Conversational AI"],
+    "comments": "Another AI course that I saw a former coworker had taken.",
+    "url": "https://www.linkedin.com/learning/introduction-to-conversational-ai",
+    "certs": ["CertificateOfCompletion_IntroductionToConversationalAI_LI.pdf"]
+  },
+  {
     "index": 190,
     "title": "AI Trends",
     "instructor": "Vilas Dhar, Xavier Amatriain, and Ray Villalobos",
