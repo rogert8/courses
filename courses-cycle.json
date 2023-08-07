@@ -1,6 +1,30 @@
 {
   "courses": [
     {
+      "index": 192,
+      "title": "Advanced SQL – Window Functions",
+      "instructor": "Ami Levin",
+      "date_completed": "2022-08-06",
+      "date": [
+        {
+          "$date": "2022-08-06T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Window functions are one of the most radical, fundamental enhancements to modern SQL. They allow access to neighboring rows without using subqueries, thus enabling amazing opportunities for concise, elegant, high-performing solutions.  This course teaches the foundations and intricacies of window function processing and how to use it to implement practical solutions to everyday challenges. You can learn how to use different constructs and advanced solution techniques and how to utilize the declarative and composable nature of SQL and its processing order. By the end of the course you’ll better understand the fundamental pros and cons of each method.  This course was created by Ami Levin. We are pleased to offer this training in our library.",
+      "objectives": [
+        "The OVER and FILTER clauses",
+        "Framing, exclusions, and shortcuts",
+        "Aggregate window functions",
+        "Rank window functions",
+        "Distribution window functions",
+        "Offset window functions"
+      ],
+      "skills": ["SQL"],
+      "comments": "Window Functions are are powerful tools that, while potentially complex, can lead to clear, efficient queries.  As PostgreSQL currently has a larger set of Window (and associated) Functions than T-SQL, we used the PostgreSQL DBMS, via Azure Data Studio, with a PostgreSQL extension.",
+      "url": "https://www.linkedin.com/learning/advanced-sql-window-functions",
+      "certs": ["CertificateOfCompletion_AdvancedSQL-WindowFunctions_LI.pdf"]
+    },
+    {
       "index": 191,
       "title": "Introduction to Conversational AI",
       "instructor": "Ian Barkin",
