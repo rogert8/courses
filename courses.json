@@ -1,5 +1,24 @@
 [
   {
+    "index": 193,
+    "title": "Advanced SQL: Logical Query Processing, Part 2",
+    "instructor": "Ami Levin",
+    "date_completed": "2023-11-13",
+    "date": [
+      {
+        "$date": "2022-11-13T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Without an understanding of the underlying concepts behind SQL, developers will encounter a number of challenges that slow down their workflow. This course—the second installment in a series—was designed to help you avoid these common pitfalls and understand SQL's processing limitations. Join instructor Ami Levin as he continues to delve into logical query processing. Learn how expression, table, and row subqueries are processed. Discover self joins, their unique requirements, and when you might use them. Plus, learn how to use lateral joins, recursive WITH clauses, and more.<br /><br />This course was created by Ami Levin. We are pleased to offer this training in our library.",
+    "objectives": null,
+    "skills": ["SQL"],
+    "comments": "Some of this was pretty intense. I enjoyed the section on Recursions, since I'd never used recursion in SQL. And I was looking forward to the section on Cursors, since I had to resort to using them for a project several years ago. And I guess 'resort' is the right word, since the instructor, while he hates cursors in SQL, concedes that they may have a place as \"a last resort solution.\" Which it was, for me at the time, so I guess we're on the same page there.<br /><br />We used Azure Data Studio, which also works with PostgreSQL, as the instructor provided PostgreSQL examples along with the T-SQL.",
+    "url": "https://www.linkedin.com/learning/advanced-sql-logical-query-processing-part-2",
+    "certs": [
+      "CertificateOfCompletion_AdvancedSQL-LogicalQueryProcessing_Part2_LI.pdf"
+    ]
+  },
+  {
     "index": 192,
     "title": "Advanced SQL – Window Functions",
     "instructor": "Ami Levin",
