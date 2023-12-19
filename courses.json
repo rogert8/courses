@@ -1,5 +1,33 @@
 [
   {
+    "index": 194,
+    "title": "Advanced SQL for Application Development",
+    "instructor": "Dan Sullivan",
+    "date_completed": "2023-12-18",
+    "date": [
+      {
+        "$date": "2023-12-18T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Many applications require a relational database. But poorly designed data architecture and poorly written SQL can result in subpar performance, unreliable services, and difficulty scaling. This course includes hands-on examples and lessons that show how to build scalable and resilient databases to support any application. Learn how to write optimized SQL for transaction processing, use indexes to reduce read latency, partition data to improve scalability, and use established design patterns. Instructor Dan Sullivan also explores object relational mapping and shows how to respond to database errors such as query timeouts and refused connections. After completing this course, you will be able to design robust database applications that can scale to meet increasingly demanding workloads.",
+    "objectives": [
+      "Creating tables and loading data",
+      "Parameterizing SELECT statements",
+      "Indexing tables",
+      "Object relational mapping",
+      "Partitioning",
+      "Error trapping",
+      "Monitoring and logging",
+      "Automated schema migration"
+    ],
+    "skills": ["Application Development", "SQL"],
+    "comments": "This is a good course that covers various areas related to using SQL and managing/mintaining and using databases in applications.<br />We used a PostgreSQL database, and the pgAdmin4 UI to manage it. And we coded to the database using Python, via Jupyter Notebooks.<br />The course offers a good discussion about different types of Indexes. And it covered Object-Relational Mapping (ORM), which I've dealt with in other courses here.<br />It also covered different types of partitioning, that I'd learned about and also used in other courses here.",
+    "url": "https://www.linkedin.com/learning/advanced-sql-for-application-development",
+    "certs": [
+      "CertificateOfCompletion_AdvancedSQLForApplicationDevelopment_LI.pdf"
+    ]
+  },
+  {
     "index": 193,
     "title": "Advanced SQL: Logical Query Processing, Part 2",
     "instructor": "Ami Levin",
