@@ -1,6 +1,29 @@
 {
   "courses": [
     {
+      "index": 195,
+      "title": "How to Boost Your Productivity with AI Tools",
+      "instructor": "Dave Birss",
+      "date_completed": "2024-02-10",
+      "date": [
+        {
+          "$date": "2024-02-10T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Generative AI tools have made a big impact on business in a short period of time. Many people are using them to make their jobs easier and to help them produce even better work. But it can be hard to know where to begin. Join Dave Birss, innovator and AI expert, as he practically demonstrates how to collaborate with AI tools in the best way. He shares a framework to help you understand how you can incorporate AI into your everyday tasks. He also shares a number of useful prompts that can streamline tasks and help you achieve even better results.  This course was created by Dave Birss. We are pleased to offer this training in our library.",
+      "objectives": null,
+      "skills": [
+        "Artificial Intelligence for Business",
+        "Productivity Improvement"
+      ],
+      "comments": "Wow, what an enlightening course!<br />I had no idea of the breadth of the capabilities of Generative AI -<br />While I've used it at work some, I'd only used it more like a Knowledge Base, looking for answers about problems, or where features are found etc.<br />I did NOT know that one could enter, for example, direction about what all to cover, how detailed, and how to present the output, etc.<br />So now, I'm keeping an eye out for areas that I could create prompts for, that will be repeatedly useful.",
+      "url": "https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools",
+      "certs": [
+        "CertificateOfCompletion_HowToBoostYourProductivityWithAITools_LI.pdf",
+        "CertificateOfCompletion_HowToBoostYourProductivityWithAITools_PMI.pdf"
+      ]
+    },
+    {
       "index": 194,
       "title": "Advanced SQL for Application Development",
       "instructor": "Dan Sullivan",
