@@ -1,6 +1,29 @@
 {
   "courses": [
     {
+      "index": 196,
+      "title": "How to Research and Write Using Generative AI Tools",
+      "instructor": "Dave Birss",
+      "date_completed": "2024-04-05",
+      "date": [
+        {
+          "$date": "2024-04-05T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "You’ve probably already heard about ChatGPT, but did you know it can make you better at your job? Join instructor Dave Birss for a crash course in generative AI and learn how to get started with prompt engineering for ChatGPT and other AI chatbots to upskill as a researcher and a writer.  Dave shows you how to create effective prompts that deliver high-quality, task-relevant results. Get an overview of some of the key considerations of working with generative AI with hands-on, practical strategies to improve your research and writing. Find out how to summarize complex information, view subjects from multiple perspectives, build user personas and strategic models, analyze writing style, outline ideas, and generate new content. By the end of this course, you’ll be ready to leverage the power of ChatGPT and other chatbots to deliver more consistent writing outcomes every time.  Note: This course was created by Dave Birss. We are pleased to host this training in our library.",
+      "objectives": null,
+      "skills": [
+        "Artificial Intelligence for Design",
+        "Writing",
+        "Research Skills"
+      ],
+      "comments": "Another great course on Generative AI from Dave Birss!<br />In this one, he emphasizes where and when to provide more/a lot of info to the engine, and also how to keep drilling down into, and expanding on its prior responses.",
+      "url": "https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools",
+      "certs": [
+        "CertificateOfCompletion_HowToResearchAndWriteUsingGenerativeAITools_LI.pdf"
+      ]
+    },
+    {
       "index": 195,
       "title": "How to Boost Your Productivity with AI Tools",
       "instructor": "Dave Birss",
@@ -16,7 +39,7 @@
         "Artificial Intelligence for Business",
         "Productivity Improvement"
       ],
-      "comments": "Wow, what an enlightening course!<br />I had no idea of the breadth of the capabilities of Generative AI -<br />While I've used it at work some, I'd only used it more like a Knowledge Base, looking for answers about problems, or where features are found etc.<br />I did NOT know that one could enter, for example, direction about what all to cover, how detailed, and how to present the output, etc.<br />So now, I'm keeping an eye out for areas that I could create prompts for, that will be repeatedly useful.",
+      "comments": "Wow, what an enlightening course!<br />I had no idea of the breadth of the capabilities of Generative AI -<br />While I've used it at work some, I'd only used it more like a Knowledge Base, looking for answers about problems, or where features are found, etc.<br />I did NOT know that one could enter, for example, direction about what all to cover, how detailed, and how to present the output, etc.<br />So now, I'm keeping an eye out for areas that I could create prompts for, that will be repeatedly useful.",
       "url": "https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools",
       "certs": [
         "CertificateOfCompletion_HowToBoostYourProductivityWithAITools_LI.pdf",
