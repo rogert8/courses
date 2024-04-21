@@ -1,5 +1,32 @@
 [
   {
+    "index": 197,
+    "title": "Controlling ChatGPT with Custom Instructions or API System Messages",
+    "instructor": "Morten Rand-Hendriksen",
+    "date_completed": "2024-04-21",
+    "date": [
+      {
+        "$date": "2024-04-21T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Custom Instructions in ChatGPT allow you to provide additional context and even format the type of response you want from the system every time you interact with it. In the OpenAI Chat Completions API you can access the same functionality using the System and Assistant messages. In this short course, learn how to take advantage of these features to get more consistent and customizable responses from both systems.",
+    "objectives": [
+      "How to use Custom Instructions in ChatGPT",
+      "The difference between system and assistant instructions",
+      "How to use the system and assistant messages in the OpenAI Chat Completions API"
+    ],
+    "skills": [
+      "Generative AI",
+      "ChatGPT",
+      "Application Programming Interfaces (API)"
+    ],
+    "comments": "This course takes a slight bit of effort for the last section (the OpenAI API), as you will need to go get an API Key, and paste that into the settings.json file in the provided GitHub Codespace (VS Code).",
+    "url": "https://www.linkedin.com/learning/controlling-chatgpt-with-custom-instructions-or-api-system-messages",
+    "certs": [
+      "CertificateOfCompletion_ControllingChatGPTWithCustomInstructionsOrAPISystemMessages_LI.pdf"
+    ]
+  },
+  {
     "index": 196,
     "title": "How to Research and Write Using Generative AI Tools",
     "instructor": "Dave Birss",
