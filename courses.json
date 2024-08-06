@@ -1,5 +1,32 @@
 [
   {
+    "index": 199,
+    "title": "Ethics in the Age of Generative AI",
+    "instructor": "Vilas Dhar",
+    "date_completed": "2024-08-05",
+    "date": [
+      {
+        "$date": "2024-08-05T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "The amazing potential and opportunity of Generative AI has also brought ethical concerns. How can you address these concerns effectively as you deploy tools and products powered by generative AI? In this course, expert Vilas Dhar equips designers and decision makers to better understand and act on the emerging ethical risks and considerations of generative artificial intelligence. Get a solid introduction to the ethical concerns around generative AI, then learn how to use a framework of ethical analysis to address these concerns. Plus, explore ways you can prepare your organization to address ethics in AI across all stakeholders from technology to C-Suite leaders.",
+    "objectives": [
+      "Distinguish between AI tools and the impact they can have on responsible and ethical behavior.",
+      "Apply Vilas’s three-pillar ethical framework.",
+      "Articulate the best approach for preparing technology teams to make ethical decisions.",
+      "Differentiate the C-suite and board responsibilities for an ethical AI system.",
+      "Explain the importance of listening to the customer when building an AI system"
+    ],
+    "skills": ["Responsible AI", "Generative AI", "Computer Ethics"],
+    "comments": "",
+    "url": "https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai",
+    "certs": [
+      "CertificateOfCompletion_EthicsInTheAgeOfGenerativeAI_LI.pdf",
+      "CertificateOfCompletion_EthicsInTheAgeOfGenerativeAI_NASBA.pdf",
+      "CertificateOfCompletion_EthicsInTheAgeOfGenerativeAI_PMI.pdf"
+    ]
+  },
+  {
     "index": 198,
     "title": "How to Follow Up on a Job Application",
     "instructor": "Madeline Mann",
