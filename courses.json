@@ -1,5 +1,26 @@
 [
   {
+    "index": 200,
+    "title": "ChatGPT Prompts for Jobseekers",
+    "instructor": "Dave Birss",
+    "date_completed": "2024-08-15",
+    "date": [
+      {
+        "$date": "2024-08-15T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "If you’ve ever looked for a job—or had to leave one—you probably got advice from friends, family, and coworkers about how to apply, what companies to pursue employment with, how to interview, and how to tweak your resume for each position. Undoubtedly, some advice is better than others, and often even bits of good advice contradict each other. In this course, Dave Birss shows you how to use artificial intelligence to streamline your job-searching efforts, giving you prompts that can help you apply for jobs more effectively and reduce the amount of time it takes you to do that. Dave shows you how ChatGPT can help you improve your LinkedIn profile, tailor your resume to specific roles, and highlight your skills in the best way possible. He also shows you how to research companies to see if they’re performing well and if they’re a good fit, how to prepare for interviews by anticipating tricky questions, and even how to make a pivot to a new career or start your own business.",
+    "objectives": [""],
+    "skills": [
+      "Artificial Intelligence for Business",
+      "Job Search Strategies",
+      "ChatGPT"
+    ],
+    "comments": "Another great AI/ChatGPT course by Dave Birss.<br />He provides some useful prompts that I am planning to work with, for example, one for tailoring a CV for a particular role.<br />During my prior stretch of unemployment, and went back and forth on using my generic one, and specifically tailoring. I did not conclude whether the tailoring, which of course takes time, was worth the effort. But the provided prompt could speed that up, so I am going to explore it.<br />The prompt for writing a cover letter looks useful as well. This could save one from generating a cover letter from scratch each time (although I had taken to, after writing several, starting with one of those for a similar role, and modifying it).<br />Other useful prompts from the course, which I plan to use, pertain to learning about job roles (what they are), generating a company summary, and discovering recent news about a company.",
+    "url": "https://www.linkedin.com/learning/chatgpt-prompts-for-jobseekers",
+    "certs": ["CertificateOfCompletion_ChatGPTPromptsForJobseekers_LI.pdf"]
+  },
+  {
     "index": 199,
     "title": "Ethics in the Age of Generative AI",
     "instructor": "Vilas Dhar",
