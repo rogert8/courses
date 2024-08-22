@@ -1,5 +1,52 @@
 [
   {
+    "index": 202,
+    "title": "Copilot for Windows: Leveraging your PC's AI Assistant",
+    "instructor": "Nick Brazzi",
+    "date_completed": "2024-08-22",
+    "date": [
+      {
+        "$date": "2024-08-22-08T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Copilot for Windows, Microsoft’s new AI-powered desktop assistant, can help you save time and stay focused. Built right in the Windows interface, Copilot can respond to requests and provide you with answers and ideas from across the web. In this concise course, Nick Brazzi shows how to use Copilot to configure Windows settings, launch apps, and generate drafts of text and images using natural language prompts. (Note: Copilot for Windows is currently in preview. Some features will be changed or added during the preview period.)",
+    "objectives": [
+      "Use Copilot to adjust Windows system settings",
+      "Create drafts and generate pictures with AI",
+      "Get summaries and find information from websites"
+    ],
+    "skills": ["Microsoft Copilot", "Artificial Intelligence for Business"],
+    "comments": null,
+    "url": "https://www.linkedin.com/learning/copilot-for-windows-leveraging-your-pc-s-ai-assistant",
+    "certs": [
+      "CertificateOfCompletion_CopilotForWindows-LeveragingYourPCsAIAssistant_LI.pdf"
+    ]
+  },
+  {
+    "index": 201,
+    "title": "What is Copilot? Get Started with Microsoft's Everyday AI Companion",
+    "instructor": "Nick Brazzi",
+    "date_completed": "2024-08-21",
+    "date": [
+      {
+        "$date": "2024-08-21T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Microsoft offers a number of AI-powered tools under the Copilot umbrella that all streamline your work, but vary in where they can be accessed and what subscription is required. In this short course, Nick Brazzi demystifies the various Copilot products and explains the different subscription options. You’ll get an overview of how to use Copilot on the web, in the Copilot mobile app, and in Microsoft 365 tools including Word, Excel, Outlook, and Teams.",
+    "objectives": [
+      "Understand the free options for Copilot",
+      "Clarify more robust options with a paid subscription",
+      "Use the Copilot chat assistant on the web",
+      "An overview of how Copilot is used inside Microsoft 365 applications"
+    ],
+    "skills": ["Microsoft Copilot", "Artificial Intelligence for Business"],
+    "comments": null,
+    "url": "https://www.linkedin.com/learning/what-is-copilot-get-started-with-microsoft-s-everyday-ai-companion",
+    "certs": [
+      "CertificateOfCompletion_WhatIsCopilot-GetStartedWithMicrosoftsEverydayAICompanion_LI.pdf"
+    ]
+  },
+  {
     "index": 200,
     "title": "ChatGPT Prompts for Jobseekers",
     "instructor": "Dave Birss",
