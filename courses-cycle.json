@@ -1,6 +1,34 @@
 {
   "courses": [
     {
+      "index": 203,
+      "title": "Streamlining Your Work with Microsoft Copilot",
+      "instructor": "Nick Brazzi",
+      "date_completed": "2024-08-28",
+      "date": [
+        {
+          "$date": "2024-08-28T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Microsoft Copilot can help you streamline your entire workflow, from generating ideas and summarizing data to solving common work problems such as planning itineraries, scheduling, and communicating with others. Follow along with Nick Brazzi as he explains how to boost your productivity using Copilot. Learn how chat AI tools function and dive into how to put them to work for you. By the end of this course, you’ll be ready to perform robust online searches, generate ideas, compose text, automate your work, fact-check the results, and more.",
+      "objectives": [
+        "Use the Copilot AI chat assistant to get answers to questions",
+        "Use Copilot to compose new text",
+        "Create and analyze images",
+        "Understand where AI data comes from"
+      ],
+      "skills": [
+        "Microsoft Copilot",
+        "Artificial Intelligence for Business",
+        "Productivity Improvement"
+      ],
+      "comments": null,
+      "url": "https://www.linkedin.com/learning/streamlining-your-work-with-microsoft-copilot",
+      "certs": [
+        "CertificateOfCompletion_StreamliningYourWorkWithMicrosoftCopilot_LI.pdf"
+      ]
+    },
+    {
       "index": 202,
       "title": "Copilot for Windows: Leveraging your PC's AI Assistant",
       "instructor": "Nick Brazzi",
