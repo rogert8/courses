@@ -1,6 +1,25 @@
 {
   "courses": [
     {
+      "index": 205,
+      "title": "Introducing Semantic Kernel: Building AI-Based Apps",
+      "instructor": "John Maeda and Sam Schillace",
+      "date_completed": "2024-11-18",
+      "date": [
+        {
+          "$date": "2024-11-18T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "The future of AI is finally here, and it’s a gamechanger for software developers. Explore the possibilities of Semantic Kernel (SK), the new face of AI-powered development, packaged in a lightweight, easy-to-use, multilayered software development kit. Get up and running quickly with SK, the latest addition to the Microsoft AI ecosystem that enables developers to integrate LLM AI capabilities easily into their apps.  Join award-winning designer and engineer, John Maeda, and deputy CTO of Microsoft, Sam Schillace, for an overview of this exciting new release, explore its core functionalities, and find out how to get started. Bonus footage covers a couple of sample apps available in the repo and an interview with Sam to help you get up and running. By the end of this course, you’ll be ready to start tweaking your workflow using AI models to improve your efficiency and speed.",
+      "objectives": null,
+      "skills": ["Generative AI", "AI Software Development", "Semantic Kernel"],
+      "comments": "",
+      "url": "https://www.linkedin.com/learning/introducing-semantic-kernel-building-ai-based-apps",
+      "certs": [
+        "CertificateOfCompletion_IntroducingSemanticKernel-BuildingAIBasedApps_LI.pdf"
+      ]
+    },
+    {
       "index": 204,
       "title": "Introduction to Responsible AI Algorithm Design",
       "instructor": "Martin Kemka",
