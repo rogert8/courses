@@ -1,5 +1,22 @@
 [
   {
+    "index": 206,
+    "title": "Learning Splunk",
+    "instructor": "Josh Samuelson",
+    "date_completed": "2024-11-27",
+    "date": [
+      {
+        "$date": "2024-11-27T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Splunk is a tool for analyzing and searching incoming data like application or database logs. In this course, learn the basics of how Splunk works. Join instructor Josh Samuelson as he explores the search and reporting features, and shows how to set up alerts so that you can catch potential problems before they become critical. He also explains how to set up some handy dashboards to get a quick view of the state of your systems, and wraps up with some high-level discussion of important areas like log management, APM, security, and more.",
+    "objectives": [""],
+    "skills": ["Data Monitoring", "Splunk"],
+    "comments": "What a GREAT tool Splunk is for dealing with (searching/analyzing) logs (application, database, etc.), from various sources, in one central place!<br />And this is a great course &mdash; <br />We covered the searching capabilities, along with its reporting and visualization. We also covered creating Dashboards from those, as well as Alerts.<br />The instructor provided files to create a Docker container to generate the logs we used, as well as containers for two Web servers generating logs, so that we could use logs from different sources at once.",
+    "url": "https://www.linkedin.com/learning/learning-splunk-22169111",
+    "certs": ["CertificateOfCompletion_LearningSplunk_LI.pdf"]
+  },
+  {
     "index": 205,
     "title": "Introducing Semantic Kernel: Building AI-Based Apps",
     "instructor": "John Maeda and Sam Schillace",
