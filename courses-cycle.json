@@ -1,6 +1,23 @@
 {
   "courses": [
     {
+      "index": 207,
+      "title": "DBeaver Essential Training",
+      "instructor": "Adam Wilbert",
+      "date_completed": "2024-12-14",
+      "date": [
+        {
+          "$date": "2024-12-14T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Are you looking for an alternative to your database platform’s native tools? DBeaver is the universal database client that allows you to work with a wide variety of data platforms from a single interface. In this course, database expert Adam Wilbert shows you how to leverage this powerful tool. Adam gives you a tour of the interface and explains how to create your own database connections and add a PostgreSQL connection. He steps through how to use projects to organize your workspace, as well as the views, filters, and panels you might use when working with tabular data. After exploring how to create and modify database objects and structures, Adam covers how to configure, save, and print an entity relationship (ER) diagram. He offers useful tips on writing commands with the SQL Editor, then concludes with a discussion of some additional features that you might use in the Enterprise Edition.",
+      "objectives": null,
+      "skills": ["DBeaver"],
+      "comments": "DBeaver is a GREAT Universal Database Client/Manager, where you can connect various data sources, and work with them in the same or in a similar manner.  You can organize into Projects, which can hold Connections, and Bookmarks (e.g., to Prod and Dev versions of tables), as well as to other resources, such as logos, PDF reports, etc.    This is a LONG course, but very enjoyable.    We used the free Community Edition of the product, where it is easy to create databases, tables, and other database objects.<br />And there are nice, useful features in the SQL console/editor.  There is also a plug-in available to use the ChatGPT AI to make English-like queries.    I also downloaded the Enterprise Edition, to use the two-week free trial license to see the additional features in the commercial product, such as Charts, the Visual Query Editor, and the Generate Mock Data feature, for testing during development.  I also added a Connection for a MongoDB database (only available in the Enterprise Edition) to my local LinkedIn Learning Courses database, and updated its data.",
+      "url": "https://www.linkedin.com/learning/dbeaver-essential-training",
+      "certs": ["CertificateOfCompletion_DBeaverEssentialTraining_LI.pdf"]
+    },
+    {
       "index": 206,
       "title": "Learning Splunk",
       "instructor": "Josh Samuelson",
