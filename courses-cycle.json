@@ -1,6 +1,23 @@
 {
   "courses": [
     {
+      "index": 208,
+      "title": "GitHub Codespaces for Students",
+      "instructor": "David Teather",
+      "date_completed": "2024-12-26",
+      "date": [
+        {
+          "$date": "2024-12-26T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Did you know that GitHub Codespaces can help improve your day-to-day life as a student? Even though it’s still relatively new, Codespaces is full of new and exciting opportunities for learning—for students and teachers alike. In this course, instructor David Teather provides a comprehensive, hands-on introduction to Codespaces, showcasing all the benefits it can bring to your projects.  Discover the fundamental skills you need to know to get the most out of this powerful tool, including how to configure a codespace and code within a codespace, regardless of your background or previous experience. Along the way, explore a handful of examples that highlight successful student use cases. Upon completing this course, you’ll be equipped with the practical know-how to assess if using a codespace makes sense for you. This course is integrated with GitHub Codespaces, an instant cloud developer environment that offers all the functionality of your favorite IDE without the need for any local machine setup. With GitHub Codespaces, you can get hands-on practice from any machine, at any time—all while using a tool that you’ll likely encounter in the workplace.",
+      "objectives": null,
+      "skills": ["Codespaces", "GitHub"],
+      "comments": "I was taking another course here at LinkedIn Learning that used GitHub Codespaces, and I found that I wanted to know more about them before proceeding further with that course. So I paused that course and took this one. There is another, longer, Codespaces course here (for Enterprise), but this shorter one gave me the information that I was looking for at the moment.",
+      "url": "https://www.linkedin.com/learning/github-codespaces-for-students",
+      "certs": ["CertificateOfCompletion_GitHubCodespacesForStudents_LI.pdf"]
+    },
+    {
       "index": 207,
       "title": "DBeaver Essential Training",
       "instructor": "Adam Wilbert",

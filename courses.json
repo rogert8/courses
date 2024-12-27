@@ -1,5 +1,22 @@
 [
   {
+    "index": 208,
+    "title": "GitHub Codespaces for Students",
+    "instructor": "David Teather",
+    "date_completed": "2024-12-26",
+    "date": [
+      {
+        "$date": "2024-12-26T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "Did you know that GitHub Codespaces can help improve your day-to-day life as a student? Even though it’s still relatively new, Codespaces is full of new and exciting opportunities for learning—for students and teachers alike. In this course, instructor David Teather provides a comprehensive, hands-on introduction to Codespaces, showcasing all the benefits it can bring to your projects.<br /><br />Discover the fundamental skills you need to know to get the most out of this powerful tool, including how to configure a codespace and code within a codespace, regardless of your background or previous experience. Along the way, explore a handful of examples that highlight successful student use cases. Upon completing this course, you’ll be equipped with the practical know-how to assess if using a codespace makes sense for you.<br /><br />This course is integrated with GitHub Codespaces, an instant cloud developer environment that offers all the functionality of your favorite IDE without the need for any local machine setup. With GitHub Codespaces, you can get hands-on practice from any machine, at any time—all while using a tool that you’ll likely encounter in the workplace.",
+    "objectives": null,
+    "skills": ["Codespaces", "GitHub"],
+    "comments": "I was taking another course here at LinkedIn Learning that used GitHub Codespaces, and I found that I wanted to know more about them before proceeding further with that course.<br />So I paused that course and took this one.<br />There is another, longer, Codespaces course here (for Enterprise), but this shorter one gave me the information that I was looking for at the moment.",
+    "url": "https://www.linkedin.com/learning/github-codespaces-for-students",
+    "certs": ["CertificateOfCompletion_GitHubCodespacesForStudents_LI.pdf"]
+  },
+  {
     "index": 207,
     "title": "DBeaver Essential Training",
     "instructor": "Adam Wilbert",
@@ -27,7 +44,7 @@
       }
     ],
     "synopsis": "Splunk is a tool for analyzing and searching incoming data like application or database logs. In this course, learn the basics of how Splunk works. Join instructor Josh Samuelson as he explores the search and reporting features, and shows how to set up alerts so that you can catch potential problems before they become critical. He also explains how to set up some handy dashboards to get a quick view of the state of your systems, and wraps up with some high-level discussion of important areas like log management, APM, security, and more.",
-    "objectives": [""],
+    "objectives": null,
     "skills": ["Data Monitoring", "Splunk"],
     "comments": "What a GREAT tool Splunk is for dealing with (searching/analyzing) logs (application, database, etc.), from various sources, in one central place!<br />And this is a great course &mdash; <br />We covered the searching capabilities, along with its reporting and visualization. We also covered creating Dashboards from those, as well as Alerts.<br />The instructor provided files to create a Docker container to generate the logs we used, as well as containers for two Web servers generating logs, so that we could use logs from different sources at once.",
     "url": "https://www.linkedin.com/learning/learning-splunk-22169111",
@@ -46,7 +63,7 @@
     "synopsis": "The future of AI is finally here, and it’s a gamechanger for software developers. Explore the possibilities of Semantic Kernel (SK), the new face of AI-powered development, packaged in a lightweight, easy-to-use, multilayered software development kit. Get up and running quickly with SK, the latest addition to the Microsoft AI ecosystem that enables developers to integrate LLM AI capabilities easily into their apps.<br /><br />Join award-winning designer and engineer, John Maeda, and deputy CTO of Microsoft, Sam Schillace, for an overview of this exciting new release, explore its core functionalities, and find out how to get started. Bonus footage covers a couple of sample apps available in the repo and an interview with Sam to help you get up and running. By the end of this course, you’ll be ready to start tweaking your workflow using AI models to improve your efficiency and speed.",
     "objectives": null,
     "skills": ["Generative AI", "AI Software Development", "Semantic Kernel"],
-    "comments": "",
+    "comments": null,
     "url": "https://www.linkedin.com/learning/introducing-semantic-kernel-building-ai-based-apps",
     "certs": [
       "CertificateOfCompletion_IntroducingSemanticKernel-BuildingAIBasedApps_LI.pdf"
@@ -77,7 +94,7 @@
       "Algorithm Design",
       "Artificial Intelligence (AI)"
     ],
-    "comments": "",
+    "comments": null,
     "url": "https://www.linkedin.com/learning/introduction-to-responsible-ai-algorithm-design",
     "certs": [
       "CertificateOfCompletion_IntroductionToResponsibleAIAlgorithmDesign_LI.pdf",
@@ -119,7 +136,7 @@
     "date_completed": "2024-08-22",
     "date": [
       {
-        "$date": "2024-08-22-08T19:19:00.000Z"
+        "$date": "2024-08-22T19:19:00.000Z"
       }
     ],
     "synopsis": "Copilot for Windows, Microsoft’s new AI-powered desktop assistant, can help you save time and stay focused. Built right in the Windows interface, Copilot can respond to requests and provide you with answers and ideas from across the web. In this concise course, Nick Brazzi shows how to use Copilot to configure Windows settings, launch apps, and generate drafts of text and images using natural language prompts. (Note: Copilot for Windows is currently in preview. Some features will be changed or added during the preview period.)",
@@ -170,7 +187,7 @@
       }
     ],
     "synopsis": "If you’ve ever looked for a job—or had to leave one—you probably got advice from friends, family, and coworkers about how to apply, what companies to pursue employment with, how to interview, and how to tweak your resume for each position. Undoubtedly, some advice is better than others, and often even bits of good advice contradict each other. In this course, Dave Birss shows you how to use artificial intelligence to streamline your job-searching efforts, giving you prompts that can help you apply for jobs more effectively and reduce the amount of time it takes you to do that. Dave shows you how ChatGPT can help you improve your LinkedIn profile, tailor your resume to specific roles, and highlight your skills in the best way possible. He also shows you how to research companies to see if they’re performing well and if they’re a good fit, how to prepare for interviews by anticipating tricky questions, and even how to make a pivot to a new career or start your own business.",
-    "objectives": [""],
+    "objectives": null,
     "skills": [
       "Artificial Intelligence for Business",
       "Job Search Strategies",
@@ -199,7 +216,7 @@
       "Explain the importance of listening to the customer when building an AI system"
     ],
     "skills": ["Responsible AI", "Generative AI", "Computer Ethics"],
-    "comments": "",
+    "comments": null,
     "url": "https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai",
     "certs": [
       "CertificateOfCompletion_EthicsInTheAgeOfGenerativeAI_LI.pdf",
@@ -3220,7 +3237,7 @@
     "instructor": "Scott Simpson",
     "date_completed": "2021-06-05",
     "date": {
-      "$date": ["2021-06-05T13:00:00.000Z"]
+      "$date": "2021-06-05T13:00:00.000Z"
     },
     "synopsis": "Want to assess your SQL skills? These concise challenges let you stretch your brain and test your talents. Get hands-on practice querying and retrieving data, adding new tables to existing databases, updating data in multiple tables and multiple records, and presenting summary data. LinkedIn Learning staff instructor Scott Simpson structures each challenge in real-world scenarios: a restaurant website that takes reservations and online orders, and a library lending system. After each challenge, Scott shares his own solution. You can see how a professional programmer creates personalized, data-driven documents; handles sign-up data; deletes records; prepares reports; and more.",
     "objectives": [
@@ -3359,7 +3376,7 @@
     "date_completed": "2021-04-30",
     "date": [
       {
-        "$date": "2021-04-30T19::00.000Z"
+        "$date": "2021-04-30T19:19:00.000Z"
       }
     ],
     "synopsis": "Present your projects like a pro with a new tool, Jupyter Notebook. Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, charts and graphics, and descriptive text. It’s ideal for machine learning, statistical modeling, and other projects that require analysis and visualization. Join instructor Josh McQuiston as he shows how to run Jupyter notebooks, streamline workflows, and use common graphs to visualize your data in uncommon ways. The lessons are illustrated with examples based in real data, so you get an accurate picture of the real-world impact Jupyter can make on your development projects.",
@@ -3602,9 +3619,6 @@
     "date": [
       {
         "$date": "2021-03-27T05:37:00.000Z"
-      },
-      {
-        "$date": "2021-03-27T06:25:00.000Z"
       }
     ],
     "synopsis": "We're on the precipice of a radical and disruptive new way of conducting all manner of transactions over the Internet. While still in its infancy, blockchain technology demands attention. In this introductory-level course, learn what blockchain is and what it might mean to you. Jonathan Reichental—named one of the world's top 100 CIOs in 2017—dives into blockchain technology from a conceptual perspective. The course is primarily non-technical by design, intended for those working in business leadership positions, data science, and IT management.<br /><br />Jonathan begins by describing some of the current challenges with the Internet, including existing risks and security problems such as identity management. Next, he describes how traditional online databases function, so that you have a basis for how the blockchain redesigns this function. He then describes how the blockchain becomes a potential solution for many of the existing limitations of online databases. Since the blockchain has its genesis in Bitcoin—the digital currency—he provides some background on that too. He also discusses how blockchain technology actually offers new capabilities beyond simply solving old problems. To wrap up the course, Jonathan shares steps you can take in your organization to understand the implications of the blockchain.",
