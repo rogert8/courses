@@ -1,6 +1,25 @@
 {
   "courses": [
     {
+      "index": 209,
+      "title": "Championing the Customer in Everything You Do",
+      "instructor": "Brad Cleveland",
+      "date_completed": "2024-12-31",
+      "date": [
+        {
+          "$date": "2024-12-31T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Most people agree that focusing on customers is extremely important, but how do you actually deliver an experience that customers will remember? This course, appropriate for every role, provides a relevant short introduction to customer experience (CX) and shows you why each person in an organization is an indispensable part of its success.  Explore how every department’s touch point affects customer perception to get a richer understanding of CX and its significance in modern business. Instructor Brad Cleveland gives an overview of the skills and know-how required to navigate the CX journey, drive team support and enterprise-wide collaboration, reflect and adapt, celebrate wins, and continuously improve. By the end of this course, you’ll be prepared to commit to proactive behaviors that consistently prioritize and enhance the customer experience across all interactions and functions.",
+      "objectives": null,
+      "skills": ["Customer Experience"],
+      "comments": null,
+      "url": "https://www.linkedin.com/learning/championing-the-customer-in-everything-you-do",
+      "certs": [
+        "CertificateOfCompletion_ChampioningTheCustomerInEverythingYouDo_LI.pdf"
+      ]
+    },
+    {
       "index": 208,
       "title": "GitHub Codespaces for Students",
       "instructor": "David Teather",
