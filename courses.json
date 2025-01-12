@@ -1,5 +1,29 @@
 [
   {
+    "index": 210,
+    "title": "Build a JavaScript AI App with React and the OpenAI API",
+    "instructor": "Morten Rand-Hendriksen",
+    "date_completed": "2025-01-11",
+    "date": [
+      {
+        "$date": "2025-01-11T19:19:00.000Z"
+      }
+    ],
+    "synopsis": "In this course, learn how to integrate the OpenAI API into a JavaScript-based web app. Join instructor Morten Rand-Hendriksen as he takes a React-based weather app, adds a heavy dose of AI, and creates an interactive experience that knows what location you want weather information from, explains the weather data in simple language, and even suggests what to wear. Through this project-based course, Morten teaches you about API integration, user-based authentication, storing user tokens in a ServiceWorker, task-based API configuration, and sending and receiving requests to the API.",
+    "objectives": null,
+    "skills": [
+      "OpenAI API",
+      "JavaScript",
+      "React.js",
+      "Artificial Intelligence (AI)"
+    ],
+    "comments": "This is a VERY cool course!<br />(This is the course that I mentioned that I had started earlier, before pausing to take a course on GitHub Codespaces.)<br /><br />We started with a GitHub Codespace that had a JavaScript/React weather app which used the OpenWeatherMap API. Then we used the OpenAI API with a couple of different models - one to turn that location we used to get the weather from OpenWeatherMap into a more readable, informative representation, and then another (newer) model to take a prompt that included a question about the weather in a particular location, and return the current temp and wind values, as well as conversational prose about the weather there, even giving advice on what to wear outside.",
+    "url": "https://www.linkedin.com/learning/build-a-javascript-ai-app-with-react-and-the-openai-api",
+    "certs": [
+      "CertificateOfCompletion_BuildAJavaScriptAIAppWithReactAndTheOpenAIAPI_LI.pdf"
+    ]
+  },
+  {
     "index": 209,
     "title": "Championing the Customer in Everything You Do",
     "instructor": "Brad Cleveland",
