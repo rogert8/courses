@@ -1,6 +1,25 @@
 {
   "courses": [
     {
+      "index": 211,
+      "title": "Fundamentals of Agentic AI: Business Implications and Ethical Insights",
+      "instructor": "Zachary M. Kass",
+      "date_completed": "2025-01-18",
+      "date": [
+        {
+          "$date": "2025-01-18T19:19:00.000Z"
+        }
+      ],
+      "synopsis": "Looking to boost your understanding of agentic AI? This course was designed for you. Join instructor and AI expert Zach Kass as he explores the impact of agentic AI on businesses and teams, sharing real-world case studies and insights on practical applications, ethical considerations, and more. Discover how intelligent agents are designed, as well as their historical development, underlying mechanisms, and core functionalities. Along the way, Zack analyzes the current and future role of agentic AI in a wide variety of business roles across different organizational levels and industries. Upon completing this course, you’ll be equipped with a solid understanding of agentic AI and its potential applications across your organization.",
+      "objectives": null,
+      "skills": ["Artificial Intelligence for Business", "AI Agents"],
+      "comments": null,
+      "url": "https://www.linkedin.com/learning/fundamentals-of-agentic-ai-business-implications-and-ethical-insights",
+      "certs": [
+        "CertificateOfCompletion_FundamentalsOfAgenticAIBusinessImplicationsAndEthicalInsights_LI.pdf"
+      ]
+    },
+    {
       "index": 210,
       "title": "Build a JavaScript AI App with React and the OpenAI API",
       "instructor": "Morten Rand-Hendriksen",
